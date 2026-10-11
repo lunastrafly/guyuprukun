@@ -1,8 +1,8 @@
 <div align="center">
-
-# 🎬 MOVIE TIME 🍿
-![Watching](https://tenor.com/kMnVW9ewmgJ.gif)
-
-<img src="https://tenor.com/kMnVW9ewmgJ.gif" width="400" alt="Watching Movie">
-
-### 🍿 *Shhh... Filmnya udah mau mulai!* 🎬
+  <h2>🎬 POWERED BY PETANI GONDHES KEDIRI🍿</h2>
+  <kbd>
+    <marquee scrollamount="3" width="60%">
+      🍿 🧑‍💻 📺 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🎬 🎞️ 🍿 🥤 🛋️
+    </marquee>
+  </kbd>
+</div>
