@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lunastrafly/guyuprukun/refs/heads/main/20261012_204047.png", group-title="INFORMASI", MukriOne
+https://stream.radiojar.com/7csmg90fuqruv
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E1 
 https://cdn.dubbindo.site/dubbing/upload/videos/2023/04/GW4pmzueRHa61j2j7Y1Z_09_00f03bb13ec3503fa5337ffdbcf2b8a8_video_480p_converted.mp4
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E2 
@@ -776,7 +778,8 @@ https://stream.playcdn.de/playlist/acc1a27580879b1452a64c0812fd622f/3/480.m3u8?x
 https://stream.playcdn.de/playlist/06a6d84c317d5e1e70a38e2e3ea17b0e/3/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p12910046_b_h8_aa.jpg?w=1280&h=720", group-title="BEST SERIES", MacGyver NEW S1E21
 https://stream.playcdn.de/playlist/6630a769f2d3bc04a0b0d96f532af314/3/480.m3u8?x=1
-
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p28270848_v_h8_ac.jpg?w=1280&h=720", group-title="SPECIAL MOVIES 3", Fight Or Flight
+https://stream.playcdn.de/playlist/b177352eb45dd097d435dad206da102f/4/480.m3u8?x=1
 
 
 
