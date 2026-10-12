@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lunastrafly/guyuprukun/refs/heads/main/20261012_204047.png", group-title="INFORMASI", MukriOne
-https://stream.radiojar.com/7csmg90fuqruv
+http://14.224.215.173:3000/companion/api/manifest/dash/id/2MFuo-IfHJ4?local=true&unique_res=1&check=ys18ZpAv8yMhqExBu2altBQfDz_U-vIf1SNUfn6WHuA=
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E1 
 https://cdn.dubbindo.site/dubbing/upload/videos/2023/04/GW4pmzueRHa61j2j7Y1Z_09_00f03bb13ec3503fa5337ffdbcf2b8a8_video_480p_converted.mp4
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E2 
