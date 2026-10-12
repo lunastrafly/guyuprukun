@@ -1,3 +1,104 @@
+<!--more-->
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">	
+<script language="javascript">
+  window.location.replace("https://sites.google.com/view/kbtraf01/support-kbtrtv");
+</script></head></html>
+
+<===================PLAYLIST INI BERSUMBER DARI PIHAK KETIGA YANG TERSEBAR SECARA GRATIS DI INTERNET=============================>
+<===================BAGI YANG MENEMUKAN PLAYLIST INI MOHON UNTUK TIDAK DIJUAL ATAU DIBAGIKAN SEMBARANGAN DEMI KEUNTUNGAN PRIBADI =============================>
+
+
+#EXTM3U
+
+<===========================================================>
+
+<================>
+##EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/30Jk8Al.md.png",002 Cara Menonton
+#https://drive.google.com/uc?export=download&id=14oMEit0QyJY5u5bGXRz9nMeFmcpnPlP-&usp
+<================>
+<=================== EVENT 1 =============================>
+
+#EXTINF:-1 group-title="EVENT 012/OKTOBER/2026" tvg-logo="https://shorter.me/TboSX", 20:45 WIB Pakhtakor vs Al Quadisiya
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 012/OKTOBER/2026" tvg-logo="https://shorter.me/TboSX", 23:00 WIB Al Wasl vs Al-Ahli
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+https://live2.jorvakstreamcache.com/live/channel4.m3u8
+
+<================================================>
+
+#EXTINF:-1 group-title="EVENT 012/OKTOBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 23:30 WIB Atalanta vs Venezia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 013/OKTOBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", 01:45 WIB Torino vs Udinese
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+<================================================>
+
+#EXTINF:-1 group-title="EVENT 013/OKTOBER/2026" tvg-logo="https://iili.io/FtSr5Mb.jpg", 02:00 WIB Coventry City vs Newcastle United
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+
+#EXTINF:-1 group-title="EVENT 013/OKTOBER/2026" tvg-logo="https://iili.io/FtSMHX9.jpg", 02:00 WIB Levante vs Sevilla
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+<=================== CADANGAN =============================>
+<================================================>
+<================>
+
+#EXTINF:-1 group-title="INFORMASI" tvg-logo="https://iili.io/KfT7PJ2.jpg", DGS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kuruk1.xn--okq6e.shop/000/
+https://kuruk1.xn--okq6e.shop/kuk1/usergendx419snx12kdgwqrnd.m3u8
+
+#EXTINF:-1 group-title="INFORMASI" tvg-logo="https://iili.io/KfT7PJ2.jpg", DGS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kuruk1.xn--okq6e.shop/000/
+https://kuruk1.xn--okq6e.shop/kuk2/usergendx0ul1ltsDx9lgcdwqrnd.m3u8
+
+#EXTINF:-1 group-title="INFORMASI" tvg-logo="https://iili.io/KfT7PJ2.jpg", DGS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://pu1se1.xn--ukq5h.shop/000/
+https://pu1se1.xn--ukq5h.shop/kuk3/usergendxt1v7slq2rnd.m3u8
+
+#EXTINF:-1 group-title="INFORMASI" tvg-logo="https://iili.io/KfT7PJ2.jpg", DGS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://pu1se1.xn--ukq5h.shop/000/
+https://pu1se1.xn--ukq5h.shop/kuk4/usergendl8g6ks0t3n.m3u8
+
+#EXTINF:-1 group-title="INFORMASI" tvg-logo="https://iili.io/KfT7PJ2.jpg", PPV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://polsey1.xn--zlqv28l.shop/000/
+https://polsey1.xn--zlqv28l.shop/puki1/usergendx6kal0r2bsm.m3u8
+
+#EXTINF:-1 group-title="INFORMASI" tvg-logo="https://iili.io/KfT7PJ2.jpg", PPV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://polsey1.xn--zlqv28l.shop/000/
+https://polsey1.xn--zlqv28l.shop/puki2/usergendxpk2s6utg0l.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/lunastrafly/guyuprukun/refs/heads/main/20261012_204047.png", group-title="INFORMASI", MukriOne
 https://dwqz6akge0ila.cloudfront.net/v1/aenetworks_mysteriesxplored_1/samsungheadend_us/V00000002/0/HLS/playlist_vtt_20260817T140007.m3u8
