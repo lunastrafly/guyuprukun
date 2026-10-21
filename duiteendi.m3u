@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/MotorvisionTV2.png" group-title="MUKR1 TEST", MotorVision
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E1 
 https://cdn.dubbindo.site/dubbing/upload/videos/2023/04/GW4pmzueRHa61j2j7Y1Z_09_00f03bb13ec3503fa5337ffdbcf2b8a8_video_480p_converted.mp4
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E2 
@@ -1136,6 +1138,9 @@ https://stream.playcdn.de/playlist/35732511b22faf9419eec900df82ff62/1/0.m3u8?x=1
 https://stream.playcdn.de/playlist/c51068147520d2c626b3d6942d783b6a/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2016/10/operation-mekong.jpg?w=1000&h=666&crop=1&resize=681%2C454" group-title="SPECIAL MOVIES 3", Operation Mekong
 https://stream.playcdn.de/playlist/fd7e9da1591740214dbeb639d7e2f9f1/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://miro.medium.com/v2/resize:fit:1374/format:webp/1*-RW8IcWyPS-iLHEPnedTQg@2x.jpeg" group-title="HORROR AND THRILLER", About a Place in the Kinki Region
+https://stream.playcdn.de/playlist/9b71c161f58ed356004c710994a972f3/2/480.m3u8?x=1
+
 
 
 
