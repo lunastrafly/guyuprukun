@@ -132,6 +132,15 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1
 #EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/MotorvisionTV2.png" group-title="POJOK GAME BESOWO", MotorVision
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 
+#EXTINF:-1 tvg-id="TNT 4" tvg-logo="https://i.ibb.co.com/yJ8TWnb/Tntsports4.png group-title="Sports",TNT SPORTS 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+#EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/MotorvisionTV2.png" group-title="POJOK GAME BESOWO", MotorVision
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+
+
 ---------------
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E1 
 https://cdn.dubbindo.site/dubbing/upload/videos/2023/04/GW4pmzueRHa61j2j7Y1Z_09_00f03bb13ec3503fa5337ffdbcf2b8a8_video_480p_converted.mp4
