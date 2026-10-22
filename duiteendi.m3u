@@ -129,8 +129,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
-#EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/MotorvisionTV2.png" group-title="POJOK GAME BESOWO", MotorVision
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+
 
 #EXTINF:-1 tvg-id="TNT 4" tvg-logo="https://i.ibb.co.com/yJ8TWnb/Tntsports4.png group-title="POJOK GAME BESOWO",TNT SPORTS 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1405,12 +1404,22 @@ https://stream.playcdn.de/playlist/24783edebdd5bf72476b9be538818887/4/480.m3u8?x
 https://stream.playcdn.de/playlist/1ed020753d697e09524c846d46f1082d/3/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_i4OA_4-z4UDt720inVNh59CkWJIpDFfebkOZAUiZgkPUXZXI4x3a7FUJ&s=10" group-title="SPECIAL MOVIES 4", Redeeming Love
 https://stream.playcdn.de/playlist/23dd2f4f0ed072e45085c5baf2be4a36/3/480.m3u8?x=1
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpIL9BvWQgaFPWVQ1yJcJkxuVNkARrvRHdt428Km6pQw&s=10" group-title="SPECIAL MOVIES 4", Gone Girl
+https://stream.playcdn.de/playlist/86b397a99a351a0cc66d180707c69038/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyoMbKNHPB4fg7SdXlwcvFH6atTBLTeTtiVWnSp46rrjWJ_3PQsx9SpW4&s=10" group-title="SPECIAL MOVIES 4", Fight Club
+https://stream.playcdn.de/playlist/1a409f06edecc6f188b94a66ea213948/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTANVxweBJsFSEFosVZ_pbW5Tm674w5iXqtENSctPcG_Q&s=10" group-title="DOCUMENTARY", Sir Alex Ferguson: Never Give In
+https://stream.playcdn.de/playlist/d3ccfc13c8e61c5e25e15263d2dcf5be/5/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/lE6in7MwS0bUuqCAe-oTt0iuqrc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p29200482_v_h8_ac.jpg" group-title="J MOVIES", Boku no Kokoro no Yabai Yatsu
+https://stream.playcdn.de/playlist/55d6311915bd796037250f01a3fbb974/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTulMhdsXqM1EYAtOujSJVy6dK8RevqdOHFPe4IJSe4mg&s=10" group-title="J MOVIES", Cosmic Princess Kaguya! 
+https://stream.playcdn.de/playlist/210989c01d2a5daedeec583590e7e0d4/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK6yD97JplrvrnsOtMo00qQhUGkpkr4VvocIpg8nnZbw&s=10" group-title="J MOVIES", Kimi no na wa.
+https://stream.playcdn.de/playlist/89a28d4a5c6c06ac919615110451d8d9/5/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcI_MBGoxGIoduvCz41bpGBoMYyADQPYe3GO0xgIZuiw&s=10" group-title="HORROR AND THRILLER", Midsommar
+https://stream.playcdn.de/playlist/4cb81415f0a5f4a1a9e40761c502cd99/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://montasefilm.com/wp-content/uploads/2018/06/the-nun-poster-head.jpg" group-title="HORROR AND THRILLER", The Nun
+https://stream.playcdn.de/playlist/9c644198e4ac347f5449357c0c44090f/3/480.m3u8?x=1
 
 
 
