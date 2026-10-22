@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/MotorvisionTV2.png" group-title="MUKR1 TEST", MotorVision
+#EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/MotorvisionTV2.png" group-title="POJOK GAME BSW", MotorVision
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E1 
 https://cdn.dubbindo.site/dubbing/upload/videos/2023/04/GW4pmzueRHa61j2j7Y1Z_09_00f03bb13ec3503fa5337ffdbcf2b8a8_video_480p_converted.mp4
@@ -1222,6 +1222,61 @@ https://stream.playcdn.de/playlist/07f0451398edb69a3913ec02e797dbf5/3/480.m3u8?x
 https://stream.playcdn.de/playlist/b4494c755932bfb39eb4bd915d4796eb/3/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://image.idntimes.com/post/20260423/1000233120_d61f5f98-907f-445f-89ce-761aa1363cc8.jpg?tr=w-640,f-webp,q-75&width=640&format=webp&quality=75" group-title="REST TIME SERIES", E5 Fresh off the Sea in Calape
 https://stream.playcdn.de/playlist/01fb036a83d9fd5fa92eedc5f000680b/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://mutzkoffieochtend.wordpress.com/wp-content/uploads/2017/11/chennai-express.jpg" group-title="❤️REQUESTED MOVIES❤", Chennai Express SUB
+https://stream.playcdn.de/playlist/70c7308d8b9d19cb1953346cbc0b50cd/5/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://nos.jkt-1.neo.id/cdn.froyonion.com/images/blogdetail/7272e0ca39d60ac6159a1cd2d0fa300da316d225.jpg" group-title="❤️REQUESTED MOVIES❤", Maharaja
+https://stream.playcdn.de/playlist/6a0764cfd7050e92941b859f9466b139/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_zqm3b5xbhY/maxresdefault.jpg" group-title="❤️REQUESTED MOVIES❤", Kill 2024
+https://stream.playcdn.de/playlist/9b966a73625ff26f1c67ccdd8c863c93/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://dl.moviesr.net/images2/ZMVZj.jpg" group-title="SPECIAL MOVIES 4", Love You to Debt
+https://stream.playcdn.de/playlist/523d82135d3b05a7b41360352b4cb7a8/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZFi7S6zERuSSB7G01gSAdzEhUBwCrocx6-Fi5fKEZKwpe-HnhBSsyqc0&s=10" group-title="SPECIAL MOVIES 4", The Con-Heartist
+https://stream.playcdn.de/playlist/93ca2ef08d5110911a02c99f06e64f31/5/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfj1uQPlnfboN6Tu2Ob2FNk0IZX9LpEanXmaGPrFdrPA&s=10" group-title="SPECIAL MOVIES 4", Friend Zone
+https://stream.playcdn.de/playlist/e44090185480530899b11313b0940209/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3qDeWXR-L8J7To5w-xP2eVIX83tsGU67LQFvXzN_v0w&s=10" group-title="SPECIAL MOVIES 4", Due Date
+https://stream.playcdn.de/playlist/a0599065a093549f7248f746c2e6bdfd/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://s.yimg.com/lo/mysterio/api/124e786b72a59bd609929441caefa3cc35743caca35e47d44f10d9762f7703e1/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomingsoon_net_477%2F8cedb47796a4f96de855e3237b6bae8b" group-title="SPECIAL MOVIES 4", Stolen
+https://stream.playcdn.de/playlist/27e4c35bef889594d1bec7fa497f52f3/5/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p192248_v_h10_am.jpg?w=960&h=540" group-title="SPECIAL MOVIES 4", The Hangover
+https://stream.playcdn.de/playlist/9621fd737d0db58bcffd331dc43c01ea/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3KA1Op3QCuPbYu5n5-elNfYPFtYQNJ6rfW0LzWuGlwUUMSYJzPtUeTssQ&s=10" group-title="SPECIAL MOVIES 4", Transformers
+https://stream.playcdn.de/playlist/2adf40c7c0a3ddca33a141b233d82976/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8fLwOKAjBh5JR_qP43sH_aQZyWXvRTImqN-LHtSn4lw&s=10" group-title="SPECIAL MOVIES 4", Transformers: Revenge of the Fallen
+https://stream.playcdn.de/playlist/5fdf88f565a5b246b34a37a05229819d/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_iUZB55ya33kij5zZRUhYX07DEJNL0K0Mfp3T9OUomnKXnfP0mI2-T6r&s=10" group-title="SPECIAL MOVIES 4", Transformers: Dark of the Moon 
+https://stream.playcdn.de/playlist/703a8b452a33468e7a784f95aa433777/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4ODAxMzU2OF5BMl5BanBnXkFtZTcwOTU2NTI4Ng@@._V1_QL75_UX500_CR0,46,500,281_.jpg" group-title="SPECIAL MOVIES 4", Seeking Justice
+https://stream.playcdn.de/playlist/5ca35247d696162f2cbe42773d961407/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWR2Arf4GR8PryORbEZtPdinBS1cOj_jwNGh2fJCR4-g&s=10" group-title="SPECIAL MOVIES 4", Unknown
+https://stream.playcdn.de/playlist/e5c5b48ca269574c90c1ae56066f6d84/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4-gsrMuTgUucNfarkwCpk3P9JP7s50U8z7WjnYtpS-w&s=10" group-title="SPECIAL MOVIES 4", Non Stop
+https://stream.playcdn.de/playlist/f07a513fe897e4b9446592c105eabb16/5/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr8IM9IfURSp3DNWhcPi2u617EowO1O0e02Glt4k3BtQ&s=10" group-title="SPECIAL MOVIES 4", American Gangster
+https://stream.playcdn.de/playlist/68bd999c69c03b4ee27b472b104e22e5/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1nbBBWqOyMbym9Z2DYSPtaA-inXIWjMwQYRlPD0MIQ&s=10" group-title="SPECIAL MOVIES 4", 10 Things I Hate About You
+https://stream.playcdn.de/playlist/3297606a779c360b2d7c4b9514c5b265/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbQYYnTOph06pn5GzPFdLc0fFsL2k5oyCZxVuZE2jLig&s=10" group-title="SPECIAL MOVIES 4", La La Land
+https://stream.playcdn.de/playlist/130a94614a0419b6c427b249396e6591/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZWM92N1YC5R54-mxjOlvbKQGF82IZ54dMVIB9N1rCbw&s=10" group-title="SPECIAL MOVIES 4", The Notebook
+https://stream.playcdn.de/playlist/24783edebdd5bf72476b9be538818887/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSg63aXhWYW31gLqdyKUtHDHNMIrUG1nuWXbcHJhcvV4wS3-uB6Vk5cuyd&s=10" group-title="SPECIAL MOVIES 4", Man In Love
+https://stream.playcdn.de/playlist/1ed020753d697e09524c846d46f1082d/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_i4OA_4-z4UDt720inVNh59CkWJIpDFfebkOZAUiZgkPUXZXI4x3a7FUJ&s=10" group-title="SPECIAL MOVIES 4", Redeeming Love
+https://stream.playcdn.de/playlist/23dd2f4f0ed072e45085c5baf2be4a36/3/480.m3u8?x=1
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
