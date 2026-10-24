@@ -1,4 +1,5 @@
 #EXTM3U
+<================================================>
 
 #EXTINF:-1 tvg-id="TNT 4" tvg-logo="https://i.ibb.co.com/yJ8TWnb/Tntsports4.png group-title="POJOK GAME BESOWO",TNT SPORTS 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -9,8 +10,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1
 #EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/MotorvisionTV2.png" group-title="POJOK GAME BESOWO", MotorVision
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 
-<================================================>
-<================>
 
 
 
@@ -1075,29 +1074,29 @@ https://stream.playcdn.de/playlist/edc33887f9fdc011febcf0884decc355/3/480.m3u8?x
 https://stream.playcdn.de/playlist/c0225b2765b070d77de7b0ebc68474ab/3/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p15996893_v_h8_ab.jpg?w=1280&h=720" group-title="DOCUMENTARY", The Biggest Little Farm 
 https://stream.playcdn.de/playlist/092b32cf6099b1747017d2c5e0918e4a/5/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://www.nda.ac.uk/wp-content/uploads/1-1-9.jpg.webp" group-title="REST TIME SERIES", S1E1 Amazing Interiors
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAbaYzBFWIu826rXx69-aHm6W0NnmxTp0LDfsyGD4LSv3OpKXDyJQax4i4&s=10" group-title="REST TIME SERIES", S1E1 Amazing Interiors
 https://stream.playcdn.de/playlist/5b9ab692485f058af8323a9b9fe3053d/5/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://www.nda.ac.uk/wp-content/uploads/1-1-9.jpg.webp" group-title="REST TIME SERIES", S1E2 Amazing Interiors
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAbaYzBFWIu826rXx69-aHm6W0NnmxTp0LDfsyGD4LSv3OpKXDyJQax4i4&s=10" group-title="REST TIME SERIES", S1E2 Amazing Interiors
 https://stream.playcdn.de/playlist/a92b35c6a0bf36c601b02dcc0d5d0586/5/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://www.nda.ac.uk/wp-content/uploads/1-1-9.jpg.webp" group-title="REST TIME SERIES", S1E3 Amazing Interiors
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAbaYzBFWIu826rXx69-aHm6W0NnmxTp0LDfsyGD4LSv3OpKXDyJQax4i4&s=10" group-title="REST TIME SERIES", S1E3 Amazing Interiors
 https://stream.playcdn.de/playlist/dae331ea661249ecd49997c9bb3ad83c/5/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://www.nda.ac.uk/wp-content/uploads/1-1-9.jpg.webp" group-title="REST TIME SERIES", S1E4 Amazing Interiors
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAbaYzBFWIu826rXx69-aHm6W0NnmxTp0LDfsyGD4LSv3OpKXDyJQax4i4&s=10" group-title="REST TIME SERIES", S1E4 Amazing Interiors
 https://stream.playcdn.de/playlist/7b97fe99ebad01c31cda35af3152428f/5/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://www.nda.ac.uk/wp-content/uploads/1-1-9.jpg.webp" group-title="REST TIME SERIES", S1E5 Amazing Interiors
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAbaYzBFWIu826rXx69-aHm6W0NnmxTp0LDfsyGD4LSv3OpKXDyJQax4i4&s=10" group-title="REST TIME SERIES", S1E5 Amazing Interiors
 https://stream.playcdn.de/playlist/61d876055e06794a810c16363f76743d/5/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://www.nda.ac.uk/wp-content/uploads/1-1-9.jpg.webp" group-title="REST TIME SERIES", S1E6 Amazing Interiors
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAbaYzBFWIu826rXx69-aHm6W0NnmxTp0LDfsyGD4LSv3OpKXDyJQax4i4&s=10" group-title="REST TIME SERIES", S1E6 Amazing Interiors
 https://stream.playcdn.de/playlist/bef5c4e3e359393e583a864b26f8cd22/5/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://www.nda.ac.uk/wp-content/uploads/1-1-9.jpg.webp" group-title="REST TIME SERIES", S1E7 Amazing Interiors
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAbaYzBFWIu826rXx69-aHm6W0NnmxTp0LDfsyGD4LSv3OpKXDyJQax4i4&s=10" group-title="REST TIME SERIES", S1E7 Amazing Interiors
 https://stream.playcdn.de/playlist/637cb66df54bec15916442968f21740f/5/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://www.nda.ac.uk/wp-content/uploads/1-1-9.jpg.webp" group-title="REST TIME SERIES", S1E8 Amazing Interiors
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAbaYzBFWIu826rXx69-aHm6W0NnmxTp0LDfsyGD4LSv3OpKXDyJQax4i4&s=10" group-title="REST TIME SERIES", S1E8 Amazing Interiors
 https://stream.playcdn.de/playlist/acf99ec9912282201e9af3c4fd54eecb/5/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://www.nda.ac.uk/wp-content/uploads/1-1-9.jpg.webp" group-title="REST TIME SERIES", S1E9 Amazing Interiors
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAbaYzBFWIu826rXx69-aHm6W0NnmxTp0LDfsyGD4LSv3OpKXDyJQax4i4&s=10" group-title="REST TIME SERIES", S1E9 Amazing Interiors
 https://stream.playcdn.de/playlist/cd554c667b9ed59ea5bb7b836667084c/5/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://www.nda.ac.uk/wp-content/uploads/1-1-9.jpg.webp" group-title="REST TIME SERIES", S1E10 Amazing Interiors
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAbaYzBFWIu826rXx69-aHm6W0NnmxTp0LDfsyGD4LSv3OpKXDyJQax4i4&s=10" group-title="REST TIME SERIES", S1E10 Amazing Interiors
 https://stream.playcdn.de/playlist/87c50e6bc2e90b1e10cd0c1807fe77d8/5/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://www.nda.ac.uk/wp-content/uploads/1-1-9.jpg.webp" group-title="REST TIME SERIES", S1E11 Amazing Interiors
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAbaYzBFWIu826rXx69-aHm6W0NnmxTp0LDfsyGD4LSv3OpKXDyJQax4i4&s=10" group-title="REST TIME SERIES", S1E11 Amazing Interiors
 https://stream.playcdn.de/playlist/e429c383f3573020eb911b4fc1c5afd4/5/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://www.nda.ac.uk/wp-content/uploads/1-1-9.jpg.webp" group-title="REST TIME SERIES", S1E12 Amazing Interiors
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAbaYzBFWIu826rXx69-aHm6W0NnmxTp0LDfsyGD4LSv3OpKXDyJQax4i4&s=10" group-title="REST TIME SERIES", S1E12 Amazing Interiors
 https://stream.playcdn.de/playlist/b9df3dc3384005dd3854d8f458bdc879/5/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://images.toopa.com/669745_drawn-together1.jpg" group-title="SPECIAL MOVIES 3", The Drawn Together Movie!
 https://stream.playcdn.de/playlist/5b109945cfb9edcb0b14ca6076e3e301/4/480.m3u8?x=1
