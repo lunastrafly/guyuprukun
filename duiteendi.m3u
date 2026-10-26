@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7ymwX6Z3AOeTC3P1iCrppLcTnnEWSUy4U-S4zHyEaP1MqvsBlVFWV-VU&s=10" group-title="MUKR1 ONE",HBO BOXING
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
 #EXTINF:-1 tvg-uid="b06d5186c9a546c7a36eaf8c143548e7" data-source="VietnamCH" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png",MUTV
 #EXTGRP:MUKR1 ONE
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312824&extension=ts&play_token=3ouilCRXf9
@@ -93,6 +98,8 @@ https://stream.dubbindo.site/uvideoweb/movie/Frozen.2013.HS.720p.Dubbing.mp4
 https://stream.dubbindo.site/upload/videos/2021/03/7wZOLwPMzmWl9fbtZ1Ou_27_a4ea8a1770d9102c84e06e04871e8e64_video.mp4
 #EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-750,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_JWBCY_IVP_LAND_917x516_5327A_2025624_191357.jpg" group-title="SPECIAL MOVIES", Zathura: A Space Adventure (2005) - 
 https://cdn.dubbindo.site/uvideoweb/movie/Zathura.A.Space.Adventure.2005.TV.720p.Dubbing.mp4
+#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2024/03/05/id_1284981/1284981_720.jpg" group-title=" 🇮🇩 MOVIES", Kuyank
+https://stream.dubbindo.site/upload/videos/2026/10/tNCBNyREP38ue8lR96FY_22_ec5b04fd219e6b7cb04e525daa519122_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://www.arina.id/images/post/16_9/poster-film-na-willa-foto-visinema-studios-eqay8-lbvg_1775017683.webp" group-title=" 🇮🇩 MOVIES", NA WILLA - 
 https://cdn.dubbindo.site/dubbing/upload/videos/2026/09/fJtIYSY9O7shtBlYH9v5_02_6f422ab365b153acf2c84d44322ae2cd_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://www.gramedia.com/blog/content/images/2026/03/WhatsApp-Image-2026-03-24-at-15.00.33.jpeg" group-title=" 🇮🇩 MOVIES", Tunggu Aku Sukses Nanti - 
@@ -1315,6 +1322,23 @@ https://stream.playcdn.de/playlist/89a28d4a5c6c06ac919615110451d8d9/5/480.m3u8?x
 https://stream.playcdn.de/playlist/4cb81415f0a5f4a1a9e40761c502cd99/3/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://montasefilm.com/wp-content/uploads/2018/06/the-nun-poster-head.jpg" group-title="HORROR AND THRILLER", The Nun
 https://stream.playcdn.de/playlist/9c644198e4ac347f5449357c0c44090f/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxDwGPuzhoMyvU2tde7U30TzIcbpfRdgnrKW5kvHJVCERiplFfQN1snuM5&s=10" group-title=" 🇮🇩 MOVIES", Suamiku Lukaku
+https://stream.dubbindo.site/upload/videos/2026/10/pKocvYq5ZNIRtSemMpUL_20_a91190d193dd945d4518ccffa09bbd58_video_480p_converted.mp4
+#EXTINF:-1 tvg-logo="https://cdn.ngopibareng.id/uploads/2026/2026-04-28/film-ain-hadirkan-horor-tubuh-dan-kritik-fenomena-flexing-di-media-sosial--thumbnail-450" group-title=" 🇮🇩 MOVIES", Ain
+https://stream.dubbindo.site/upload/videos/2026/10/ZT9dyqS5dBhXsEarmYKV_19_cb502c3da207cfd1a85f37b73c397097_video_480p_converted.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8vaQjHG5b7_UHrZM7mlycibTXMF1Dxi6BBow_8kwy4qLMytCUUU0mqZI&s=10" group-title="SPECIAL MOVIES 3", Bad Apples
+https://stream.playcdn.de/playlist/14a01043978fdd90f1a7d0f25e76d99b/1/0.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHCO4C3_HYjUBBmFx_XlcKFOWIL73X5ijkLLSrR0Hb98oackccEE1Z8g8&s=10" group-title="SPECIAL MOVIES 3", The Housemaid 2025
+https://stream.playcdn.de/playlist/49e9f57bfa8e001c52febaf25d2073c5/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/HdAHQJjVGsU/maxresdefault.jpg" group-title="❤️REQUESTED MOVIES❤", La Luna
+https://stream.playcdn.de/playlist/260487706f808c063e55af6a4ea995d7/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cdnx.premiumread.com/?url=https://www.malaymail.com/malaymail/uploads/images/2024/05/07/208015.jpeg&w=1000&q=100&f=jpg&t=7" group-title="❤️REQUESTED MOVIES❤", Sheriff
+https://stream.playcdn.de/playlist/5d82bedd3db1edd7ad1bc3ab3f152f05/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRFUOGo1hOFEcIM8CNWdHfDQA4P-sM1ZQASjnCRrsJHUC4u1qRqapNrWY&s=10" group-title="❤️REQUESTED MOVIES❤", Blood Brothers: Bara Naga
+https://stream.playcdn.de/playlist/11627d7603c2c8c95c94475f438ffcbb/4/480.m3u8?x=1
+
+
+
 
 
 
