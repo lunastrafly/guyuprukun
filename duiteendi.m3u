@@ -1387,23 +1387,30 @@ https://stream.playcdn.de/playlist/11627d7603c2c8c95c94475f438ffcbb/4/480.m3u8?x
 https://stream.playcdn.de/playlist/4997493def9bcadd3eef507c293978fb/1/0.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtt-_CS_FPXJDDWFy09BadYI50yE187GKHLQZTAZwFtg&s=10" group-title="SPECIAL MOVIES 4", The Amateur
 https://stream.playcdn.de/playlist/56817c36a4cac29292642fb23ddfdd20/4/480.m3u8?x=1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://imageio.forbes.com/specials-images/imageserve/63fd531fc890109b3848cf40/Sayen-promo-art/0x0.jpg?format=jpg&width=480" group-title="SPECIAL MOVIES 4", Sayen
+https://stream.playcdn.de/playlist/3796a5884fad50d2d5ef63cfa3685aa7/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHc6wR9YBMaPo1EtyG1Km9aHH5w8J_efiOhBiLmc-Xiw&s=10" group-title="SPECIAL MOVIES 4", King Arthur
+https://stream.playcdn.de/playlist/4e101b946388562542aa0ec81392c683/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRneP4JiN6ndoTqimGJ1XpAFwzW71A1r-BrMomB8yjBDw&s=10" group-title="SPECIAL MOVIES 4", Johnny English
+https://stream.playcdn.de/playlist/e8187a7586c90bf73a38f4f782f25a69/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQLOO-aF_XoihGxU_0Pbm_3KzMugc7EqvF2ADEFhNXg&s=10" group-title="SPECIAL MOVIES 4", Johnny English Reborn
+https://stream.playcdn.de/playlist/49df44d135739db23847591b6b4e64b4/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsAhqVhdle_nWH4OHxsUTIL0YrFpo2kdk1-EZEfNCHXMKU78aYd-chNxdd&s=10" group-title="SPECIAL MOVIES 4", Mr Bean's Holiday
+https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/04/02750/1yh4ufupnjvg_n/index-v1-a1.m3u8?t=gG3i9e6fb1WTUVxbOqRdV3Xz64DSgd8pegiVtOS7-S0&s=1793033243&e=10800&f=13751624&srv=1070&asn=&sp=5500&p=0
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaBwQhN9iYkd9oLrgdVkRJVDrRQss9NFT6ZBfzHtAbWemzVRQEC4cKwGI&s=10" group-title="SPECIAL MOVIES 4", Trigger Warning
+https://stream.playcdn.de/playlist/bbd2584065cf46bd46f8b6d67e9ecdd5/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbzlSeWQSqeefGJDHgbrf8LZmndKP9cQv1J3D4RaXAWg&s=10" group-title="HORROR AND THRILLER", Longlegs
+https://stream.playcdn.de/playlist/b40c4ba3217d2b14ba23761b952020fc/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMcvircDS_BIWHtvYwJFLc1BAWejD5O9186B7ZOxl9Vg&s=10" group-title="HORROR AND THRILLER", Eden Lake
+https://stream.playcdn.de/playlist/08117c176afe82c3900f5ca72fcc087e/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://montasefilm.com/wp-content/uploads/2020/04/The-Purge.jpg" group-title="HORROR AND THRILLER", The Purge
+https://stream.playcdn.de/playlist/912b911cef1720d5ff7d433178bdeee6/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVVNXn95NlykE4O6Ts_UyLiSwghT0vwfiiVLk9nEcOpQ&s=10" group-title="HORROR AND THRILLER", Sinister
+https://stream.playcdn.de/playlist/73616b826127579510b602abb8c640b5/5/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOpLh2rMY4guIxw_UuJHsvr4h2zDiBmo7TDx5SL0u7raEQTv0e7Zr4ncA&s=10" group-title="HORROR AND THRILLER", The Night House
+https://stream.playcdn.de/playlist/9d31d27e6ad4fe3ba2d4667cf5367e52/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWsFJsPTQkymuNSfZkjeNryjo0UxdgyKDNdCyyPayy3BvVP6NIVy5DddMP&s=10" group-title="HORROR AND THRILLER", La Madre
+https://stream.playcdn.de/playlist/a7a0d9739c04c49911e594204ed77ac7/4/480.m3u8?x=1
 
 
 
