@@ -1,5 +1,28 @@
 #EXTM3U
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=119
+##KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=119&type=drm
+#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://pbs.twimg.com/profile_images/1741926534649143296/M633Pukt_400x400.jpg" group-title="⚠️PERBAIKAN SERVER ⚠️",SPOTV (V+)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=120
+##KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=120&type=drm
+#EXTINF:-1 tvg-id="SPOTV.2.id" tvg-name="SPOTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3oh_PhR7LizTy9wOPB5KMgxxcW1oq81wn8bSf2AA_3w&s=10" group-title="⚠️PERBAIKAN SERVER ⚠️",SPOTV 2 (V+)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+
+
 =========================================
 #EXTINF:-1 group-title="LIVE FOR YOU" tvg-logo="https://i.imgur.com/YwTo0oW.png", OH MY CERIA
 #KODIPROP:inputstream=inputstream.adaptive
@@ -43,7 +66,7 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 
-#EXTINF:-1 group-title="LIVE FOR YOU" tvg-logo="https://mmc.tirto.id/image/otf/398x0,q70/2022/03/01/1920px-ufc_logo_ratio-16x9.jpg",UFC
+#EXTINF:-1 group-title="LIVE FOR YOU" tvg-logo="https://mmc.tirto.id/image/otf/398x0,q70/2022/03/01/1920px-ufc_logo_ratio-16x9.jpg",UFC - Out
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd 
 
 -----------
@@ -1421,6 +1444,11 @@ https://stream.playcdn.de/playlist/73616b826127579510b602abb8c640b5/5/480.m3u8?x
 https://stream.playcdn.de/playlist/9d31d27e6ad4fe3ba2d4667cf5367e52/4/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWsFJsPTQkymuNSfZkjeNryjo0UxdgyKDNdCyyPayy3BvVP6NIVy5DddMP&s=10" group-title="HORROR AND THRILLER", La Madre
 https://stream.playcdn.de/playlist/a7a0d9739c04c49911e594204ed77ac7/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTE5ZmI1OTYtMzlhNS00NjA0LThiMDYtNmY0YWVhYTY4YjdjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="❤️REQUESTED MOVIES❤", PK
+https://stream.playcdn.de/playlist/979be950d2004cdcafe3763a8c459a07/4/480.m3u8?x=1
+
+
+
 
 
 
