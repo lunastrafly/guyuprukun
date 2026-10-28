@@ -69,6 +69,18 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/
 #EXTINF:-1 group-title="LIVE FOR YOU" tvg-logo="https://mmc.tirto.id/image/otf/398x0,q70/2022/03/01/1920px-ufc_logo_ratio-16x9.jpg",UFC - Out
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd 
 
+#EXTINF:-1 group-title="LIVE FOR YOU" tvg-logo="https://mmc.tirto.id/image/otf/398x0,q70/2022/03/01/1920px-ufc_logo_ratio-16x9.jpg",UFC LIGHT
+https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=121
+##KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=121&type=drm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Fight.Sports.id" tvg-name="Fight Sports" tvg-logo="https://mimipipi22.github.io/logo/sports/fightsports.jpg" group-title="LIVE FOR YOU",FIGHT SPORTS (V+)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
+
 -----------
 #EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://i.ibb.co.com/7dNPfNGB/Tntsports1.png" group-title="LIVE FOR YOU",TNT SPORTS 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -243,7 +255,8 @@ https://stream.dubbindo.site/uvideoweb/movie/Frozen.2013.HS.720p.Dubbing.mp4
 #EXTINF:-1 tvg-logo="https://cdn.keepo.me/images/post/covers/2019/11/18/mmain-cover-image-13d1cd33-b894-4699-8b20-e54faa5a4147.jpg" group-title="PIXAR MOVIES", FROZEN II - 
 https://stream.dubbindo.site/upload/videos/2021/03/7wZOLwPMzmWl9fbtZ1Ou_27_a4ea8a1770d9102c84e06e04871e8e64_video.mp4
 #EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-750,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_JWBCY_IVP_LAND_917x516_5327A_2025624_191357.jpg" group-title="SPECIAL MOVIES", Zathura: A Space Adventure (2005) - 
-https://stream.dubbindo.site/uvideoweb/movie/Zathura.A.Space.Adventure.2005.TV.720p.Dubbing.mp4
+https://uvideoweb.s3.ap-southeast-1.wasabisys.com/movie/Zathura.A.Space.Adventure.2005.TV.720p.Dubbing.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T060541Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=4cef3759712b2be672ed07655391e79cf207d64bf07216c4c2ece524cdcfefcc
+
 #EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2024/03/05/id_1284981/1284981_720.jpg" group-title=" 🇮🇩 MOVIES", Kuyank
 https://stream.dubbindo.site/upload/videos/2026/10/tNCBNyREP38ue8lR96FY_22_ec5b04fd219e6b7cb04e525daa519122_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://www.arina.id/images/post/16_9/poster-film-na-willa-foto-visinema-studios-eqay8-lbvg_1775017683.webp" group-title=" 🇮🇩 MOVIES", NA WILLA - 
