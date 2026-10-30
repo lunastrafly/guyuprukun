@@ -78,8 +78,6 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_c
 ##KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=121&type=drm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Fight.Sports.id" tvg-name="Fight Sports" tvg-logo="https://mimipipi22.github.io/logo/sports/fightsports.jpg" group-title="LIVE FOR YOU",FIGHT SPORTS (V+)
-https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
 
 -----------
 #EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://i.ibb.co.com/7dNPfNGB/Tntsports1.png" group-title="LIVE FOR YOU",TNT SPORTS 1
@@ -116,127 +114,129 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 ____________________________________
 
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E1 
-https://driveduo.s3.ap-southeast-1.wasabisys.com/uploads/d580e96c-ef90-4f87-8082-b89f180f9d57/d580e96c-ef90-4f87-8082-b89f180f9d57?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T050813Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=9c253ea501e395986d7afe6a44ec5329614cf26d32f32758c15778f01127a2f6
+https://stream.dubbindo.site/uvideoweb/series/Gravity.Falls/Gravity.Falls.S01E01.Dubbing.mp4
+
+https://stream.dubbindo.site/driveduo/uploads/d580e96c-ef90-4f87-8082-b89f180f9d57/d580e96c-ef90-4f87-8082-b89f180f9d57
 
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E2 
-https://uvideoweb.s3.ap-southeast-1.wasabisys.com/series/Gravity.Falls/Gravity.Falls.S01E02.Dubbing.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T070927Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=f6a5b4eb02f077ff1b98713f056fc014a7b0a9436dd8ac82dfe2443902a82690
+https://stream.dubbindo.site/uvideoweb/series/Gravity.Falls/Gravity.Falls.S01E02.Dubbing.mp4
 
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E3 
-https://uvideoweb.s3.ap-southeast-1.wasabisys.com/series/Gravity.Falls/Gravity.Falls.S01E03.Dubbing.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T040548Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=ca74af33d193fa0d8d8b7024a13bcc08b08a5169fddbd5e2ac1a29a8329cb3a4
+https://stream.dubbindo.site/uvideoweb/series/Gravity.Falls/Gravity.Falls.S01E03.Dubbing.mp4
 
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E4
-https://uvideoweb.s3.ap-southeast-1.wasabisys.com/series/Gravity.Falls/Gravity.Falls.S01E04.Dubbing.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T030743Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=57bd752301f2f47fded27b79515bce1a1daaf246a7856e44ffa056a88cdceaa1
+https://stream.dubbindo.site/uvideoweb/series/Gravity.Falls/Gravity.Falls.S01E04.Dubbing.mp4
 
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E5
-https://uvideoweb.s3.ap-southeast-1.wasabisys.com/series/Gravity.Falls/Gravity.Falls.S01E05.Dubbing.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T073237Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=724ef80587969d18bf1c357cb1b0722173b4d1b77f5934d8966ee2df68a5daa4
+https://stream.dubbindo.site/uvideoweb/series/Gravity.Falls/Gravity.Falls.S01E05.Dubbing.mp4
 
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E6
-https://uvideoweb.s3.ap-southeast-1.wasabisys.com/series/Gravity.Falls/Gravity.Falls.S01E06.Dubbing.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T073522Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=523a30c5a6a4e4a34456bcedf2cca25ab463c44eb9748f74765a67f41c277d7b
+https://stream.dubbindo.site/uvideoweb/series/Gravity.Falls/Gravity.Falls.S01E06.Dubbing.mp4
 
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E7
-https://uvideoweb.s3.ap-southeast-1.wasabisys.com/series/Gravity.Falls/Gravity.Falls.S01E07.Dubbing.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T074230Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=96af03897790fae54234c06696e3ef8959ea90ae0b301e07732d0dd8c8491930
+https://stream.dubbindo.site/uvideoweb/series/Gravity.Falls/Gravity.Falls.S01E07.Dubbing.mp4
 
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E8
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2023/04/bJH93yv2TqZjwUpX9gmU_11_535ff8c6643400245fd2264e0f869312_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T074640Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=82cafb01baf3ccdbbc82fbbd2a2b3aadfbfdbd55decd456baae8c36d75ecd947
+https://stream.dubbindo.site/uvideoweb/series/Gravity.Falls/Gravity.Falls.S01E08.Dubbing.mp4
 
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E9
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2023/04/NmfcjDGFYf64TUnTVDBX_11_e42e4a07f8867b035432f71d02df8070_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T074826Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=9c420767e4f1e06c18ff351de2fbaa368081f044f3a27d36cf52146e9fffb0e0
+https://stream.dubbindo.site/uvideoweb/series/Gravity.Falls/Gravity.Falls.S01E09.Dubbing.mp4
 
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E10
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2023/04/HZA5H5ScnUI5AifMIa4n_11_2f7e9099d3a39f0a0d3bea4fcc1f46e2_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T075011Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=e08828be7aa74d022d17224c7fedb7ae63b29b51411700b509be932a05f5a89f
+https://stream.dubbindo.site/uvideoweb/series/Gravity.Falls/Gravity.Falls.S01E10.Dubbing.mp4
 
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E11
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2023/04/tu1ZqOF5s2k6CUBe1xsU_11_5d480826ee66fd75b35d84a19dbbe7f5_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T075056Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=c780790886bfbfafea5f9d69d2f084bfc50416ffd81c87f80645211a6dcac81f
+https://stream.dubbindo.site/uvideoweb/series/Gravity.Falls/Gravity.Falls.S01E11.Dubbing.mp4
 
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E12
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2023/04/X1oLaeC1CmygtxSalJ7b_11_8b3fe330fb4e3e01a5d6dd52c3622a97_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T075145Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=6f2b31d4674ee75e9f5c5317106652470f8c124fb35d4e6b5a45d697873651cd
+https://stream.dubbindo.site/Dubbing/TV.Series/Gravity.Falls/Gravity.Falls.S01E12.Dubbing.mp4
 
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E13
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2023/04/QtiLdbDANgA6FPQAYoYV_11_6e31bf57b9f67122e02f6930174c2897_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T075302Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=fbc7e6620057d4cf097eff8d33e78041bdde3e288c392abdb0201695cb268b79
+https://stream.dubbindo.site/Dubbing/TV.Series/Gravity.Falls/Gravity.Falls.S01E13.Dubbing.mp4
 
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E14
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2023/04/MmENjUzHQKWxEznwCk6L_12_885468fb0370d10b0bdad18b698400c7_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T075410Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=81290e0df064d7299bf18f5dd77fff5b426086c97cb118157687835464a3c164
+https://stream.dubbindo.site/Dubbing/TV.Series/Gravity.Falls/Gravity.Falls.S01E14.Dubbing.mp4
 
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E15
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2023/04/pwWkHejpFdhwupFpLpGD_12_df1681b2cb5363bcf96b73f562e46aa1_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T075745Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=33b69e985e40b18900e77daeba187b8292a952a24fa0e7cc7e3b83b7afea75a5
+https://stream.dubbindo.site/Dubbing/TV.Series/Gravity.Falls/Gravity.Falls.S01E15.Dubbing.mp4
 
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E16
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2023/04/eHZBAirKNvBs552laWZp_12_281491582bb8d7544b1c70e5f886e76a_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T080330Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=ca8bd870e6c00da27e03431949336d676adfbd25100c13e9a7c6bcfa8e7bd78d
+https://stream.dubbindo.site/Dubbing/TV.Series/Gravity.Falls/Gravity.Falls.S01E16.Dubbing.mp4
 
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E17
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2023/04/roL8AEzNrkM2QHWjKWHw_12_680d8e2579e5921e4cebef88a25ffe7f_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T080638Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=26bb41a5f7dc2ac4d088f036f56a2819954cf8303dd04bc014033f74c7117525
+https://stream.dubbindo.site/Dubbing/TV.Series/Gravity.Falls/Gravity.Falls.S01E17.Dubbing.mp4
 
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E18
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2023/04/vVGECyYilUe53nUEYZbX_12_190f8f56576c9b3a8824b5f7703299fa_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T080802Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=72d964a6906c8b2d2ef1d99e636d83be0c88d69e2706f7f49b71aec2629deb5e
+https://stream.dubbindo.site/Dubbing/TV.Series/Gravity.Falls/Gravity.Falls.S01E18.Dubbing.mp4
 
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E19 
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2023/04/CBsc4jBnQlj6M5MSsl6e_12_c1f67138c2a4747720981a73ca89e02d_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T080842Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=303b261e0ee2970056856482a9d277d7fa42f2397294bd008d4dfb6675fdaf72
+https://stream.dubbindo.site/Dubbing/TV.Series/Gravity.Falls/Gravity.Falls.S01E19.Dubbing.mp4
 
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E20 END
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2023/04/hv9CGNlhk3i7doArkvqI_12_6c47b09db49337fb9a8fb36016a1037a_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T081512Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=f97475f7955df2b9719802c7feb144681fe65493ba0bb67cf1fe12836bdf4a0b
+https://stream.dubbindo.site/Dubbing/TV.Series/Gravity.Falls/Gravity.Falls.S01E20.Dubbing.mp4
 
 #EXTINF:-1 tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2017/04/Gravity-Falls.jpg?q=50&fit=crop&w=600&h=338&dpr=1.5" group-title="GRAVITYFALLS", S2 E1
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2021/07/88Cn4cTCXDUnx3RGKu5u_13_24785eedaed51cb1fa2f0777d6a6f4ea_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T051111Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=0d41930716ee57dc879c1650087d01a54becce33becb658102c6e3888614e46b
+https://stream.dubbindo.site/upload/videos/2021/07/88Cn4cTCXDUnx3RGKu5u_13_24785eedaed51cb1fa2f0777d6a6f4ea_video_360p_converted.mp4
 
 #EXTINF:-1 tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2017/04/Gravity-Falls.jpg?q=50&fit=crop&w=600&h=338&dpr=1.5" group-title="GRAVITYFALLS", S2 E2
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2021/07/61cX4LdsDvoqIJFYNhg3_13_af95691e843ebeb54a2b967b7117e53b_video_360p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T065016Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=24420260f598a6a6509c64283f74175e86ae396e3798851c07de2bc18ad78701
+https://stream.dubbindo.site/upload/videos/2021/07/61cX4LdsDvoqIJFYNhg3_13_af95691e843ebeb54a2b967b7117e53b_video_720p_converted.mp4
 
 #EXTINF:-1 tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2017/04/Gravity-Falls.jpg?q=50&fit=crop&w=600&h=338&dpr=1.5" group-title="GRAVITYFALLS", S2 E3
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2021/07/r4b3ZBJyczfz3ytym4Nr_15_ac96aafb07a02162a47be309a1fb87b0_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T083034Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=aa57e3be996ae3346ef26d3feaf693da81da402255037be0c007bd4b7b95ed33
+https://stream.dubbindo.site/upload/videos/2021/07/r4b3ZBJyczfz3ytym4Nr_15_ac96aafb07a02162a47be309a1fb87b0_video_720p_converted.mp4
 
 #EXTINF:-1 tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2017/04/Gravity-Falls.jpg?q=50&fit=crop&w=600&h=338&dpr=1.5" group-title="GRAVITYFALLS", S2 E4
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2021/07/lMGUCXz9E1rWYYk6YcGJ_17_706017e9fff7aaf01a901501c9e83eb0_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T083237Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=0ce8508e819396b3eb66b0996cb4d033cad49c1c2831480a91033359e2a3eaa2
+https://stream.dubbindo.site/upload/videos/2021/07/lMGUCXz9E1rWYYk6YcGJ_17_706017e9fff7aaf01a901501c9e83eb0_video_720p_converted.mp4
 
 #EXTINF:-1 tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2017/04/Gravity-Falls.jpg?q=50&fit=crop&w=600&h=338&dpr=1.5" group-title="GRAVITYFALLS", S2 E5
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2021/07/47eabOj784Jyf5VoRTVY_18_d654f4d63ff471e032ff32a3f1b2fc81_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T083420Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=fa54d86cc78a5ba5bb58c87eeb400211ed59aa2914d781751aacb525a9120193
+https://stream.dubbindo.site/upload/videos/2021/07/47eabOj784Jyf5VoRTVY_18_d654f4d63ff471e032ff32a3f1b2fc81_video_720p_converted.mp4
 
 #EXTINF:-1 tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2017/04/Gravity-Falls.jpg?q=50&fit=crop&w=600&h=338&dpr=1.5" group-title="GRAVITYFALLS", S2 E6
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2021/07/q1eVlPprWix5B1GShqMq_19_6764ddf4cb5844772524d1c6eba57326_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T083405Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=d2f8d058a8d83149d6cfef8f41e3feb4ecb1ce709419045c40baf1f100bfd874
+https://stream.dubbindo.site/upload/videos/2021/07/q1eVlPprWix5B1GShqMq_19_6764ddf4cb5844772524d1c6eba57326_video_720p_converted.mp4
 
 #EXTINF:-1 tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2017/04/Gravity-Falls.jpg?q=50&fit=crop&w=600&h=338&dpr=1.5" group-title="GRAVITYFALLS", S2 E7
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2021/07/SJCPtgj6lhqQbMQ98HfZ_20_4b453d19c80de519e194f04d50465676_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T083626Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=aea0b44e2489a7cdee3826d53d6c0c3017d7e87af88ead2dfb70fb2f56e0c988
+https://stream.dubbindo.site/upload/videos/2021/07/SJCPtgj6lhqQbMQ98HfZ_20_4b453d19c80de519e194f04d50465676_video_720p_converted.mp4
 
 #EXTINF:-1 tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2017/04/Gravity-Falls.jpg?q=50&fit=crop&w=600&h=338&dpr=1.5" group-title="GRAVITYFALLS", S2 E8
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2021/07/cyQUFReQErACkNa3tnRL_21_3829f9a929a0a752e86978e5bdacddd6_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T083720Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=53a7b53226557e800a4762d20415e679a038f6cfcf4149b1acadbd36f442943b
+https://stream.dubbindo.site/upload/videos/2021/07/cyQUFReQErACkNa3tnRL_21_3829f9a929a0a752e86978e5bdacddd6_video_720p_converted.mp4
 
 #EXTINF:-1 tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2017/04/Gravity-Falls.jpg?q=50&fit=crop&w=600&h=338&dpr=1.5" group-title="GRAVITYFALLS", S2 E9
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2021/07/SzhSi2XaAMhzYSq8LP2P_22_ea2037937ce587709f0bc0161a346ba7_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T083856Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=2ec5ba1badb08eb65f46addcdad63142ce3c1cad7e61e7929e69037672a6d088
+https://stream.dubbindo.site/upload/videos/2021/07/SzhSi2XaAMhzYSq8LP2P_22_ea2037937ce587709f0bc0161a346ba7_video_720p_converted.mp4
 
 #EXTINF:-1 tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2017/04/Gravity-Falls.jpg?q=50&fit=crop&w=600&h=338&dpr=1.5" group-title="GRAVITYFALLS", S2 E10
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2021/07/Vpv2KFinG2PWOw7DmwQl_23_2b642b8008ded88dae252d87ecce1e3d_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T055046Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=91e45a1395df8cc928cd6ea3e99bdb22009617c2cad9f42fc09c6153a0d482dc
+https://stream.dubbindo.site/upload/videos/2021/07/Vpv2KFinG2PWOw7DmwQl_23_2b642b8008ded88dae252d87ecce1e3d_video_720p_converted.mp4
 
 #EXTINF:-1 tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2017/04/Gravity-Falls.jpg?q=50&fit=crop&w=600&h=338&dpr=1.5" group-title="GRAVITYFALLS", S2 E11
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2021/07/o96Acnijs8BHBhVJqLCr_24_1fcbff26614f4963354087439859336e_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T084233Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=ddcc29185b71f820f0c919f6937a95ba8eb082a5d105b00643b0d1e8220f62ef
+https://stream.dubbindo.site/upload/videos/2021/07/o96Acnijs8BHBhVJqLCr_24_1fcbff26614f4963354087439859336e_video_720p_converted.mp4
 
 #EXTINF:-1 tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2017/04/Gravity-Falls.jpg?q=50&fit=crop&w=600&h=338&dpr=1.5" group-title="GRAVITYFALLS", S2 E12
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2021/07/mTl8MSvmLfjU7q8wAOtC_25_cbd31cd91ba3e15f5c23bb719a8f7e6e_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T081131Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=dbf942130e44df4d6f25470261d553c2d392b43510150158b356e35739683240
+https://stream.dubbindo.site/upload/videos/2021/07/mTl8MSvmLfjU7q8wAOtC_25_cbd31cd91ba3e15f5c23bb719a8f7e6e_video_720p_converted.mp4
 
 #EXTINF:-1 tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2017/04/Gravity-Falls.jpg?q=50&fit=crop&w=600&h=338&dpr=1.5" group-title="GRAVITYFALLS", S2 E13
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2021/07/ywbiEFm91xzABH6hj1g2_26_f48b7d8497085a0df358b22afe93a779_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T073717Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=56b6f35decc181babe07de9dc50661dba95fa78b38b829f68b456b074a939d4e
+https://stream.dubbindo.site/upload/videos/2021/07/ywbiEFm91xzABH6hj1g2_26_f48b7d8497085a0df358b22afe93a779_video_720p_converted.mp4
 
 #EXTINF:-1 tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2017/04/Gravity-Falls.jpg?q=50&fit=crop&w=600&h=338&dpr=1.5" group-title="GRAVITYFALLS", S2 E14
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2021/07/5wZaeEhjYNq1MLTld45Z_27_3d905c6ba25a26efddfc8ec7f8b1199a_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T085335Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=f54a99875dd746194cbe73733667c2714cd7c12706e5aa43c5e8eb8d96bd42be
+https://stream.dubbindo.site/upload/videos/2021/07/5wZaeEhjYNq1MLTld45Z_27_3d905c6ba25a26efddfc8ec7f8b1199a_video_720p_converted.mp4
 
 #EXTINF:-1 tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2017/04/Gravity-Falls.jpg?q=50&fit=crop&w=600&h=338&dpr=1.5" group-title="GRAVITYFALLS", S2 E15
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2021/08/5NnWyxvh4DLiUGEPQie2_01_5124e18ca8ffcab6d41c461ad4a4d8d6_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T075035Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=28b3595ee04bddf621fead32f55aa41f0fc9500ba020fd5d6d425c0bd26558bf
+https://stream.dubbindo.site/upload/videos/2021/08/5NnWyxvh4DLiUGEPQie2_01_5124e18ca8ffcab6d41c461ad4a4d8d6_video_720p_converted.mp4
 
 #EXTINF:-1 tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2017/04/Gravity-Falls.jpg?q=50&fit=crop&w=600&h=338&dpr=1.5" group-title="GRAVITYFALLS", S2 E16
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2021/08/Mh2UkKzeeKreqYsoBhgU_02_36fd176aaa53de71b24bd34aee8be865_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T085523Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=5f1a60ec80c73ba695cdc071c686c8386012e898ffb8895225391b9ab626f88a
+https://stream.dubbindo.site/upload/videos/2021/08/Mh2UkKzeeKreqYsoBhgU_02_36fd176aaa53de71b24bd34aee8be865_video_720p_converted.mp4
 
 #EXTINF:-1 tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2017/04/Gravity-Falls.jpg?q=50&fit=crop&w=600&h=338&dpr=1.5" group-title="GRAVITYFALLS", S2 E17
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2021/08/pew3YtHKWg1II7yI2B23_03_b3990dda3131c154fd3ebd635b2431c8_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T040954Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=938734d36a0d2b655f828e8ecbcdde424cd54e9699dc1aaae62ac606b3e9e7e1
+https://stream.dubbindo.site/upload/videos/2021/08/pew3YtHKWg1II7yI2B23_03_b3990dda3131c154fd3ebd635b2431c8_video_720p_converted.mp4
 
 #EXTINF:-1 tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2017/04/Gravity-Falls.jpg?q=50&fit=crop&w=600&h=338&dpr=1.5" group-title="GRAVITYFALLS", S2 E18
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2021/08/xesG6NIMnSphkqSESBMf_04_e5bd705e7a67e05fc8c4cf7193354391_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T042442Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=def9ba12511320882408ed8002b80af7df484683ccf9e9eb719790afa9fd8021
+https://stream.dubbindo.site/upload/videos/2021/08/xesG6NIMnSphkqSESBMf_04_e5bd705e7a67e05fc8c4cf7193354391_video_720p_converted.mp4
 
 #EXTINF:-1 tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2017/04/Gravity-Falls.jpg?q=50&fit=crop&w=600&h=338&dpr=1.5" group-title="GRAVITYFALLS", S2 E19
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2021/08/eUPOKAOWmajCNJF32U6G_05_8043f0a1b892e15a14ba41803cf65f86_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T061149Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=2223f9faac22efc3fa87371260f641e197f7bc25de6b8198c81a9b77c8989d85
+https://stream.dubbindo.site/upload/videos/2021/08/eUPOKAOWmajCNJF32U6G_05_8043f0a1b892e15a14ba41803cf65f86_video_720p_converted.mp4
 
 #EXTINF:-1 tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2017/04/Gravity-Falls.jpg?q=50&fit=crop&w=600&h=338&dpr=1.5" group-title="GRAVITYFALLS", S2 E20
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2021/08/6ePc5iunFeqNT6hwP1AS_06_0aeefe5fe496e73fa98cfc02cc15f74c_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T042420Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=bdfd16a56ea0e1d1f4756276afc1d9d59ef4e2d6b2f6d43aed84679847b8e28f
+https://stream.dubbindo.site/upload/videos/2021/08/6ePc5iunFeqNT6hwP1AS_06_0aeefe5fe496e73fa98cfc02cc15f74c_video_720p_converted.mp4
 
 #EXTINF:-1 tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2017/04/Gravity-Falls.jpg?q=50&fit=crop&w=600&h=338&dpr=1.5" group-title="GRAVITYFALLS", S2 E21
-https://dubbing.s3.ap-southeast-1.wasabisys.com/upload/videos/2021/08/sq7U7sFzMDmqPtbDDe7z_07_76593dbd7b36781f461f377ded4772c2_video_720p_converted.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=PK26YWAJDUSTE9RPMQ0P%2F20261028%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20261028T065807Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=5e242286ebaa6664314ddefc3bb6c56a1d37075ff5f564b788ee464c429c6d46
+https://stream.dubbindo.site/upload/videos/2021/08/sq7U7sFzMDmqPtbDDe7z_07_76593dbd7b36781f461f377ded4772c2_video_720p_converted.mp4
 
 
 
@@ -292,7 +292,7 @@ https://stream.dubbindo.site/uvideoweb/movie/The.Polar.Express.2004.HBO.720p.Dub
 #EXTINF:-1 tvg-logo="https://www.intofilm.org/intofilm-production/scaledcropped/444x250https%3A/s3-eu-west-1.amazonaws.com/images.cdn.filmclub.org/film__3240-chicken-little--hi_res-ddf42009.jpg/film__3240-chicken-little--hi_res-ddf42009.jpg" group-title="SPECIAL MOVIES", Chicken Little - 
 https://cdn.dubbindo.site/uvideoweb/movie/Chicken.Little.2005.HS.720p.Dubbing.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/jSTglzkXYPMOI6sNdXGqGM02AP2.jpg" group-title="Amphibia", S1 E1 - 
-https://stream.dubbindo.site/upload/videos/2023/05/oet5HB2Q5a7FgDtcYm9m_06_8cbfd3197ca2ee5b4248692e5d765b3b_video_480p_converted.mp4
+https://stream.dubbindo.site/upload/videos/2023/05/oet5HB2Q5a7FgDtcYm9m_06_8cbfd3197ca2ee5b4248692e5d765b3b_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/jSTglzkXYPMOI6sNdXGqGM02AP2.jpg" group-title="Amphibia", S1 E2 - 
 https://stream.dubbindo.site/upload/videos/2023/05/wqnW4AIGBYBTA3obCMsO_06_dd008f08c5c61b222f428d00ece69066_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/jSTglzkXYPMOI6sNdXGqGM02AP2.jpg" group-title="Amphibia", S1 E3 - 
@@ -1264,8 +1264,6 @@ https://stream.playcdn.de/playlist/87c50e6bc2e90b1e10cd0c1807fe77d8/5/480.m3u8?x
 https://stream.playcdn.de/playlist/e429c383f3573020eb911b4fc1c5afd4/5/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAbaYzBFWIu826rXx69-aHm6W0NnmxTp0LDfsyGD4LSv3OpKXDyJQax4i4&s=10" group-title="REST TIME SERIES", S1E12 Amazing Interiors
 https://stream.playcdn.de/playlist/b9df3dc3384005dd3854d8f458bdc879/5/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://images.toopa.com/669745_drawn-together1.jpg" group-title="SPECIAL MOVIES 3", The Drawn Together Movie!
-https://stream.playcdn.de/playlist/5b109945cfb9edcb0b14ca6076e3e301/4/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://ariesadhar.com/wp-content/uploads/2014/02/comic-8-140122c.jpg" group-title=" 🇮🇩 MOVIES", Comic 8
 https://playerx.rpmplay.online/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/_4vTU-ypUox4UqGvJKIBAQ/qtd/puo3l1ky/hveren/tt/index-f1-v1-a1.m3u8?v=1766826492
 #EXTINF:-1 tvg-logo="https://cdn.district.in/movies-assets/images/cinema/Khalifa_Cover-924f04f0-9ba4-11f1-82a8-971fda26a84e.jpg" group-title="SPECIAL MOVIES 3", Khalifa: The Ruler
