@@ -131,8 +131,6 @@ ____________________________________
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E1 
 https://stream.dubbindo.site/uvideoweb/series/Gravity.Falls/Gravity.Falls.S01E01.Dubbing.mp4
 
-https://stream.dubbindo.site/driveduo/uploads/d580e96c-ef90-4f87-8082-b89f180f9d57/d580e96c-ef90-4f87-8082-b89f180f9d57
-
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E2 
 https://stream.dubbindo.site/uvideoweb/series/Gravity.Falls/Gravity.Falls.S01E02.Dubbing.mp4
 
@@ -498,7 +496,7 @@ https://stream.playcdn.de/playlist/2631285efa98fe44e5026219062a1b59/2/480.m3u8?x
 https://stream.playcdn.de/playlist/0fc7de7f9cb8bf6719030046482dc5f6/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY1ODkxODUtYjlkZi00NmU4LTgyMzktYjQzYWM1ZGJiNGE4XkEyXkFqcGc@._V1_QL75_UX444_.jpg" group-title="DOCUMENTARY", Nat Geo | Lost In The Jungle
 https://stream.playcdn.de/playlist/2ff588f14644afb9d04dc6c927f02da0/4/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://www.lazone.id/news/2017/Mei/19%20mei/godfather/Banner%20The%20God%20Father.jpg" group-title="SPECIAL MOVIES 2", The Godfather
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfp_KCE4xvr7Z7Dd32ZZuOTSFjclBh15R7cqUu_PrJMw&s=10" group-title="SPECIAL MOVIES 2", The Godfather
 https://stream.playcdn.de/playlist/d4c08ca05594ac4cfd434b0ce33a543d/3/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/07/the-godfather_-part-ii-poster-1974.jpg?q=49&fit=crop&w=600&h=338&dpr=2" group-title="SPECIAL MOVIES 2", The Godfather 2
 https://stream.playcdn.de/playlist/2840da69d9f06502b34a9c645a7f1e7d/4/480.m3u8?x=1
@@ -1528,7 +1526,7 @@ https://stream.playcdn.de/playlist/11cb533d1999555ca26ccee86d17db28/4/480.m3u8?x
 https://stream.playcdn.de/playlist/6aa176f89e3ea0c21af67bafdc3a0a15/5/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR2yXShKWaxCsSjxYoEuUNTsLhFUXRpWX6wnAnYne5Jw&s=10" group-title="SPECIAL MOVIES 2", Now You See Me 2
 https://stream.playcdn.de/playlist/7d82586b10489a321a92cfc6af48f106/3/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://pict.sindonews.com/dyn/850/pena/news/2025/11/17/158/1644949/sinopsis-now-you-see-me-now-you-dont-kembalinya-para-pesulap-hebat-hxd.jpg" group-title="SPECIAL MOVIES 2", Now You See Me: Now You Don't
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVRvAgR2q2q18k6KX2Y3GTfLHcgxbVxFvxLqkN81o0PA&s=10" group-title="SPECIAL MOVIES 2", Now You See Me: Now You Don't
 https://stream.playcdn.de/playlist/d0a50bd0f8089b10732fe49fd647677c/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj7QNSRwHHcfuL5RupriWMIjilZIwRSTdDcqH2GAdFrQ&s=10" group-title="SPECIAL MOVIES 2", Maa Inti Bangaram
 https://stream.playcdn.de/playlist/1188d5e0675d9c16aa672c1068eebdfd/2/480.m3u8?x=1
@@ -1536,7 +1534,32 @@ https://stream.playcdn.de/playlist/1188d5e0675d9c16aa672c1068eebdfd/2/480.m3u8?x
 https://stream.playcdn.de/playlist/86a0d2a1f20fcf4f19942cf22ee09385/4/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://asset.tribunnews.com/VlpfLrolnJ2SQSFLdVbdb0BErn8=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/jateng/foto/bank/originals/kabhi-khushi-kabhi-gham.jpg" group-title="❤️REQUESTED MOVIES❤", Kabhi Khushi Kabhie Gham...
 https://stream.playcdn.de/playlist/3f777e21c735d9badb07aeeadd6d927b/4/480.m3u8?x=1
-
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/6331ea7d69166c98498bd49c5b1eec53ac97c78c28f45fb4d4f42019e9e8c3f8._UR1920,1080_SX624_FMjpg_.jpg" group-title="SPECIAL MOVIES 3", Death Race
+https://stream.playcdn.de/playlist/b4fc2c3eded1d9d4b892cd7ba36d770d/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScNy9shsTQW_9C78QSc26KpfOTMlqhhGITcLiL6rwA6g&s=10" group-title="SPECIAL MOVIES 3", Death Race 2
+https://stream.playcdn.de/playlist/a83d53c365663caf993ccbcb66bb99ff/5/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/05940b7ec6853465b9dd99ef68cd018391107ed741dd2dcfebb1592fa0560448._UR1920,1080_.png" group-title="SPECIAL MOVIES 3", Death Race Inferno
+https://stream.playcdn.de/playlist/98ba95686bf6a5f372c30f0277344c8b/5/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4eyF3rPFc_HVfW4EF5pVBpWhaAomL2aIoQIPQQ509PQ&s=10" group-title="SPECIAL MOVIES 4", The Fast and the Furious
+https://stream.playcdn.de/playlist/49b7de54ae369792340db349f161595d/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ifxUpLLHZCd_KZp72XrrU9Zspx_yqkJZEzXmd5n_qA&s=10" group-title="SPECIAL MOVIES 4", 2 Fast 2 Furious 
+https://stream.playcdn.de/playlist/36aaa2c668a0aa1c6afbe839c26dd185/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGRZ17wJHC8DqJvIzqSMafG6BfWbIWL5Vw_NunQAJVWA&s=10" group-title="SPECIAL MOVIES 4", The Fast and the Furious: Tokyo Drift
+https://stream.playcdn.de/playlist/8b8dbb4b2764b3c30f361e9c2814415c/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqHt1gjj66CH_Vd0xxjsOuPod4jcG1aA-9W7KyWICONg&s=10" group-title="SPECIAL MOVIES 4", Fast & Furious 
+https://stream.playcdn.de/playlist/49b666565925fc19c22030c8ed699324/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzJnewXelkhkv3iZy3nE7IuSBSNGJqVHCl7HoalckPVQ&s=10" group-title="SPECIAL MOVIES 4", Fast Five
+https://stream.playcdn.de/playlist/a1bd3005dd13478133dc447f02341668/5/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD5bNzoheUGguWFwEI3tdovJ-t_MgVSNF97hVOLDU5Og&s=10" group-title="SPECIAL MOVIES 4", Fast & Furious 6 (Furious 6)
+https://stream.playcdn.de/playlist/6cf4365c5b00a3ea04818fb8a84ad5d4/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDhwUHC3VEeALw-saK_n4zEgepVZW748-X2XomMsCpjVoUM-Uv8EVP98&s=10" group-title="SPECIAL MOVIES 4", Furious 7 
+https://stream.playcdn.de/playlist/017107fd3ad4694649fd238f71101f42/5/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkVB4Cn8x_R_kYnyzVDvDX7plRucXygtP5CHDL-jqpUA&s=10" group-title="SPECIAL MOVIES 4", xXx
+https://stream.playcdn.de/playlist/0d08a5969b7a48e3eafc6b41c4b9d450/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMISiCGnU6j0EsXFDFdvxHDCqdg8LTN-BVykXEDAnsA&s=10" group-title="SPECIAL MOVIES 4", xXx: State of the Union
+https://stream.playcdn.de/playlist/0a266ac932d95dfa6d634d050aa81775/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYwxPK-i4DWRqYhynzdLKeuput6Lx4BfGa8rZK6KhuCQ&s=10" group-title="SPECIAL MOVIES 4", xXx: Return of Xander Cage
+https://stream.playcdn.de/playlist/355fea570ccd4b241a01f9f9c9c22c9e/3/480.m3u8?x=1
 
 
 
