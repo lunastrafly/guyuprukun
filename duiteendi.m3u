@@ -24,18 +24,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 
 =========================================
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUYu7YkmmXP01UmrjdSH-m_Q8CW3ojUpkhIUMLaHVz2pAqbclTjtfzyqE&s=10" group-title="PREMIUM TEST",MUSICA
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-origin=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://vidio123.mikrofast.web.id/vidio/7619/index.mpd
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="PREMIUM TEST",INDOSIAR HD
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-origin=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://vidio123.mikrofast.web.id/vidio/205/index.mpd
-
 #EXTINF:-1 group-title="PREMIUM TEST" tvg-logo="https://i.ytimg.com/vi/bGsLsSDEYkg/maxresdefault.jpg",Thrill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1639,6 +1627,18 @@ https://stream.playcdn.de/playlist/0d08a5969b7a48e3eafc6b41c4b9d450/3/480.m3u8?x
 https://stream.playcdn.de/playlist/0a266ac932d95dfa6d634d050aa81775/4/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYwxPK-i4DWRqYhynzdLKeuput6Lx4BfGa8rZK6KhuCQ&s=10" group-title="SPECIAL MOVIES 4", xXx: Return of Xander Cage
 https://stream.playcdn.de/playlist/355fea570ccd4b241a01f9f9c9c22c9e/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/vzRPPp_Ab0I/hqdefault.jpg" group-title="SPECIAL MOVIES 3", The Recruit
+https://stream.playcdn.de/playlist/9c1ea90cb65963266524091dd5f9b031/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://images.contentstack.io/v3/assets/blt13adb7e2033fcee5/blt71ecbd6b427a586a/693ca4f591a7ec3dbd307ef9/Memory_keyart_mobile_3840x2160.jpg?width=2560" group-title="SPECIAL MOVIES 3", Memory
+https://stream.playcdn.de/playlist/2f858423725b3f677c46cd2fbe25f289/5/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPgQDhGeC2ZGQTUYNjCc4kGV8yo0pzGdEdF_QNE0f6tg&s=10" group-title="HORROR AND THRILLER", Noroi : The Curse
+https://stream.playcdn.de/playlist/f646b322d52a3d0ff044afc7afec8ad3/3/480.m3u8?x=1
+
+
+
+
+
+
 
 
 
