@@ -54,21 +54,6 @@ http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/854.ts
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="LIVE BACKUP", AR: BEIN SPORTS PREMIUM 3 (vip)
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/855.ts
 #http://31.43.191.125:8080/vip7201770826573/415c945b71e8/855
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="LIVE BACKUP", AR: BEIN SPORTS MAX 1 (vip)
-http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/835.ts
-#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/835
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="LIVE BACKUP", AR: BEIN SPORTS MAX 2 (vip)
-http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/836.ts
-#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/836
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="LIVE BACKUP", AR: BEIN SPORTS MAX 3 (vip)
-http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/837.ts
-#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/837
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="LIVE BACKUP", AR: BEIN SPORTS MAX 4 (vip)
-http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/838.ts
-#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/838
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="LIVE BACKUP", AR: BEIN SPORTS MAX 6 (vip)
-http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/840.ts
-#http://31.43.191.125:8080/vip7201770826573/415c945b71e8/840
 
 =========================================
 
@@ -111,7 +96,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 
  =========================================
  
- #EXTINF:-1 group-title="LIVE FOR YOU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlxe6595b2feXeadx4C7Mc88zwXtR0_NNA923a6qOw_w&s", BEIN SPORTS 1
+#EXTINF:-1 group-title="LIVE FOR YOU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlxe6595b2feXeadx4C7Mc88zwXtR0_NNA923a6qOw_w&s", BEIN SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
