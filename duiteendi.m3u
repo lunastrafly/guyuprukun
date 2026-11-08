@@ -33,7 +33,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://f9169865dbd747b4a24602e856a9c7a2.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH7_CERIA/dash.mpd
 
-#EXTINF:-1 group-title="LIVE FOR YOU" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Sooka_Jom_Ngaji.png/1280px-Sooka_Jom_Ngaji.png?utm_source=ms.wikipedia.org&utm_campaign=index&utm_content=thumbnail",JOM NGAJI
+#EXTINF:-1 group-title="LIVE FOR YOU" tvg-logo="https://i.ytimg.com/vi/Gz07Q4H2ts8/maxresdefault.jpg",JOM NGAJI
 https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH6_JOMNGAJI/dash.mpd
 
 #EXTINF:-1 group-title="LIVE FOR YOU" tvg-id="" tvg-logo="https://i.imgur.com/UI3nTvV.png?raw=true", TRAVEL & TASTE
@@ -1581,7 +1581,15 @@ https://stream.playcdn.de/playlist/16b8a39e508e9bf32f63b6fde254e050/4/480.m3u8?x
 https://stream.playcdn.de/playlist/cff642c10587708c5e0b78178c3eea96/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_L9pw45n0MlhGTn7okSm9X7kIJmxk3TeYq_jjlzP6tA&s=10" group-title="SPECIAL MOVIES 3", One Mile: Chapter Two
 https://stream.playcdn.de/playlist/1dc3ecc70356102aed004787f2521c4a/2/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_L9pw45n0MlhGTn7okSm9X7kIJmxk3TeYq_jjlzP6tA&s=10" group-title="SPECIAL MOVIES 3", One Mile: Chapter Two
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2UTZWgSkK5BRQseeTxX0wwfkj6t-0YE89nmZ4uXfd8Q&s=10" group-title="SPECIAL MOVIES 3", The Butcher's Blade
+https://stream.playcdn.de/playlist/c708039a142967dc23872edc4cf6d48e/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://pic.bstarstatic.com/ugc/6e5c28939d492bb090780fc0e678e14a.jpg" group-title="SPECIAL MOVIES 3", The Bodyguard CN
+https://stream.playcdn.de/playlist/96132baa2ca6a2f20850671658b2458f/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSREScQTR7d3yf1kzeSiQn_AivIwQZ8zo7Y5SC4kD-2otLblbaQXqOajJDK&s=10" group-title="SPECIAL MOVIES 4", Commitment - Dong-chang-saeng
+https://stream.playcdn.de/playlist/376cd0ef41bec0e075e30455917dc71e/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVqmvK4DOiHomBqGYwczgfkoRL27VguykqYgUord8W1w&s=10" group-title="SPECIAL MOVIES 4", Hunt
+https://stream.playcdn.de/playlist/958e5e0a4f5444019a3e5f0b68bca8c7/3/480.m3u8?x=1
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0At88a0kC0UHifkx1M8XyqE--HyqMlAweBeTcDgmmOLCYhZiJju3L7vwC&s=10" group-title="BEST SERIES", S1E1 The Day of the Jackal 
 https://stream.playcdn.de/playlist/e24a8418839fb9e21d856e2fcc564f55/3/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0At88a0kC0UHifkx1M8XyqE--HyqMlAweBeTcDgmmOLCYhZiJju3L7vwC&s=10" group-title="BEST SERIES", S1E2 The Day of the Jackal 
@@ -1602,6 +1610,11 @@ https://stream.playcdn.de/playlist/ec4328e1487861e2b93930d8db9fc057/3/480.m3u8?x
 https://stream.playcdn.de/playlist/a98898f5414e8643cd5145e24ecdeb18/3/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0At88a0kC0UHifkx1M8XyqE--HyqMlAweBeTcDgmmOLCYhZiJju3L7vwC&s=10" group-title="BEST SERIES", S1E10 The Day of the Jackal 
 https://stream.playcdn.de/playlist/93066964e0a33f476c547671c3b2de0a/3/480.m3u8?x=1
+
+
+
+
+
 
 
 
