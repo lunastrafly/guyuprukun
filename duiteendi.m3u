@@ -47,6 +47,16 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
 
+#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://cdn1-production-images-kly.akamaized.net/rxtD-DPMdGpqPii7T9A49dm2fG8=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3919418/original/077664400_1643598392-tv-one.jpg",TV ONE
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
+
+#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPcyINlaGIGL3ILxQt9FiSpu_2HB4iy4E-_0yZlC94tQ&s=10",iNews
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
  =========================================
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlb9-9kBmx26ys0HDiz_G1cko6jsENSt1WD83zala4PA&s" group-title="LIVE BACKUP", AR: BEIN SPORTS 1 (vip)
@@ -174,6 +184,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1
 
 #EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/MotorvisionTV2.png" group-title="LIVE FOR YOU", MotorVision
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+
+#EXTINF:-1 group-title="LIVE FOR YOU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuZS9GBKNhmxqg-txG2MNUkWs1RCWCbWx0LaW_mrX8FL_5f5M22y_6KR6N&s=10", CBS GOLAZO NETWORK
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
 <================================================>
 <================>
@@ -540,7 +556,7 @@ https://stream.playcdn.de/playlist/22d51c6eb34919728006a407ed244346/2/480.m3u8?x
 https://stream.playcdn.de/playlist/aacb234ce4cd4493a9d8490babd1ce14/1/0.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2b11c5_6f224834a727487a86473674ce8c1501~mv2.jpg/v1/fill/w_495,h_279,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/2b11c5_6f224834a727487a86473674ce8c1501~mv2.jpg" group-title="SPECIAL MOVIES 2", Interstellar
 https://stream.playcdn.de/playlist/df55b7cc6a4e14f9a1b4823f31568f72/3/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://1.vikiplatform.com/c/37799c/617003b14a.jpg?x=b&a=0x0&s=480x270&e=t&q=g" group-title="SPECIAL MOVIES 2", Miss Agent
+#EXTINF:-1 tvg-logo="https://1.vikiplatform.com/c/37799c/617003b14a.jpg?x=b&a=0x0&s=480x270&e=t&q=g" group-title="CHINESE SPECIAL", Miss Agent
 https://stream.playcdn.de/playlist/d92c2c5621982ffc2737c41e05c5d9de/4/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-EBdFMU5jJRp9CPWypp8hW4YTCskAXkPs8rJ2fJ4E6oR55TzfXaMDCSp&s=10" group-title="DOCUMENTARY", Cheetahs Up Close with Bertie Gregory
 https://stream.playcdn.de/playlist/2631285efa98fe44e5026219062a1b59/2/480.m3u8?x=1
@@ -568,9 +584,9 @@ https://stream.playcdn.de/playlist/8f7aa99f60f147aa71a81559ba70f259/2/480.m3u8?x
 https://stream.playcdn.de/playlist/4ceec4f857c466c40f62d0dc75c218ff/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://i.mydramalist.com/KpRvPq_4c.jpg?v=1" group-title="SPECIAL MOVIES 2", Eiga Last Man: First Love
 https://stream.playcdn.de/playlist/dfd3e1a300154e2cce555a7ba4747127/2/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://www.cultura.id/wp-content/uploads/2026/07/The_Furious-768x441.jpeg" group-title="SPECIAL MOVIES 2", THE FURIOUS 2025
+#EXTINF:-1 tvg-logo="https://www.cultura.id/wp-content/uploads/2026/07/The_Furious-768x441.jpeg" group-title="CHINESE SPECIAL", THE FURIOUS 2025
 https://stream.playcdn.de/playlist/6c3af6119025f823814ffcb9cccb179f/2/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kjZC5jwnjeQxVULFmUZtLm3IsN3.jpg" group-title="SPECIAL MOVIES 2", LEGEND OF QINGQIU
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kjZC5jwnjeQxVULFmUZtLm3IsN3.jpg" group-title="CHINESE SPECIAL", LEGEND OF QINGQIU
 https://stream.playcdn.de/playlist/2b000c2ac3c0413b195c3b696a648ef2/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://media.suara.com/pictures/653x366/2026/06/11/93748-poster-film-colony.webp" group-title="SPECIAL MOVIES 2", COLONY
 https://stream.playcdn.de/playlist/376543dc6374ddd87ece2c873c4e17ab/2/480.m3u8?x=1
@@ -678,7 +694,7 @@ https://stream.dubbindo.site/upload/videos/2025/12/2VMH5eNdZwBhB4z1YUZL_03_f2d12
 https://stream.dubbindo.site/upload/videos/2025/10/TEWgubmk1oBXuiFndSSk_14_fce386da7051b377e1b5bfd6ce63540e_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://asianmoviepulse.com/wp-content/uploads/2024/10/The-Mob-dvd-768x432.jpg" group-title="SPECIAL MOVIES 2", The Mop 
 https://cdn.dubbindo.site/dubbing/upload/videos/2025/10/sRSkmW2Knstl2foUbkQ2_11_0ed3eb75d9c6acd321d56302558cf7ac_video_720p_converted.mp4
-#EXTINF:-1 tvg-logo="https://www.iq.com/wiki/_next/image?url=https%3A%2F%2Fpic4.iqiyipic.com%2Fimage%2F20260623%2F41%2F96%2Fv_199987986_m_600_en_440_608.webp&w=384&q=75" group-title="SPECIAL MOVIES 3", Back In the Game
+#EXTINF:-1 tvg-logo="https://www.iq.com/wiki/_next/image?url=https%3A%2F%2Fpic4.iqiyipic.com%2Fimage%2F20260623%2F41%2F96%2Fv_199987986_m_600_en_440_608.webp&w=384&q=75" group-title="CHINESE SPECIAL", Back In the Game
 https://stream.playcdn.de/playlist/3b525bc3c860a029867eb5dcee0c319c/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p26997407_b_h10_ac.jpg" group-title="DOCUMENTARY", Our Living World S1E1 
 https://stream.playcdn.de/playlist/ebe98dc518259ddc7490d134670a5f73/2/480.m3u8?x=1
@@ -872,9 +888,9 @@ https://stream.playcdn.de/playlist/25ccdc66a1d6800258c529090707af21/5/480.m3u8?x
 https://stream.playcdn.de/playlist/f9521cee60ae558b011c42df2333e892/5/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/mwp/wp15688562.jpg" group-title="SPECIAL MOVIES 3", The Bone Collector
 https://stream.playcdn.de/playlist/bd6666258f404c1ad76ad96ad207af97/3/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://figurants.com/wp-content/uploads/2026/07/Screenshot-2026-07-17-at-09.33.44-768x502.png" group-title="SPECIAL MOVIES 3", Kungfu Soccer
+#EXTINF:-1 tvg-logo="https://figurants.com/wp-content/uploads/2026/07/Screenshot-2026-07-17-at-09.33.44-768x502.png" group-title="CHINESE SPECIAL", Kungfu Soccer
 https://stream.playcdn.de/playlist/bb4a16d550159a28aa08edafb13aaf28/1/0.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://wallpapercave.com/mwp/wp15341913.jpg" group-title="SPECIAL MOVIES 3", Shaolin Soccer
+#EXTINF:-1 tvg-logo="https://wallpapercave.com/mwp/wp15341913.jpg" group-title="CHINESE SPECIAL", Shaolin Soccer
 https://stream.playcdn.de/playlist/630ec663fef1d5f9b1dc01c2bc0286d2/4/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/mwp/wp2347377.jpg" group-title="SPECIAL MOVIES 3", 12 Angry Man
 https://stream.playcdn.de/playlist/4dcb3bb7a18f571616187f65621d823c/5/480.m3u8?x=1
@@ -996,7 +1012,7 @@ https://stream.playcdn.de/playlist/1162e51cf111e73bd7ff3703da020a6e/5/480.m3u8?x
 https://stream.playcdn.de/playlist/71e1f22b4a0503ace777147cb6336544/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://showpoiler.com/wp-content/uploads/2022/01/The-Autopsy-of-Jane-Doe_Poster_.webp" group-title="HORROR AND THRILLER", The Autopsy of Jane Doe
 https://stream.playcdn.de/playlist/aa5e6a21b24f255d62d280692713bbd3/4/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://spoilertown.com/wp-content/uploads/2025/09/kung-fu-hustle-2004-768x384.webp" group-title="SPECIAL MOVIES 3", Kung Fu Hustle
+#EXTINF:-1 tvg-logo="https://spoilertown.com/wp-content/uploads/2025/09/kung-fu-hustle-2004-768x384.webp" group-title="CHINESE SPECIAL", Kung Fu Hustle
 https://stream.playcdn.de/playlist/115ed6403f36e0e7c8d2141560515046/4/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p12910046_b_h8_aa.jpg?w=1280&h=720", group-title="BEST SERIES", MacGyver NEW S1E1
 https://stream.playcdn.de/playlist/84476cd82205e56ece59ae86c52f8981/3/480.m3u8?x=1
@@ -1261,7 +1277,7 @@ https://stream.dubbindo.site/upload/videos/2026/03/METokSX5sQ5RcSTpOQic_26_8de60
 https://stream.dubbindo.site/upload/videos/2025/08/IWwEMsVUxcyyORcZ1oKY_07_0e45a5f2b8635b5fbc15fdb3f72c62ba_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://asset.tribunnews.com/VrWbneXIiZeCGPZ41_TwKca_lCg=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/banyumas/foto/bank/originals/Poster-film-Merantau.jpg" group-title=" 🇮🇩 MOVIES", Merantau
 https://stream.dubbindo.site/upload/videos/2025/08/vkVkLGkKcBLISm7RPR6G_05_6a0b9fa3e148ce83892737a20f0e39a2_video_720p_converted.mp4
-#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2020/11/15/from-beijing-with-love_43.jpeg?w=600&q=90" group-title="❤️REQUESTED MOVIES❤", From Beijing With Love
+#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2020/11/15/from-beijing-with-love_43.jpeg?w=600&q=90" group-title="CHINESE SPECIAL", From Beijing With Love
 https://stream.playcdn.de/playlist/6312eb2667f373f5c9bbc0f6589bdc1a/3/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://ksreviewsblog.wordpress.com/wp-content/uploads/2017/01/moana.jpeg?w=768&h=346" group-title="SPECIAL MOVIES", Moana
 https://stream.dubbindo.site/upload/videos/2021/07/6jaKOl1aZ74MtPuDYqwo_05_4450b31ae9509958ff3e6ae36e77c9da_video_720p_converted.mp4
@@ -1679,14 +1695,21 @@ https://stream.playcdn.de/playlist/c66ef87d1dd100923fced1900b816b04/3/480.m3u8?x
 https://stream.playcdn.de/playlist/df79c8404aacf6f75ac2c23ab0c686e0/5/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrfsZsVTHzi9Rn5IFuYjUawvFhzOCtnGiplE1-hOMPPQ&s=10" group-title="SPECIAL EVENT", Ronda Rousey vs. Gina Carano
 https://stream.playcdn.de/playlist/89e38837adbfe8cd571c47664a84d1f4/5/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkPdeqBlamY_KYSyxaIWPr3pmCye1oBX-Ku4h8NL6mZw&s=10" group-title="HORROR AND THRILLER", Hallow Road
+https://stream.playcdn.de/playlist/aac26f513d30ed6f5955f6339c497279/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlaA7J73biSY8byP2c8QbRP4DPvPXqTX8MogpU6zhkBfh_n-ZuSGcVVsW2&s=10" group-title="HORROR AND THRILLER", Duel
+https://stream.playcdn.de/playlist/6e05edbb804272727d244fdd7b316917/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS0gUo9_xA1Ar6DJxxznzoFJSJBFNrx4FawSYNtM7YoA&s=10" group-title="HORROR AND THRILLER", Alone
+https://stream.playcdn.de/playlist/18f0fd20d0e3d4a5ee366edc9ee978e9/2/480.m3u8?x=1
+
 #EXTINF:-1 tvg-logo="https://spoilertown.com/wp-content/uploads/2025/06/i-spit-on-your-grave-2010-768x384.webp" group-title="HORROR AND THRILLER", I SPIT ON YOUR GRAVE Unrated
 https://stream.playcdn.de/playlist/9c22c408a3ccb55c9c6504b1922f4cd2/4/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://spoilertown.com/wp-content/uploads/2025/09/i-spit-on-your-grave-2-2013-768x384.webp" group-title="HORROR AND THRILLER", I SPIT ON YOUR GRAVE 2
 https://stream.playcdn.de/playlist/ed9e35bcb8ba2750cbace9529df85f84/4/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://spoilertown.com/wp-content/uploads/2025/09/i-spit-on-your-grave-iii-vengeance-is-mine-2015-768x384.webp" group-title="HORROR AND THRILLER", I Spit on Your Grave 3 : Vengeance is Mine
 https://stream.playcdn.de/playlist/3db64e4d30f02a0c1fd2c42d1b17370a/4/480.m3u8?x=1
-
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmCqyPOF98REEX0UaknY96bdIflSqMjCokWpZv5hnfRA&s=10" group-title="CHINESE SPECIAL", Tales of the Monkey Mountain
+https://stream.playcdn.de/playlist/2e95f3629329043bedc24cbcd13da1c0/1/0.m3u8?x=1
 
 
 
