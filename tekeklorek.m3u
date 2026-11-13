@@ -233,124 +233,6 @@ https://stream.dubbindo.site/uvideoweb/series/Gravity.Falls/Gravity.Falls.S01E11
 https://stream.dubbindo.site/upload/videos/2023/04/X1oLaeC1CmygtxSalJ7b_11_8b3fe330fb4e3e01a5d6dd52c3622a97_video_720p_converted.mp4
 
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E13
-https://stream.dubbindo.site/Dubbing/TV.Series/Gravity.Falls/Gravity.Falls.S01E13.DubP:LIVE FOR YOU
-http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312824&extension=ts&play_token=3ouilCRXf9
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 
-#EXTINF:-1 tvg-id="plex.tv.MotoGP.Channel.plex" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgejvWD0vkLS9faDx43UnR08fyMMhwf6XzPR5ElHH1gRVW7-WBAvP8X5I&s=10" group-title="LIVE FOR YOU", MotoGP TV VIP
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
-
-#EXTINF:-1 tvg-id="XUMO_99951203" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRkWYoEkUui9O5mktKeRSzijy812yDkY-qEwkHme_3jA&s=10" group-title="LIVE FOR YOU", PFL MMA SPECIAL
-https://dbrb49pjoymg4.cloudfront.net/10001/99951203/hls/playlist.m3u8?ads.xumo_channelId=99951203&ads.xumo_streamId=99951203&ads.channelId=99951203&ads.channelName=profightersleaguemma_us&ads.caid=ProFightersLeagueMMA&ads.csid=xumo_[PLATFORM]_ProFightersLeagueMMA_ssai&ads._fw_coppa=0&ads.xumo_contentId=3852&ads.xumo_contentName=ProFightersLeagueMMA&ads.xumo_providerId=3852&ads.xumo_providerName=ProFightersLeagueMMA&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads.appName=XumoPlay
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7ymwX6Z3AOeTC3P1iCrppLcTnnEWSUy4U-S4zHyEaP1MqvsBlVFWV-VU&s=10" group-title="LIVE FOR YOU",HBO BOXING
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
-
-#EXTINF:-1 group-title="LIVE FOR YOU" tvg-logo="https://mmc.tirto.id/image/otf/398x0,q70/2022/03/01/1920px-ufc_logo_ratio-16x9.jpg",UFC VIP
-https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=121
-##KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=121&type=drm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca 
-#EXTINF:-1 tvg-id="fancode1" tvg-logo="https://img-cdn.publive.online/fit-in/640x430/filters:format(webp)/afaqs/media/post_attachments/1d2f7bf2da15f20ffba84b7d2276a2c942f14fd7990b6021d25e8cc7a5e71e42.jpg" group-title="LIVE FOR YOU",FANCODE 1.
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd 
- 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835 
-#EXTINF:-1 tvg-id="fancode2" tvg-logo="https://img-cdn.publive.online/fit-in/640x430/filters:format(webp)/afaqs/media/post_attachments/1d2f7bf2da15f20ffba84b7d2276a2c942f14fd7990b6021d25e8cc7a5e71e42.jpg" group-title="LIVE FOR YOU",FANCODE 2 (N)
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd 
-
------------
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7dNPfNGB/Tntsports1.png" group-title="LIVE FOR YOU",TNT SPORTS 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q3V8tDNL/Tntsports2.png" group-title="LIVE FOR YOU",TNT SPORTS 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lzkztmpw/Tntsports3.png" group-title="LIVE FOR YOU",TNT SPORTS 3
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yJ8TWnb/Tntsports4.png group-title="LIVE FOR YOU",TNT SPORTS 4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/MotorvisionTV2.png" group-title="LIVE FOR YOU", MotorVision
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-
-#EXTINF:-1 group-title="LIVE FOR YOU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuZS9GBKNhmxqg-txG2MNUkWs1RCWCbWx0LaW_mrX8FL_5f5M22y_6KR6N&s=10", CBS GOLAZO NETWORK
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-
-<================================================>
-<================>
-===================================================================
-____________________________________
-
-#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E1 
-https://stream.dubbindo.site/uvideoweb/series/Gravity.Falls/Gravity.Falls.S01E01.Dubbing.mp4
-
-#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E2 
-https://stream.dubbindo.site/uvideoweb/series/Gravity.Falls/Gravity.Falls.S01E02.Dubbing.mp4
-
-#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E3 
-https://stream.dubbindo.site/uvideoweb/series/Gravity.Falls/Gravity.Falls.S01E03.Dubbing.mp4
-
-#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E4
-https://stream.dubbindo.site/uvideoweb/series/Gravity.Falls/Gravity.Falls.S01E04.Dubbing.mp4
-
-#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E5
-https://stream.dubbindo.site/uvideoweb/series/Gravity.Falls/Gravity.Falls.S01E05.Dubbing.mp4
-
-#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E6
-https://stream.dubbindo.site/uvideoweb/series/Gravity.Falls/Gravity.Falls.S01E06.Dubbing.mp4
-
-#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E7
-https://stream.dubbindo.site/uvideoweb/series/Gravity.Falls/Gravity.Falls.S01E07.Dubbing.mp4
-
-#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E8
-https://stream.dubbindo.site/upload/videos/2023/04/bJH93yv2TqZjwUpX9gmU_11_535ff8c6643400245fd2264e0f869312_video_720p_converted.mp4
-
-#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E9
-https://stream.dubbindo.site/uvideoweb/series/Gravity.Falls/Gravity.Falls.S01E09.Dubbing.mp4
-
-#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E10
-https://stream.dubbindo.site/uvideoweb/series/Gravity.Falls/Gravity.Falls.S01E10.Dubbing.mp4
-
-#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E11
-https://stream.dubbindo.site/uvideoweb/series/Gravity.Falls/Gravity.Falls.S01E11.Dubbing.mp4
-
-#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E12
-https://stream.dubbindo.site/upload/videos/2023/04/X1oLaeC1CmygtxSalJ7b_11_8b3fe330fb4e3e01a5d6dd52c3622a97_video_720p_converted.mp4
-
-#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E13
 https://stream.dubbindo.site/Dubbing/TV.Series/Gravity.Falls/Gravity.Falls.S01E13.Dubbing.mp4
 
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10851882_b_h10_aa.jpg" group-title="GRAVITYFALLS",S1 E14
@@ -537,17 +419,14 @@ https://stream.dubbindo.site/upload/videos/2023/05/O6woRryuQE491QnVZZGq_09_82136
 
 #EXTINF:-1 tvg-logo="https://media.wired.com/photos/59323c4cedfced5820d0f171/3:2/w_2560%2Cc_limit/disney-ft.jpg" group-title="SPECIAL MOVIES", Big Hero 6 - 
 https://stream.dubbindo.site/uvideoweb/movie/Big.Hero.6.2014.HS.720p.Dubbing.mp4
-
-🐵🐵🐵🐵🐵🐵🐵🐵🐵🐵🐵🐵
-
 #EXTINF:-1 tvg-logo="https://e3d6fgx2ndy.exactdn.com/wp-content/uploads/2021/11/scale-5-e1637211348273.jpg?strip=all" group-title="SPECIAL MOVIES", Zootopia - 
-https://stream.dubbindo.site/dubbing/upload/videos/2022/07/rUnzk2abDV6wxh6MgSHA_28_768b72f04b3e230c8e8ecbbe2c419c0f_video_720p_converted.mp4
+https://stream.dubbindo.site/upload/videos/2022/07/rUnzk2abDV6wxh6MgSHA_28_768b72f04b3e230c8e8ecbbe2c419c0f_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://whatsondisneyplus.b-cdn.net/wp-content/uploads/2020/11/Finding-Nemo-768x432.jpg" group-title="PIXAR MOVIES", FINDING NEMO - 
 https://stream.dubbindo.site/upload/videos/2022/09/vvS6CI7H8vDZB1S9eDyD_07_4cbec68d2751cc3a7da483d8b5e9675e_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://images.csmonitor.com/csm/2016/06/0627-LRAINER-dory.jpg?alias=standard_900x600nc" group-title="PIXAR MOVIES", FINDING DORY - 
 https://stream.dubbindo.site/upload/videos/2022/09/xsyPxgKACFaHkIAti6Zw_09_e10bca730bcc1b9cd65b03cf125d6cf3_video_720p_converted.mp4
-#EXTINF:-1 tvg-logo="https://media.kompas.tv/library/image/content_article/article_img/20260416064642.webp" group-title=" 🇮🇩 MOVIES", IKATAN DARAH - 
-https://vibuxer.com/stream/Ib4oB9mlfCB7KjNr57rw3w/kjhhiuahiuhgihdf/1794501161/74271995/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x0/webp/photo/p1/274/2026/11/10/Gambar-hanter-18-117110530.png" group-title=" 🇮🇩 MOVIES", Serangan Balik
+https://td.wahyudin.workers.dev/0:/Serangan%20Balik%20(2026)%201080p%20Film%20Indonesia.mp4
 #EXTINF:-1 tvg-logo="https://osccdn.medcom.id/images/content/2021/07/27/b8aa77b3a936180b0b27507b7de11034.jpg" group-title="SPECIAL MOVIES", Raya And The Last Dragon - 
 https://stream.dubbindo.site/upload/videos/2021/06/z4OZtSdBpFJdBTnMRdqA_11_01be215da1a3e00ee1da47de55d7bbc1_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://asset.kompas.com/crops/TQZdzAWlnJuNijvn2fbixNLBQJ4=/0x358:1500x1358/1200x800/data/photo/2021/09/07/6136b9137f73a.jpg" group-title="BEST SERIES", My Name S1E1 DUB - 
@@ -569,7 +448,7 @@ https://stream.playcdn.de/playlist/bd06b97d9cd3c792c0265422c0476d20/2/480.m3u8?x
 
 
 #EXTINF:-1 tvg-logo="https://thumb.prod.front.tim.cptech.pro/http/unsafe/990x556/filters:quality(80)/voddashhttps.cb.ticdn.it/videoteca2/V3/Film/2014/10/50435865/IMAGES/220921043114/T_50435865___NL___BG_HIGH.jpg" group-title="SPECIAL MOVIES", The Sky High - 
-https://cdn.dubbindo.site/dubbing/upload/videos/2025/12/eixHWkHL63tluKp3aef7_22_85e4e7f61ad04874243a4000c1b36e96_video_720p_converted.mp4
+https://stream.dubbindo.site/upload/videos/2025/12/eixHWkHL63tluKp3aef7_22_85e4e7f61ad04874243a4000c1b36e96_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmrNsjA5iY-KGnKHpiUsWMI7wAYMJutd2cU7VgocYcCZk6v5oLx74NPEA0&s=10" group-title="J MOVIES", E1 SAI : Disaster
 https://stream.playcdn.de/playlist/3e6931437770d0c6f90d12715f556925/3/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmrNsjA5iY-KGnKHpiUsWMI7wAYMJutd2cU7VgocYcCZk6v5oLx74NPEA0&s=10" group-title="J MOVIES", E2 SAI : Disaster
@@ -619,23 +498,23 @@ https://stream.playcdn.de/playlist/4f74c3d9e77c4a862a8e49efc1b0dd0f/2/480.m3u8?x
 #EXTINF:-1 tvg-logo="https://outloudculture.com/wp-content/uploads/2025/02/03-lh-dm-mobile-banner-1080x745-rr-f01-011025-67868980101aa-1-756x522.jpg" group-title="SPECIAL MOVIES 2", Love Hurts  
 https://stream.playcdn.de/playlist/c09629090d990ef2a0c353ad8c69df90/4/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/6ZnHQKcqQ8nmfP6woZu2v5EtXoW.jpg" group-title="SPECIAL MOVIES", Spongebob Squarepant Movie - 
-https://cdn.dubbindo.site/driveduo/uploads/e42ba63b-3a12-46cc-a92e-b838ac6b3bee/e42ba63b-3a12-46cc-a92e-b838ac6b3bee
+https://stream.dubbindo.site/driveduo/uploads/e42ba63b-3a12-46cc-a92e-b838ac6b3bee/e42ba63b-3a12-46cc-a92e-b838ac6b3bee
 #EXTINF:-1 tvg-logo="https://asset.kompas.com/crops/_ayP7LmvBlqmTaUJDiavD30oRoE=/47x0:2048x1334/1200x800/data/photo/2020/10/07/5f7d0d1130f3b.jpg" group-title="PIXAR MOVIES", Inside Out - 
 https://stream.dubbindo.site/uvideoweb/movie/Inside.Out.2015.HS.720p.Dubbing.mp4
 #EXTINF:-1 tvg-logo="https://www.alternateending.com/wp-content/uploads/2019/12/jUe7RbnkLXGYC9MPhdN9cruy4L0-768x431.jpg" group-title="SPECIAL MOVIES", Planes - 
-https://cdn.dubbindo.site/dubbing/upload/videos/2023/10/68Yuv4m64vio1c6ty9ts_10_33fbc7550806138356871770a314e0f9_video_720p_converted.mp4
+https://stream.dubbindo.site/upload/videos/2023/10/68Yuv4m64vio1c6ty9ts_10_33fbc7550806138356871770a314e0f9_video_480p_converted.mp4
 #EXTINF:-1 tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2019/05/Tinker-Bell-Movies-Ranked-Featured.jpg?q=50&fit=crop&w=600&h=338&dpr=1.5" group-title="SPECIAL MOVIES", Tinker Bell - 
-https://cdn.dubbindo.site/uvideoweb/movie/Tinker.Bell.2008.HS.720p.Dubbing.mp4
+https://stream.dubbindo.site/uvideoweb/movie/Tinker.Bell.2008.HS.720p.Dubbing.mp4
 #EXTINF:-1 tvg-logo="https://www.rogerebert.com/wp-content/uploads/2024/07/Minions-768x321.jpg" group-title="SPECIAL MOVIES", Minions - 
-https://cdn.dubbindo.site/dubbing/upload/videos/2022/06/Minions2015Dubbing_29_8ea5dadc2da1f_video_720p_converted.mp4
+https://stream.dubbindo.site/upload/videos/2022/06/Minions2015Dubbing_29_8ea5dadc2da1f_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://www.commonsensemedia.org/sites/default/files/styles/ratio_16_9_medium/public/screenshots/csm-movie/tinker-bell-and-the-secret-of-the-wings-ss1.jpg" group-title="SPECIAL MOVIES", Tinker Bell : Secret Of The Wings - 
-https://cdn.dubbindo.site/uvideoweb/movie/Tinker.Bell.Secret.of.the.Wings.2012.HS.720p.Dubbing.mp4
+https://stream.dubbindo.site/uvideoweb/movie/Tinker.Bell.Secret.of.the.Wings.2012.HS.720p.Dubbing.mp4
 #EXTINF:-1 tvg-logo="https://www.hollywoodinsider.com/wp-content/uploads/2021/06/Hollywood-Insider-Wish-Dragon-Review-John-Cho-Animations.png" group-title="SPECIAL MOVIES", Wish Dragon - 
-https://cdn.dubbindo.site/dubbing/upload/videos/2021/06/VBaHDCLbNrkkI3iq3KJM_21_ace5ff4545eade5013a4fe8cfab8c911_video_720p_converted.mp4
+https://stream.dubbindo.site/upload/videos/2021/06/VBaHDCLbNrkkI3iq3KJM_21_ace5ff4545eade5013a4fe8cfab8c911_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://cinemags.org/wp-content/uploads/2020/08/movie-key-art-1221659-768x512.jpeg" group-title="SPECIAL MOVIES", We Bare Bears The Movie  
-https://cdn.dubbindo.site/dubbing/upload/videos/2022/05/WeBareBearsTheMovie2020Dubbing_22_AF1QipMWBHUZ0dhgNPn4Lkqb_video_720p_converted.mp4
+https://stream.dubbindo.site/upload/videos/2022/05/WeBareBearsTheMovie2020Dubbing_22_AF1QipMWBHUZ0dhgNPn4Lkqb_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://images.toopa.com/132360_tinkerbell-and-the-lost-treasure-tinkerbell-tinker1.jpg" group-title="SPECIAL MOVIES", Tinker Bell and the Lost Treasure
-https://cdn.dubbindo.site/uvideoweb/movie/Tinker.Bell.and.Lost.Treasure.2009.HS.720p.Dubbing.mp4
+https://stream.dubbindo.site/uvideoweb/movie/Tinker.Bell.and.Lost.Treasure.2009.HS.720p.Dubbing.mp4
 #EXTINF:-1 tvg-logo="https://i.guim.co.uk/img/media/6aea54cfe4512a04ebf3cca1181281f59bffe1c5/593_0_2420_1454/master/2420.jpg?width=465&dpr=2&s=none&crop=none" group-title="PIXAR MOVIES", The Incredibles
 https://stream.dubbindo.site/upload/videos/2022/08/ghIsyBU8ZNn1mhU2KVHO_07_04ed28f289ba0b59a8e2f4a4b1e26169_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2024/06/06/id_1308227/1308227_720.jpg" group-title="PIXAR MOVIES", Inside Out 2
@@ -663,7 +542,7 @@ https://stream.dubbindo.site/upload/videos/2023/03/DF94GhmZShEWyTaHSnvF_22_2ac8c
 #EXTINF:-1 tvg-logo="https://compote.slate.com/images/aead9b4c-c925-4175-b797-5ee15e74f5c1.jpg?crop=568%2C379%2Cx0%2Cy0&width=840" group-title="PIXAR MOVIES", Monster University
 https://stream.dubbindo.site/upload/videos/2026/07/AndIzi6bQme1hATZ5gUt_30_bad396079be30fbec81cc36b5fcf476c_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://quantummartialarts.com.au/wp-content/uploads/2016/05/qma-kung-fu-panda.jpg" group-title="SPECIAL MOVIES", Kungfu Panda
-https://cdn.dubbindo.site/driveduo/uploads/004e9dfc-f061-4ba6-9644-a593b68f1aab/004e9dfc-f061-4ba6-9644-a593b68f1aab
+https://stream.playcdn.de/playlist/b311261a925a86e1518c45bb2401cb79/3/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/visual/2026/08/28/film-wings-of-dread-2026-1787889423428_169.png?w=400&q=90" group-title="SPECIAL MOVIES 2", Wings Of Dread
 https://stream.playcdn.de/playlist/435d0d40dd9ca57153d328b9dd45ac97/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x0/webp/photo/2026/02/17/2861259436.jpg" group-title="SPECIAL MOVIES 2", Humint
@@ -745,7 +624,7 @@ https://stream.playcdn.de/playlist/1178b40cfbe0ec806e4e1116cfc8ddf3/2/480.m3u8?x
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p22753874_v_h10_aa.jpg" group-title="DOCUMENTARY", Flight/Risk
 https://stream.playcdn.de/playlist/33fd4cc0c18468edaf8b827e3796ce96/4/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://images.bauerhosting.com/legacy/empire-tmdb/films/13053/images/lwI40taKaCKHK9mUeSBP2tQz8dS.jpg" group-title="SPECIAL MOVIES", BOLT
-https://cdn.dubbindo.site/uvideoweb/movie/Bolt.2008.HS.720p.Dubbing.mp4
+https://stream.dubbindo.site/uvideoweb/movie/Bolt.2008.HS.720p.Dubbing.mp4
 #EXTINF:-1 tvg-logo="https://asset.kompas.com/crops/LWMLlvZPYVnItTeDP7XsIMoo_oY=/0x126:1242x954/1200x800/data/photo/2022/04/06/624cd8dee59d8.jpeg" group-title=" 🇮🇩 MOVIES", MUMUN 
 https://stream.dubbindo.site/upload/videos/2026/01/74HkENC66OVzcULlVtks_07_aa2cc92226d92e57b94aa2d9afc5be4e_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2026/04/11/poster-film-ayah-ini-arahnya-ke-mana-ya-sumber-foto-instagramcomfilmayahiniarahnyakemanaya-1775887507258_169.jpeg" group-title=" 🇮🇩 MOVIES", Ayah Ini Arahnya Ke Mana Ya? 
@@ -797,7 +676,7 @@ https://stream.playcdn.de/playlist/007107b118c6e164671ea639a3864af9/2/480.m3u8?x
 #EXTINF:-1 tvg-logo="https://i0.wp.com/dibalikcerita.com/wp-content/uploads/2022/11/barbarian-2022-review-film.jpg" group-title="SPECIAL MOVIES 2", Barbarian
 https://stream.playcdn.de/playlist/50abae51337ad45be2a6a567ac1725ff/3/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://moviesalamark.com/wp-content/uploads/2023/07/f037848d80f7e5e45dec1fe2e0417ebe.jpeg" group-title="SPECIAL MOVIES", Peter Pan
-https://cdn.dubbindo.site/dubbing/upload/videos/2026/01/D9sVXMwezOccpItvBzUW_09_6d85fa5b392f3ca849c159728598f659_video_720p_converted.mp4
+https://stream.dubbindo.site/upload/videos/2026/01/D9sVXMwezOccpItvBzUW_09_6d85fa5b392f3ca849c159728598f659_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://bisnismuda.id/assets/content/20210129150450000000atmerrakerror.jpg" group-title="SPECIAL MOVIES 3", ATM - Er Rak Error
 https://stream.playcdn.de/playlist/1f950f932e40e6d9987942d6e775f0d9/4/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://hollymedia.wordpress.com/wp-content/uploads/2009/10/500-days-of-summer-25515.jpg" group-title="SPECIAL MOVIES 3", 500 Days of Summer 
@@ -825,13 +704,13 @@ https://stream.playcdn.de/playlist/a3d1343fd48d9ef6232c522f61c21a29/2/480.m3u8?x
 #EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2025/01/08/a-business-proposal_169.jpeg" group-title=" 🇮🇩 MOVIES", A Bussines Proposal
 https://stream.dubbindo.site/upload/videos/2025/06/Ad3JX5voGFzhyjx4hyzi_16_2056ab59f22d0dfec624ce7a32b5ce7e_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://i0.wp.com/moviefail.com/wp-content/uploads/2012/04/2011-kung-fu-panda-2-hd_1280x800-e1388949716396.jpeg" group-title="SPECIAL MOVIES", Kungfu Panda 2
-https://cdn.dubbindo.site/dubbing/upload/videos/2024/02/pS227fhzFGfkAsCzZD5m_31_a787bacd661c5e48cb062729b39567c2_video_720p_converted.mp4
+https://stream.dubbindo.site/upload/videos/2024/02/pS227fhzFGfkAsCzZD5m_31_a787bacd661c5e48cb062729b39567c2_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/k82Bo0iWm2KCtpe3JFRwCoo9OU0=/1024x576/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1166964/original/042680500_1457603168-KFP3-payoff-poster-P1.jpg" group-title="SPECIAL MOVIES", Kungfu Panda 3
-https://cdn.dubbindo.site/dubbing/upload/videos/2023/12/KcwTWnI6Lfsv3Vfrn8li_12_9d607bc35c0d203369f1605354256eee_video_720p_converted.mp4
+https://stream.dubbindo.site/upload/videos/2023/12/KcwTWnI6Lfsv3Vfrn8li_12_9d607bc35c0d203369f1605354256eee_video_480p_converted.mp4
 #EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/DSJF_D3Oumzfg2NgHrCB5BN6iQI=/1024x576/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/179426/original/100925doraemon-logo.jpg" group-title="SPECIAL MOVIES", Doraemon Movie 1 Dinosaurus Nobita
-https://cdn.dubbindo.site/dubbing/upload/videos/2022/10/HpSUkP3IbTAXBS6pkGAx_13_4c7539451baf19a4cb186e5e0c61a1ed_video_720p_converted.mp4
+https://stream.dubbindo.site/upload/videos/2022/10/HpSUkP3IbTAXBS6pkGAx_13_4c7539451baf19a4cb186e5e0c61a1ed_video_480p_converted.mp4
 #EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2022/05/18/doraemon-the-movie-nobitas-little-star-wars-2021_43.jpeg" group-title="SPECIAL MOVIES", Doraemon Movie : Little Star Wars 2022
-https://cdn.dubbindo.site/dubbing/upload/videos/2023/04/ycEA8SxcAdbmlxB3PYgU_27_654ce4563e0d0b82233d0f6998388236_video_720p_converted.mp4
+https://stream.dubbindo.site/upload/videos/2023/04/ycEA8SxcAdbmlxB3PYgU_27_654ce4563e0d0b82233d0f6998388236_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/zwisTJcEs4qECdyluLvn0ErVKxA=/1920x1080/filters:quality(70)/vidio-media-production/uploads/image/source/20820/d4a4aa.png" group-title="SPECIAL MOVIES 2", Jack Reacher 
 https://stream.playcdn.de/playlist/77fee37f16eba55410a3120015eac3d0/3/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/D8cktI0EIzKGdoBt15XAdr2VugU=/1024x576/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4040962/original/061291900_1654200476-Jack_Reacher_-_Thumbnail.jpg" group-title="SPECIAL MOVIES 2", Jack Reacher Never Go Back
@@ -847,9 +726,9 @@ https://stream.playcdn.de/playlist/adc519687ac454a47eb58edf8baf0d10/4/480.m3u8?x
 #EXTINF:-1 tvg-logo="https://media.suara.com/pictures/653x366/2024/01/15/83059-poster-film-terbaru-netflix-berjudul-lift-instagramcomnetflixfilm.jpg" group-title="SPECIAL MOVIES 3", Lift 2024
 https://stream.playcdn.de/playlist/287307b78a82648e827822c82ca18c67/4/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://media.suara.com/pictures/653x366/2023/11/06/82726-anime-my-neighbor-totoro.jpg" group-title="SPECIAL MOVIES",  My Neighbor Totoro 
-https://cdn.dubbindo.site/dubbing/upload/videos/2025/12/2WpAo8nSG5Ka9oDFYYwG_14_34aadc9dc17e6e7eab61bfd1b90c1676_video_720p_converted.mp4
+https://stream.dubbindo.site/driveduo/uploads/57dc2c34-b579-452c-ac97-315ad47e1752/57dc2c34-b579-452c-ac97-315ad47e1752
 #EXTINF:-1 tvg-logo="https://media.suara.com/pictures/653x366/2023/11/14/47304-poster-film-animasi-ocean-waves-netflix.jpg" group-title="SPECIAL MOVIES", Ocean Waves
-https://cdn.dubbindo.site/uvideoweb/movie/The.Ocean.Waves.720p.Dubbing.mp4
+https://stream.dubbindo.site/uvideoweb/movie/The.Ocean.Waves.720p.Dubbing.mp4
 #EXTINF:-1 tvg-logo="https://www.themovieblog.com/wp-content/uploads/2016/08/o2sbbEoKa.jpg" group-title="SPECIAL MOVIES 2", Dont Breath
 https://stream.playcdn.de/playlist/761c64b3579c45c4e399c03b113ff7b7/5/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://imgx.sonora.id/crop/0x0:0x0/360x240/filters:format(webp):quality(50)/photo/2024/10/27/8c2765629d640e8ce59214f26368527f-20241027083647.jpg" group-title="SPECIAL MOVIES 2", Dont Move
@@ -889,13 +768,13 @@ https://stream.playcdn.de/playlist/8b8bf0fb3b405aabe5a7933c3cb2f78a/4/480.m3u8?x
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie8NSayeMwPkVAPMOgFfszv0vzi1fURFIeDWwMK8CQxgCMIgDkSSoYqkbo3PxpbJXlgv5qOw-ruUbS62h290RIAxwZlCa4LDtqj_rArXzYWBtza7rYjOK018OSW6RZqOSuGxEzcZAfPWeeF3Y6u_9ikn77DzuVdbJaBTyiN_89shu9WGHPmrPwO1192G8B/w400-h373/20251212_063400.jpg" group-title="SPECIAL MOVIES", Legenda Si Kancil
 https://stream.playcdn.de/playlist/804694d0390b2721a81d136498d2e42f/4/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiprwp-5jZyCFsV9760VRNn4oL-nMm2DWT55-Z1pJrL_K5km59J_II1d8YinVb9lUyOVBz5RnyXYTG6SXIVY_M7b60wwgNYMmZ27lFJIwlE31KG_6f9uSxemMLmXfxDst8UvguP9Bj9y6hoonHoU7hll0f5kKg06iJbbPP6MePOyfjz7VR3dD9wiyHj=s600" group-title="SPECIAL MOVIES", Ford v Ferrari 
-https://cdn.dubbindo.site/dubbing/upload/videos/2026/01/ri927jWUIspJ1VkWCC1s_20_7fdb44dd4f29c56164259417a54776c8_video_720p_converted.mp4
+https://stream.dubbindo.site/upload/videos/2026/01/ri927jWUIspJ1VkWCC1s_20_7fdb44dd4f29c56164259417a54776c8_video_480p_converted.mp4
 #EXTINF:-1 tvg-logo="https://resizing.flixster.com/WncO38wK1wSB27xZJmWnj-703Uc=/fit-in/352x330/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p31928197_k_h8_aa.jpg" group-title="SPECIAL MOVIES 2", Hijacked
 https://stream.playcdn.de/playlist/2e16f6a9b0f941637f61f713dd20736e/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p33014869_v_h8_aa.jpg" group-title="DOCUMENTARY", Time And Water
 https://stream.playcdn.de/playlist/58347269854760d914ad9ff21b7f59e7/2/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/visual/2026/07/08/avatar-aang-the-last-airbender-2026-1783486502626_169.png" group-title="SPECIAL MOVIES", Avatar Aang: The Last Airbender Movie
-https://stream.playcdn.de/playlist/0b438d80baa57f1c409f794a98167997/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFkLNPs2kbnjkj0QohNOtuIkUFdRHvsuAumcOlizbMVA&s=10" group-title="SPECIAL MOVIES", The Angry Birds Movie 
+https://stream.dubbindo.site/upload/videos/2025/09/23KYV9JejP9VEGijDhYv_24_b0f53983873de380a93926c9b525f40d_video_480p_converted.mp4
 #EXTINF:-1 tvg-logo="https://www.genmuda.com/wp-content/uploads/2016/09/the-magnificent-seven-2016-5k-768x480.jpg" group-title="SPECIAL MOVIES 3", The Magnificent Seven 
 https://stream.playcdn.de/playlist/31c8c6a570c912d8e82d93bec0ac7108/4/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p32994_v_h8_aj.jpg" group-title="SPECIAL MOVIES 2", Out of Time (2003)
@@ -989,15 +868,15 @@ https://stream.playcdn.de/playlist/5526dcd9f865d3ac9ff2ff893b2cd3d1/3/480.m3u8?x
 #EXTINF:-1 tvg-logo="https://media.suara.com/pictures/653x366/2025/03/03/15240-gannibal-season-2-mydramalist.jpg" group-title="J MOVIES", Gannibal S2E8
 https://stream.playcdn.de/playlist/68323683b50c013f07d38db5da40c22f/3/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://wallpaperaccess.com/full/484240.jpg" group-title="SPECIAL MOVIES", Despicable Me
-https://cdn.dubbindo.site/uvideoweb/movie/Despicable.Me.2010.WEB.720p.Dubbing.mp4
+https://stream.dubbindo.site/uvideoweb/movie/Despicable.Me.2010.WEB.720p.Dubbing.mp4
 #EXTINF:-1 tvg-logo="https://thefirstgates.com/wp-content/uploads/2013/07/despicableme2.jpg" group-title="SPECIAL MOVIES", Despicable Me 2
-https://cdn.dubbindo.site/dubbing/upload/videos/2026/08/IhCJ9eVT2GQqeM2FPxQU_03_0f506cc52386c3f8028d73c493820ea4_video_720p_converted.mp4
+https://stream.dubbindo.site/upload/videos/2026/08/IhCJ9eVT2GQqeM2FPxQU_03_0f506cc52386c3f8028d73c493820ea4_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://wallpapercave.com/mwp/wp1916260.jpg" group-title="SPECIAL MOVIES", Despicable Me 3
-https://cdn.dubbindo.site/uvideoweb/movie/Despicable.Me.3.2017.WEB.720p.Dubbing.mp4
+https://stream.dubbindo.site/uvideoweb/movie/Despicable.Me.3.2017.WEB.720p.Dubbing.mp4
 #EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/visual/2024/07/05/despicable-me-4-1_169.png" group-title="SPECIAL MOVIES", Despicable Me 4
-https://cdn.dubbindo.site/dubbing/upload/videos/2024/09/GMBmvcHFLBSWnWWlzpcO_24_876263ac974c110d52a7365e5e0fbca8_video_720p_converted.mp4
+https://stream.dubbindo.site/upload/videos/2024/09/GMBmvcHFLBSWnWWlzpcO_24_876263ac974c110d52a7365e5e0fbca8_video_480p_converted.mp4
 #EXTINF:-1 tvg-logo="https://bloomreviewsblog.com/wp-content/uploads/2016/12/open-uri20160812-3094-m7gl4u_36a28be4.jpeg" group-title="SPECIAL MOVIES", Spirited Away
-https://cdn.dubbindo.site/dubbing/upload/videos/2026/10/ZjvZTI7FpJuoItkSXfKK_01_5aaffc527f04cea5b897bc20a5d8e7b7_video_720p_converted.mp4
+https://stream.dubbindo.site/driveduo/uploads/4287af9f-fcea-4401-85b1-03aae174c747/4287af9f-fcea-4401-85b1-03aae174c747
 #EXTINF:-1 tvg-logo="https://asset.tabloidbintang.com/img/1779958721_e79cb1bdd8709bfde9e1.jpeg" group-title=" 🇮🇩 MOVIES", Five Friends 2 - Mount Klawih
 https://stream.dubbindo.site/upload/videos/2026/09/1zcdjtq6msf1Sw9eVwZa_27_72fca249fe9a38e1cb686d3feecf728d_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://media.suara.com/pictures/653x366/2022/07/10/24423-poster-incantation-netflix.jpg" group-title="HORROR AND THRILLER", Incantation
@@ -1219,29 +1098,29 @@ https://stream.playcdn.de/playlist/42903e8d1a647066ef11b2deb866a416/2/480.m3u8?x
 #EXTINF:-1 tvg-logo="https://asianmoviepulse.com/wp-content/uploads/2019/12/The-Mole-Song-Takashi-Miike-1-768x410.jpg" group-title="J MOVIES", The Mole Song: Undercover Agent Reiji
 https://stream.playcdn.de/playlist/3861384bf13bcabfb754f1c04dc2f5a1/3/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://spoilertown.com/wp-content/uploads/2025/08/jumanji-1995-768x384.webp" group-title="SPECIAL MOVIES", Jumanji
-https://cdn.dubbindo.site/dubbing/upload/videos/2026/10/2U76Zxnd88L8KuafK3be_12_23c61b8a60cd2b845d705919cbf58537_video_720p_converted.mp4
+https://stream.dubbindo.site/driveduo/uploads/9fb64970-131a-4348-a725-f3c68e6d1e79/9fb64970-131a-4348-a725-f3c68e6d1e79
 #EXTINF:-1 tvg-logo="https://spoilertown.com/wp-content/uploads/2025/08/ant-man-2015-768x384.webp" group-title="SPECIAL MOVIES", Ant Man
 https://stream.dubbindo.site/upload/videos/2021/12/NYALlltoNKjHaAzKv1gk_24_88fcecd5bf65d738ca3d71ff73f72e5a_video_480p_converted.mp4
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p13798222_v_h8_as.jpg?w=1280&h=720" group-title="SPECIAL MOVIES", Ant-Man and the Wasp
 https://stream.dubbindo.site/upload/videos/2021/12/4Pe6JAg3kaWqjm7Kiumx_27_c95b6a5df0b0b27d2ee09fcf2c163999_video.mp4
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p3593387_v_h8_aa.jpg?w=1280&h=720" group-title="SPECIAL MOVIES", Tooth Fairy
-https://stream.dubbindo.site/upload/videos/2025/11/sh2YMceN6jOm44J3lvLg_26_4ffebacdfaef95bdac236e4bc518a76c_video_480p_converted.mp4
+https://drive.adammau2.my.id/0:/Other/PTKWIu9eXYQS9J1zQTlqV_11_515bceo5cc44c9p28e248ad9cedaba6d_video.mp4
 #EXTINF:-1 tvg-logo="https://spoilertown.com/wp-content/uploads/2024/07/the-chronicles-of-narnia-lion-witch-and-wardrobe-2005-768x384.webp" group-title="SPECIAL MOVIES", The Chronicles of Narnia - The Lion the Witch and the Wardrobe
-https://cdn.dubbindo.site/dubbing/upload/videos/2025/09/uOzwvlt5lwtiMwKbovTm_12_47c7a83943da9e3600e7dee22f32987f_video_720p_converted.mp4
+https://stream.dubbindo.site/upload/videos/2025/09/uOzwvlt5lwtiMwKbovTm_12_47c7a83943da9e3600e7dee22f32987f_video_480p_converted.mp4
 #EXTINF:-1 tvg-logo="https://spoilertown.com/wp-content/uploads/2025/12/chronicles-of-narnia-prince-caspian-2008-768x384.webp" group-title="SPECIAL MOVIES", The Chronicles of Narnia: Prince Caspian
-https://stream.dubbindo.site/upload/videos/2025/09/965xnmLvS7nrcNshcrpE_12_5246f62bb79e2eae4a04d8707aa3b062_video_720p_converted.mp4
+https://stream.dubbindo.site/upload/videos/2025/09/965xnmLvS7nrcNshcrpE_12_5246f62bb79e2eae4a04d8707aa3b062_video_480p_converted.mp4
 #EXTINF:-1 tvg-logo="https://unoriginalobservations.wordpress.com/wp-content/uploads/2010/12/chronicles_of_narnia_the_voyage_of_the_dawn_treader_ver5.jpg" group-title="SPECIAL MOVIES", The Chronicles of Narnia: The Voyage of the Dawn Treader
-https://stream.dubbindo.site/upload/videos/2025/08/PMUOBvreqO76Uvls5bEx_03_3a5b79464325c28e513141c65dae6b4a_video_720p_converted.mp4
+https://stream.dubbindo.site/upload/videos/2025/08/PMUOBvreqO76Uvls5bEx_03_3a5b79464325c28e513141c65dae6b4a_video_480p_converted.mp4
 #EXTINF:-1 tvg-logo="https://sartorialgeek.com/wp-content/uploads/2018/06/nMulOcoR6HAahofkcuo4mtA0o9j-e1545113885610.jpg" group-title="SPECIAL MOVIES", How to Train Your Dragon
-https://stream.dubbindo.site/upload/videos/2025/09/yS8q4XASWi1Sh9f5LHS1_30_d32ed35d6b0332273cd03797d5f4a528_video_720p_converted.mp4
+https://stream.dubbindo.site/uvideoweb/movie/How.to.Train.Your.Dragon.2010.BD.720p.Dubbing.mp4
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10099311_v_h8_ac.jpg?w=1280&h=720" group-title="SPECIAL MOVIES", How to Train Your Dragon 2
-https://stream.dubbindo.site/upload/videos/2025/09/RhoxB7FGp56IEYvebI43_30_d680ed0d6bc89de8927c9d512f21b8a2_video_720p_converted.mp4
+https://stream.dubbindo.site/upload/videos/2022/06/HowtoTrainDragon2Dubbing_20_H2oSj5rLbQ42i9w_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p36055_v_h10_aq.jpg?w=1280&h=720" group-title="SPECIAL MOVIES", Herbie Fully Loaded
-https://stream.dubbindo.site/upload/videos/2023/09/h9EVi8KTjAaVOv2P91eR_07_213a1b1a5bbc08a514177579123cb0fc_video_720p_converted.mp4
+https://stream.dubbindo.site/upload/videos/2023/09/h9EVi8KTjAaVOv2P91eR_07_213a1b1a5bbc08a514177579123cb0fc_video_480p_converted.mp4
 #EXTINF:-1 tvg-logo="https://storage.ghost.io/c/24/37/24372e80-8819-45cd-8a9d-4dbc679f7337/content/images/size/w960/2026/06/images-1.jpeg" group-title="SPECIAL MOVIES", Supergirl 2026
-https://td.wahyudin.workers.dev/0:/Supergirl.2026.1080p.AMZN.WEB-DL.MALAY.DDP2.0.H.265-TJX.mp4
+https://stream.dubbindo.site/upload/videos/2026/10/cqnQgiKRWwh68j62XREk_08_577ecd868302587f505831107bd5d4ad_video_480p_converted.mp4
 #EXTINF:-1 tvg-logo="https://scrapsfromtheloft.com/wp-content/uploads/2026/07/Minions-Monsters-1-768x432.webp" group-title="SPECIAL MOVIES", Minions And Monster 
-https://td.wahyudin.workers.dev/0:/Minions.and.Monsters.2026.1080p.AMZN.WEB-DL.iNDO.DDP5.1.H.264-FieryFly.mkv.mp4
+https://td.wahyudin.workers.dev/0:/Minions%20and%20Monsters%20(2026)%201080p%20Indo%20Dub.mp4
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/resized/1280x720/p/headline/sinopsis-dilwale-misteri-jalinan-cinta--edd943.jpg" group-title="❤️REQUESTED MOVIES❤", Dilwale
 https://stream.playcdn.de/playlist/77564c18243b7ab0030e5613517c1c10/3/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://thelittlecorner-home-blog.translate.goog/wp-content/uploads/2024/10/image-2.jpeg?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" group-title="❤️REQUESTED MOVIES❤", Kal Ho Naa Ho
@@ -1372,9 +1251,9 @@ https://stream.playcdn.de/playlist/f2c9d6fd6c2b6a7c4f6e5e9a38a4a710/5/480.m3u8?x
 #EXTINF:-1 tvg-logo="https://spoilertown.com/wp-content/uploads/2026/10/the-whisper-man-2026.webp" group-title="❤️REQUESTED MOVIES❤", The Whisper Man
 https://stream.playcdn.de/playlist/f540b3ab3ca3cd61adf537f7df435702/1/0.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/7c/4f/b3/7c4fb39d-2108-05c3-f5e9-bd6d681800d4/pr_source.lsr/1200x675.jpg" group-title="SPECIAL MOVIES", Tom and Jerry: The Fast and the Furry
-https://stream.dubbindo.site/upload/videos/2026/07/ZIKqBKI5rxgRzLOG8xZr_02_704b37bbc0ab7b25868ec17fee992049_video_720p_converted.mp4
-#EXTINF:-1 tvg-logo="https://www.avforums.com/styles/avf/editorial/block//bd6139d4205f206d04c7d368336ba666_3x3.jpg" group-title="SPECIAL MOVIES", Barnyard
-https://stream.dubbindo.site/upload/videos/2026/05/xU2KiW6dA98EPMj3WZ9d_19_2f657b3a766dee14876994895445ceca_video_720p_converted.mp4
+https://stream.dubbindo.site/upload/videos/2024/02/HZFxSMOKWt3xFMZZJ25W_29_333548fba5e060a0c721e9403922a2bf_video_480p_converted.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUNS9wcOSieU6uVDMs51e_x0DjisBD8IoPMvrEkCsDfw&s=10" group-title="SPECIAL MOVIES", Doraemon Movie - Nobita to Fushigi Kaze Tsukai
+https://stream.dubbindo.site/driveduo/uploads/e60c59d2-d2fc-4e80-9385-4b90e36c767c/e60c59d2-d2fc-4e80-9385-4b90e36c767c
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p26964283_b_h10_aa.jpg?w=1280&h=720" group-title="SPECIAL EVENT", Neal Brennan: Crazy Good 
 https://stream.playcdn.de/playlist/0e1de3b9806700c9ee4df98ee258f5de/4/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://decider.com/wp-content/uploads/2024/04/JIMMY-CARR-NATURAL-BORN-KILLER-STREAMING.jpg?quality=75&strip=all&w=1280" group-title="SPECIAL EVENT", Jimmy Carr: Natural Born Killer
@@ -1449,6 +1328,7 @@ https://stream.dubbindo.site/upload/videos/2026/11/EWLi6XHNof9OtKgWzTGI_07_2f581
 https://stream.dubbindo.site/upload/videos/2026/11/ZXHvQh5JPnxpSPgrfGqe_04_e81a550a6d2e47e8214aca8cde9222d6_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://www.heavenofhorror.com/wp-content/uploads/2026/08/The-Secret-Woman-Netflix-Review.jpg" group-title="SPECIAL MOVIES 3", The Secret Woman
 https://stream.playcdn.de/playlist/51818dadca96d7022885df8a63647c46/1/0.m3u8?x=1
+KONTOL
 #EXTINF:-1 tvg-logo="https://media.matamata.com/thumbs/2021/12/22/12118-sinopsis-babys-day-out-imdb/745x489-img-12118-sinopsis-babys-day-out-imdb.jpg" group-title="SPECIAL MOVIES", Babys Day Out
 https://cdn.dubbindo.site/uvideoweb/movie/Babys.Day.Out.1994.HS.720p.Dubbing.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/fvYXyKM7h6i7E14ljXvgwYxx3db.jpg" group-title="HORROR AND THRILLER", Haunted House
