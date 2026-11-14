@@ -178,6 +178,41 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLSAPHfyMd8wTJki0CjZFDBAYH3HXnc94QK9wPR3NC6w&s=10" group-title="LIVE FOR YOU",TSN SPORTS 1
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd 
+ 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLSAPHfyMd8wTJki0CjZFDBAYH3HXnc94QK9wPR3NC6w&s=10" group-title="LIVE FOR YOU",TSN SPORTS 2
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd 
+ 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLSAPHfyMd8wTJki0CjZFDBAYH3HXnc94QK9wPR3NC6w&s=10" group-title="LIVE FOR YOU",TSN SPORTS 3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd 
+ 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLSAPHfyMd8wTJki0CjZFDBAYH3HXnc94QK9wPR3NC6w&s=10" group-title="LIVE FOR YOU",TSN SPORTS 4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd 
+ 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLSAPHfyMd8wTJki0CjZFDBAYH3HXnc94QK9wPR3NC6w&s=10" group-title="LIVE FOR YOU",TSN SPORTS 5
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd 
+
 #EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/MotorvisionTV2.png" group-title="LIVE FOR YOU", MotorVision
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 
@@ -333,8 +368,42 @@ https://stream.dubbindo.site/upload/videos/2021/12/hYyXZzs9VgND5fqBZrkY_28_ccc67
 https://stream.dubbindo.site/upload/videos/2021/12/atMHHw3c2YXcrRk3Wb7b_28_053b01a81d6116ad4363b678669314e0_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p12001575_b_h10_aa.jpg?w=960&h=540" group-title="WE BARE BEARS", S1E9
 https://stream.dubbindo.site/upload/videos/2021/12/DiqyZMN3Dic9CzhaCnlA_28_422e4890464c825395aa19f985ace67b_video_720p_converted.mp4
-#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p12001575_b_h10_aa.jpg?w=960&h=540" group-title="WE BARE BEARS", S1E10
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p12001575_b_h10_aa.jpg?w=960&h=540" group-title="WE BARE BEARS", S1E 10
 https://stream.dubbindo.site/upload/videos/2021/12/la57KiU4Ml2NeEVGlmJn_28_15d215ba6285c362c5d8076c0e34d8d2_video_720p_converted.mp4
+
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p12001575_b_h10_aa.jpg?w=960&h=540" group-title="WE BARE BEARS", S1E 11
+https://stream.dubbindo.site/upload/videos/2021/12/UES9U84mVbw4gM97BhAk_28_6bc9cad255847f6014dcc078d94d6b05_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p12001575_b_h10_aa.jpg?w=960&h=540" group-title="WE BARE BEARS", S1E 12
+https://stream.dubbindo.site/upload/videos/2021/12/SdkhB8l8p7eKn3L7Mfh2_28_8cd2540a438ee4466da989df386f0256_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p12001575_b_h10_aa.jpg?w=960&h=540" group-title="WE BARE BEARS", S1E 13
+https://stream.dubbindo.site/upload/videos/2021/12/TXgVN7EiOW2dvEgX3zCZ_28_851173aae09d5173f78aed1aba1cce45_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p12001575_b_h10_aa.jpg?w=960&h=540" group-title="WE BARE BEARS", S1E 14
+https://stream.dubbindo.site/upload/videos/2021/12/171q8RAPhPx6EYzW6Bar_28_d0d81ad7078f3ba3853d037037210c67_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p12001575_b_h10_aa.jpg?w=960&h=540" group-title="WE BARE BEARS", S1E 15
+https://stream.dubbindo.site/upload/videos/2021/12/ZINr1cUwmI2ibxwhdtZv_28_aff516ee36f0bece14804a3e34e77417_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p12001575_b_h10_aa.jpg?w=960&h=540" group-title="WE BARE BEARS", S1E 16
+https://stream.dubbindo.site/upload/videos/2021/12/AJfEiIBS8bVFFZ2Uv82P_28_bfb5044781b35d0ad2d9d41e8b0ec0d0_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p12001575_b_h10_aa.jpg?w=960&h=540" group-title="WE BARE BEARS", S1E 17
+https://stream.dubbindo.site/upload/videos/2021/12/ZS4repOTNbi8NBetHFAJ_28_94dcf059a2f3b25ac7d217ce9d825263_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p12001575_b_h10_aa.jpg?w=960&h=540" group-title="WE BARE BEARS", S1E 18
+https://stream.dubbindo.site/upload/videos/2021/12/kb4aGpflTk4Gw7bK3clb_28_a661aa0abd0cb109e4bf662b47f859f1_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p12001575_b_h10_aa.jpg?w=960&h=540" group-title="WE BARE BEARS", S1E 19
+https://stream.dubbindo.site/upload/videos/2021/12/AFOKOyNWuj9L1UZ6YjPf_28_f9b2efc9f8e6ac9c7fb4a07b36f177ca_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p12001575_b_h10_aa.jpg?w=960&h=540" group-title="WE BARE BEARS", S1E 20
+https://stream.dubbindo.site/upload/videos/2021/12/N3NGgYKqlnkPFvEeGyzj_28_fa1614e25c38675624242df0bf818ea6_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p12001575_b_h10_aa.jpg?w=960&h=540" group-title="WE BARE BEARS", S1E 21
+https://stream.dubbindo.site/upload/videos/2021/12/HRxaiy1MvdyyBOuLR2lT_28_2f42f9c49f2411c0882255d42998bd80_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p12001575_b_h10_aa.jpg?w=960&h=540" group-title="WE BARE BEARS", S1E 22
+https://stream.dubbindo.site/upload/videos/2021/12/P2WSL3SbWcPLXXoEzzMu_28_5544dd9265755872b3592f326b800af3_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p12001575_b_h10_aa.jpg?w=960&h=540" group-title="WE BARE BEARS", S1E 23
+https://stream.dubbindo.site/upload/videos/2021/12/kIXNk62OZ3Lwqa3fhewP_28_4301ef73508a3997a312576258801202_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p12001575_b_h10_aa.jpg?w=960&h=540" group-title="WE BARE BEARS", S1E 24
+https://stream.dubbindo.site/upload/videos/2021/12/ZFDBGoC64LtcWFzFNdVx_28_3dfb06bf11be2857d61dd19f329e0c1a_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p12001575_b_h10_aa.jpg?w=960&h=540" group-title="WE BARE BEARS", S1E 25
+https://stream.dubbindo.site/upload/videos/2021/12/ta3DzaeR7frdsYGR8Dg9_28_c270dec22bdd54352ab2d058a944cddf_video_720p_converted.mp4
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p12001575_b_h10_aa.jpg?w=960&h=540" group-title="WE BARE BEARS", S1E 26
+https://stream.dubbindo.site/upload/videos/2021/12/E241a4joKVFVio6PYE6l_28_c9f96ba82c93404f7c53e604a779f111_video_720p_converted.mp4
+
 
 #EXTINF:-1 tvg-logo="https://www.bifikir.com/images/SOI_low/ratatuy-(ratatouille)_s2a3.webp" group-title="PIXAR MOVIES",Ratatouille 
 https://stream.dubbindo.site/upload/videos/2022/07/3DUooD9AAtb7EwsLDE86_26_9e5c35ce6bd5a8d48f8cf9ef25cc5513_video_480p_converted.mp4
