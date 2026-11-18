@@ -834,22 +834,35 @@ https://stream.playcdn.de/playlist/08430761cc454122d4d2e6b2f0ff01a1/5/480.m3u8?x
 https://stream.playcdn.de/playlist/55202cd3c809f7081f1fec1b949a9b25/3/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://spoilertown.com/wp-content/uploads/2026/01/ballerina-2025-768x384.webp" group-title="SPECIAL MOVIES 2", Ballerina - World Of John Wick
 https://stream.playcdn.de/playlist/d70b71d7420a2175a3663e3e2362f59b/4/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://spoilertown.com/wp-content/uploads/2025/05/mission-impossible-1996-768x384.webp" group-title="SPECIAL MOVIES 3", Mission Impossible
+#EXTINF:-1 tvg-logo="https://spoilertown.com/wp-content/uploads/2025/05/mission-impossible-1996-768x384.webp" group-title="MISSION IMPOSSIBLE", Mission Impossible
 https://stream.playcdn.de/playlist/8fffc05f2a740ab72f87d2cf5eaebc63/4/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://spoilertown.com/wp-content/uploads/2025/05/mission-impossible-2-2000-768x384.webp" group-title="SPECIAL MOVIES 3", Mission Impossible II
+#EXTINF:-1 tvg-logo="https://spoilertown.com/wp-content/uploads/2025/05/mission-impossible-2-2000-768x384.webp" group-title="MISSION IMPOSSIBLE", Mission Impossible II
 https://stream.playcdn.de/playlist/f623055353be419ac06b06c5f15ea851/4/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://spoilertown.com/wp-content/uploads/2025/05/mission-impossible-3-2006-768x384.webp" group-title="SPECIAL MOVIES 3", Mission Impossible III
+#EXTINF:-1 tvg-logo="https://spoilertown.com/wp-content/uploads/2025/05/mission-impossible-3-2006-768x384.webp" group-title="MISSION IMPOSSIBLE", Mission Impossible III
 https://stream.playcdn.de/playlist/67048809329bec3475965daf70ec571d/5/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://spoilertown.com/wp-content/uploads/2025/05/mission-impossible-ghost-protocol-2011-768x384.webp" group-title="SPECIAL MOVIES 3", Mission Impossible - Ghost Protocol
+#EXTINF:-1 tvg-logo="https://spoilertown.com/wp-content/uploads/2025/05/mission-impossible-ghost-protocol-2011-768x384.webp" group-title="MISSION IMPOSSIBLE", Mission Impossible - Ghost Protocol
 https://stream.playcdn.de/playlist/0ce5c2a8d48d30a52a9c65fd1e269fa9/3/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://spoilertown.com/wp-content/uploads/2025/05/mission-impossible-rogue-nation-2015-768x384.webp" group-title="SPECIAL MOVIES 3", Mission Impossible - Rogue Nation
+#EXTINF:-1 tvg-logo="https://spoilertown.com/wp-content/uploads/2025/05/mission-impossible-rogue-nation-2015-768x384.webp" group-title="MISSION IMPOSSIBLE", Mission Impossible - Rogue Nation
 https://stream.playcdn.de/playlist/dfb0ccce24367af5bde97d64880026a3/4/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://spoilertown.com/wp-content/uploads/2025/05/mission-impossible-fallout-2018-768x384.webp" group-title="SPECIAL MOVIES 3", Mission Impossible - Fallout
+#EXTINF:-1 tvg-logo="https://spoilertown.com/wp-content/uploads/2025/05/mission-impossible-fallout-2018-768x384.webp" group-title="MISSION IMPOSSIBLE", Mission Impossible - Fallout
 https://stream.playcdn.de/playlist/2a311a8bc726478aceb70e947fa0b85d/5/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://spoilertown.com/wp-content/uploads/2025/05/mission-impossible-dead-reckoning-part-1-2023-768x384.webp" group-title="SPECIAL MOVIES 3", Mission Impossible - Dead Reckoning Part I
+#EXTINF:-1 tvg-logo="https://spoilertown.com/wp-content/uploads/2025/05/mission-impossible-dead-reckoning-part-1-2023-768x384.webp" group-title="MISSION IMPOSSIBLE", Mission Impossible - Dead Reckoning Part I
 https://stream.playcdn.de/playlist/6c1a816c4366de4a9a340d67fc20dae9/4/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://radarjakarta.id/wp-content/uploads/2025/05/Screenshot_20250519-1852337E3-1.png", group-title="SPECIAL MOVIES 3", Mission Impossible - Final Reckoning
+#EXTINF:-1 tvg-logo="https://radarjakarta.id/wp-content/uploads/2025/05/Screenshot_20250519-1852337E3-1.png", group-title="MISSION IMPOSSIBLE", Mission Impossible - Final Reckoning
 https://stream.playcdn.de/playlist/1ccfedb8729303f7643ea0f08030acc6/4/480.m3u8?x=1
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr6a1nRNjpxLzaaLXJQS3oOTB4GBkN_EhIEVHSdvBfng&s=10" group-title="JAMES BOND", Casino Royale
+https://stream.playcdn.de/playlist/b5ac4254f1aecd3e46463837877dd0f6/5/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.handwrittenkin.com/wp-content/uploads/2021/10/quantum-1.jpg?resize=665%2C374&ssl=1" group-title="JAMES BOND", Quantum of Solace 
+https://stream.playcdn.de/playlist/aaa3824f14c65e02def7884f7393e0a4/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://www.spyculture.com/wp-content/uploads/Skyfall-Review.jpg" group-title="JAMES BOND", Skyfall
+https://stream.playcdn.de/playlist/44e6f5b7912e978450fdb8f37407989c/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://spoilertown.com/wp-content/uploads/2025/08/spectre-2015.webp" group-title="JAMES BOND", Spectre
+https://stream.playcdn.de/playlist/5d85d25f3fb8ffe5bf2920177a59e8f9/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://bleedingcool.com/wp-content/uploads/2020/02/no-time-to-die-1200x900.jpg" group-title="JAMES BOND", No Time to Die 
+https://stream.playcdn.de/playlist/ec983c540ac39950fe10c320408cb285/3/480.m3u8?x=1
+
 #EXTINF:-1 tvg-logo="https://cms.disway.id/uploads/049ce3d834d43cdff139803f9b2d54f6.jpg", group-title="BEST SERIES", Twelve S1E1
 https://stream.playcdn.de/playlist/247ef1bf049645e7e19058d5a928d954/3/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cms.disway.id/uploads/049ce3d834d43cdff139803f9b2d54f6.jpg", group-title="BEST SERIES", Twelve S1E2
@@ -1582,6 +1595,7 @@ https://stream.playcdn.de/playlist/2e95f3629329043bedc24cbcd13da1c0/1/0.m3u8?x=1
 https://stream.playcdn.de/playlist/401260ce4d7bcda8199134d6f1e18bc9/3/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_wp5y7L8-4i_btVZedGo0zykJbmvFH1m2oWQ3HJyc1Q&s=10" group-title="J MOVIES", Demon Slayer: Kimetsu No Yaiba Infinity Castle: Akaza Returns 
 https://stream.playcdn.de/playlist/8dab345a1b7fc29ee141e12d4a1c3885/4/480.m3u8?x=1
+
 #EXTINF:-1 tvg-logo="https://media.vanityfair.com/photos/5f5245d91e10df7a77868af6/master/pass/avatar-the-last-airbender.jpg" group-title="Avatar The Legend of Aang", E1 Book One: Water
 https://stream.dubbindo.site/upload/videos/2021/05/2Gg29igOqAiCaLvXzCCp_08_6b4f08f3522690f4463533805249ca06_video_240p_converted.mp4
 #EXTINF:-1 tvg-logo="https://media.vanityfair.com/photos/5f5245d91e10df7a77868af6/master/pass/avatar-the-last-airbender.jpg" group-title="Avatar The Legend of Aang", E2 Book One: Water
