@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2024/06/26/2423641122.jpeg" group-title="LIMITED MOVIE", Mai
+https://stream.playcdn.de/playlist/5d3e48f88222e90af1c53af913c4c124/4/480.m3u8?x=1
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJOcADWuu8luBlV4R2JbVbA1BuOyjHKcmYl-QyrL8vCA&s" group-title="LIMITED MOVIE",Heartland
 https://stream.dubbindo.site/upload/videos/2026/11/65DF9nnSlwE8zQtulT66_14_99f5bb9489710db1c649a5eb6bf623bc_video_480p_converted.mp4
@@ -851,6 +853,10 @@ https://stream.playcdn.de/playlist/6c1a816c4366de4a9a340d67fc20dae9/4/480.m3u8?x
 #EXTINF:-1 tvg-logo="https://radarjakarta.id/wp-content/uploads/2025/05/Screenshot_20250519-1852337E3-1.png", group-title="MISSION IMPOSSIBLE", Mission Impossible - Final Reckoning
 https://stream.playcdn.de/playlist/1ccfedb8729303f7643ea0f08030acc6/4/480.m3u8?x=1
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFIpXWcKV6B0Xwm9o_--T3xNHMF5o_EkwHwd2Pu_2sYn-HZLT1fMieidU&s=10" group-title="JAMES BOND", Dr. No
+https://stream.playcdn.de/playlist/e65889b4578d7446c08a074b4766a71f/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmsIlsS9ziMBuNPRNwR6he_-EiseM70avH9_KZ9X7rQQ&s=10" group-title="JAMES BOND", From Russia with Love
+https://stream.playcdn.de/playlist/8a67e46b79e80773bcd25cec4e60f2cf/4/480.m3u8?x=1
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr6a1nRNjpxLzaaLXJQS3oOTB4GBkN_EhIEVHSdvBfng&s=10" group-title="JAMES BOND", Casino Royale
 https://stream.playcdn.de/playlist/b5ac4254f1aecd3e46463837877dd0f6/5/480.m3u8?x=1
