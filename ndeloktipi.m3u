@@ -6,6 +6,12 @@
 #EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="LIVE FOR YOU",NBA VIP
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://marketech-apac.com/wp-content/uploads/2025/07/one-championship-relocate-to-thailand.jpg" group-title="LIVE FOR YOU",ONE CHAMPIONSHIP
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/Lz_AGLm13QancA==/0db3dce1-41f0-4900-8fcc-3983ab4d492d/CPwDEJ0COgUxLjEuOQ==" group-title="LIVE FOR YOU", FUBO NETWORK 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fubo_sports_network_1/lg_us/latest/main/hls/playlist.m3u8
@@ -69,6 +75,11 @@ https://filex.me:8443/live/1234567/7654321/302264.ts
 
 #EXTINF:-1 group-title="LIVE TV" tvg-logo="https://statik.tempo.co/data/2023/07/06/id_1217478/1217478_720.jpg", INDOSIAR RE
 http://31.43.191.125:8080/live/restream/restream/34327.ts
+
+#EXTINF:-1 tvg-id="205" tvg-logo="https://static.wikitide.net/avidwiki/thumb/1/14/Indosiar_%282013_-_red%29.png/534px-Indosiar_%282013_-_red%29.png" group-title="LIVE TV",INDOSIAR TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
 
 
 
