@@ -14,6 +14,12 @@ https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fub
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://jmp2.uk/rok-b4273871759a5631bd536d2214f175e5.m3u8
 
+#EXTINF:-1 group-title="LIVE FOR YOU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOaEOUR9G-Vno55ZDNVmLzCPEmr0uaSyfvqRsJBiNnhQ&s=10", M LIVE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://ls-mp02stg.eo-edgefunctions7.com/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
 #EXTINF:-1 group-title="LIVE TV" tvg-logo="https://i.imgur.com/YwTo0oW.png", OH MY CERIA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
