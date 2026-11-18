@@ -54,10 +54,10 @@ http://aflaxtv.xyz:8080/live/F33848/cbd9779b/162138.ts
 #EXTINF:-1 group-title="LIVE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS45xv8MENSqrfyPJGWQuqfQG_AHlGhCisu7gQ78PO3-nkCecuR04W5W3J5&s=10", INDOSIAR HD
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/34327.ts
 
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUZ9xhREnwxLUtKrIgfRDGhzaxWzHBLcF7lJybh6bS0g&s=10", INDOSIAR FHD
+#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUZ9xhREnwxLUtKrIgfRDGhzaxWzHBLcF7lJybh6bS0g&s=10", INDOSIAR FHD
 http://31.43.191.125:8080/live/vip9781785523997/cf645f65dca1/34327.ts
 
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://static.wikitide.net/avidwiki/thumb/5/5d/Indosiar_%282017_-_Lombok_-_B%29.png/393px-Indosiar_%282017_-_Lombok_-_B%29.png",INDOSIAR SD
+#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://static.wikitide.net/avidwiki/thumb/5/5d/Indosiar_%282017_-_Lombok_-_B%29.png/393px-Indosiar_%282017_-_Lombok_-_B%29.png",INDOSIAR SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://filex.me:8443/live/1234567/7654321/302264.ts
 
@@ -504,4 +504,16 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="plex.tv.F1.Channel.plex" tvg-logo="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2022/03/f1-tv-801x447.jpg" group-title="LIVE FOR YOU",F1 TV
 https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd 
 
-<================
+
+
+
+
+
+
+
+
+
+
+
+
+<================>
