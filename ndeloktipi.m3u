@@ -83,14 +83,14 @@ http://31.43.191.125:8080/live/vip9781785523997/cf645f65dca1/34327.ts
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cec4c3c055a7f7e496cbe3abe06ae7c3:6b96bdc30b53ae19d40b4e17c66e5afd
-#EXTINF:-1 tvg-id="LOVE_NATURE" tvg-name="Love Nature" tvg-logo="" group-title="LIVE TV",LOVE NATURE (NITRO)
+#EXTINF:-1 tvg-id="LOVE_NATURE" tvg-name="Love Nature" tvg-logo="https://canvas-lb.tubitv.com/opts/0t23LxpNNeSA2A==/1f43310e-180f-47a8-ab28-e3a43d58fa9c/CPwDEJ0COgUxLjEuOQ==" group-title="LIVE TV",LOVE NATURE
 https://a156aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/utcsjvt6qk/out/v1/8ee87ae683ec4b458720621cb2244937/cenc.mpd?encoding=segmentBase
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c9d9ff22763b83b4ff72001f9ce632c5:b55821341a79541aba79b759cc823be1
-#EXTINF:-1 tvg-id="PBS_NATURE" tvg-name="PBS Nature" tvg-logo="" group-title="LIVE TV",PBS NATURE (NITRO)
+#EXTINF:-1 tvg-id="PBS_NATURE" tvg-name="PBS Nature" tvg-logo="https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Ffbf50c99-ff55-46e0-b97a-c8cd1edf1eeb%2FPBSNature_artwork_horizontal_w_text_RDX.jpg" group-title="LIVE TV",PBS NATURE
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qi23sqygqv/out/v1/cb1c6fe397164335b456dd8a33cb821b/cenc.mpd?encoding=segmentBase
 
  =========================================
@@ -109,7 +109,7 @@ https://proxy-v.rctiplus.id/live/web/universal/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="AXN.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/AXN_2011.png/revision/latest?cb=20201126072546" group-title="VISION (TRIAL)",AXN (Vision+)
+#EXTINF:-1 tvg-id="AXN.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_zWrBhaidBo9Z8VHDo9rATeFDWdYhj5m5qAi3h7hmZw&s=10" group-title="VISION (TRIAL)",AXN (Vision+)
 https://proxy-v.rctiplus.id/live/web/axn/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
