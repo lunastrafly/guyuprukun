@@ -426,6 +426,12 @@ https://stream.playcdn.de/playlist/aacb234ce4cd4493a9d8490babd1ce14/1/0.m3u8?x=1
 https://stream.playcdn.de/playlist/df55b7cc6a4e14f9a1b4823f31568f72/3/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://1.vikiplatform.com/c/37799c/617003b14a.jpg?x=b&a=0x0&s=480x270&e=t&q=g" group-title="CHINESE SPECIAL", Miss Agent
 https://stream.playcdn.de/playlist/d92c2c5621982ffc2737c41e05c5d9de/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://www.denofgeek.com/wp-content/uploads/2023/07/Missing-The-Lucie-Blackman-Case-Netflix-poster-cropped.jpg" group-title="DOCUMENTARY", Missing: The Lucie Blackman Case
+https://stream.playcdn.de/playlist/862b5a983835d7cf02f7469ce0862750/5/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT79aXU41-NUza2rCBSbHmVpuCoBGTXoLnEgum9eEHdbsgKcj5MgiRH_wU&s=10" group-title="DOCUMENTARY", Shipwrecked: Nightmare at Sea
+https://stream.playcdn.de/playlist/23e1aeddcd7a9991eacc4c268fc1a718/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHHBMHVIHTKlvNqnc5oinA4sskonmusdzjJaXhHD1JRg&s=10" group-title="DOCUMENTARY", Capturing the Killer Nurse
+https://stream.playcdn.de/playlist/fb2a13ee0a4d0ed00dc9f7d39c77a92f/4/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-EBdFMU5jJRp9CPWypp8hW4YTCskAXkPs8rJ2fJ4E6oR55TzfXaMDCSp&s=10" group-title="DOCUMENTARY", Cheetahs Up Close with Bertie Gregory
 https://stream.playcdn.de/playlist/2631285efa98fe44e5026219062a1b59/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/D4E10AQFZrSmpwgjuyw/image-shrink_800/B4EZtwNDiFGkAg-/0/1767114029762?e=2147483647&v=beta&t=xwplX5ryMry-v5Gh38sWQvWBFNFqc5jZeLgZI0Su3IE" group-title="DOCUMENTARY", Wild London
@@ -584,7 +590,7 @@ https://stream.dubbindo.site/upload/videos/2022/10/HpSUkP3IbTAXBS6pkGAx_13_4c753
 https://stream.dubbindo.site/upload/videos/2023/04/ycEA8SxcAdbmlxB3PYgU_27_654ce4563e0d0b82233d0f6998388236_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/zwisTJcEs4qECdyluLvn0ErVKxA=/1920x1080/filters:quality(70)/vidio-media-production/uploads/image/source/20820/d4a4aa.png" group-title="SPECIAL MOVIES 2", Jack Reacher 
 https://stream.playcdn.de/playlist/77fee37f16eba55410a3120015eac3d0/3/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/D8cktI0EIzKGdoBt15XAdr2VugU=/1024x576/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4040962/original/061291900_1654200476-Jack_Reacher_-_Thumbnail.jpg" group-title="SPECIAL MOVIES 2", Jack Reacher Never Go Back
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p12102699_v_h10_al.jpg?w=1280&h=720" group-title="SPECIAL MOVIES 2", Jack Reacher Never Go Back
 https://stream.playcdn.de/playlist/12b28084973e9e91a5578a93d2bb4fb8/5/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://mmc.tirto.id/image/otf/398x0/2025/05/14/film-cocote-tonggo_ratio-16x9.jpg" group-title=" 🇮🇩 MOVIES", Cocote Tonggo
 https://stream.dubbindo.site/upload/videos/2025/12/YBWaKopahijNGiVkspFY_22_1be9b14fe14323cba876578e38ec0695_video_720p_converted.mp4
@@ -1490,19 +1496,19 @@ https://stream.playcdn.de/playlist/2ef012c032620dd680b1baeb97d55b4a/1/0.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaLXjjGBLHorNgNaolNSbla_3Pk7fJHcAJ8Ch7qMlA3iGMW1wpmZ2yMbY&s=10" group-title="SPECIAL MOVIES 4", White House Down
 https://stream.playcdn.de/playlist/b17d20302117da241a9d76ec3084a7dd/5/480.m3u8?x=1
 
-#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10715_v_h10_ac.jpg?w=960&h=540" group-title="DVD MOVIES", Above the Law
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p10715_v_h10_ac.jpg?w=960&h=540" group-title="STEVEN SEAGAL", Above the Law
 https://stream.playcdn.de/playlist/99ab84740bf738f8bfdd95fd0bc96f25/5/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkKV0jKSQlGUbOjkoYVJrxcLPKFkB6EDdVx_gX6Rxl9Q&s=10" group-title="DVD MOVIES", Hard to Kill
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkKV0jKSQlGUbOjkoYVJrxcLPKFkB6EDdVx_gX6Rxl9Q&s=10" group-title="STEVEN SEAGAL", Hard to Kill
 https://stream.playcdn.de/playlist/8c797cba0b3f05dc17f09cc5dfe6820e/2/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTucvyd_1wdJXu3x04Pi1uEvhwqrU64pKzpzA6kNWN_yQ&s=10" group-title="DVD MOVIES", Marked for Death
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTucvyd_1wdJXu3x04Pi1uEvhwqrU64pKzpzA6kNWN_yQ&s=10" group-title="STEVEN SEAGAL", Marked for Death
 https://stream.playcdn.de/playlist/132cf250c077f4344063851d009d4cab/2/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKvYQpn8uWZWJCEpYUksOLrKhtDzoclh6wzLu6lpTjwA&s=10" group-title="DVD MOVIES", Out for Justice
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKvYQpn8uWZWJCEpYUksOLrKhtDzoclh6wzLu6lpTjwA&s=10" group-title="STEVEN SEAGAL", Out for Justice
 https://stream.playcdn.de/playlist/fc78792ac3716cc018073f42c85b4ad0/2/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVfjg5yIfs7i6iWlidA8S40zIyMy2WWmzEDAsbQSaAfQ&s=10" group-title="DVD MOVIES", Under Siege
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVfjg5yIfs7i6iWlidA8S40zIyMy2WWmzEDAsbQSaAfQ&s=10" group-title="STEVEN SEAGAL", Under Siege
 https://stream.playcdn.de/playlist/c43d3dd65e2dddd0833a546110891421/5/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQGlU5lTjKVK9Fx4kdd0gfS7PjjB6R7AItBuWEhLmTQ&s" group-title="DVD MOVIES", On Deadly Ground
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQGlU5lTjKVK9Fx4kdd0gfS7PjjB6R7AItBuWEhLmTQ&s" group-title="STEVEN SEAGAL", On Deadly Ground
 https://stream.playcdn.de/playlist/a3e3024e3d1f6fad9166ef4eda2a74c9/4/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyD0GsaNAO4icUSiu6bD6GNc6z224Vn8luwjO2JhqQ1A&s=10" group-title="DVD MOVIES", Under Siege 2: Dark Territory
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyD0GsaNAO4icUSiu6bD6GNc6z224Vn8luwjO2JhqQ1A&s=10" group-title="STEVEN SEAGAL", Under Siege 2: Dark Territory
 https://stream.playcdn.de/playlist/48732b007c8ed732b00a6cd01d4703f9/5/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa0n5nad2Uqoq3uxhQNIHhuoIcvpnoP0rVD0C8fwokQA&s=10" group-title="SPECIAL MOVIES 4", The Incredible Hulk
 https://stream.playcdn.de/playlist/61286a58b69d787096d11ed4c913c7f2/4/816.m3u8?x=1
@@ -1657,6 +1663,44 @@ https://stream.dubbindo.site/upload/videos/2021/05/pQmdZWN2fVwhvBR48z14_25_5da48
 https://stream.dubbindo.site/upload/videos/2021/05/uxRh8IWFgVX9ovE46Ajc_26_89d4a32c1b9c0f37f741fa0d1a42df67_video_240p_converted.mp4
 #EXTINF:-1 tvg-logo="https://media.vanityfair.com/photos/5f5245d91e10df7a77868af6/master/pass/avatar-the-last-airbender.jpg" group-title="Avatar The Legend of Aang", E20 Book One: Water
 https://stream.dubbindo.site/upload/videos/2021/05/GCKpNoa45JXbnR7UtoYQ_27_89d7d49279e85e7182c55ff071559f2a_video_240p_converted.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6ozgNfI856A/hqdefault.jpg" group-title="STEVEN SEAGAL", The Glimmer Man
+https://stream.playcdn.de/playlist/4dc92f6010c9e122954356d14d638e82/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuykp_7nIip3v7YZdjU0xI_o24TJzSJ3JEHh_1Lb1aFGbZyb6hHWcZnJOL&s=10" group-title="STEVEN SEAGAL", Executive Decision
+https://stream.playcdn.de/playlist/49d6c8d4c86d38e02b402b6fd0e961f7/5/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://substackcdn.com/image/fetch/$s_!yhTN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d3505de-2f48-418a-89b7-05d93bf92b47_1920x1080.jpeg" group-title="STEVEN SEAGAL", Fire Down Below
+https://stream.playcdn.de/playlist/d7588873693e59956ee21cf6187c340f/5/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/0076c7244d2aa2650d6df361b28d56f7c5480c4353a855717f8625aa444c3fd3.jpg" group-title="STEVEN SEAGAL", Exit Wounds
+https://stream.playcdn.de/playlist/bebd02fa7f64c2ef43d0c07d4b616781/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/dfcc85eeea0345473670dfb3266027c5b34ee4139cb8d2b010d907a9cfbb0516.jpg" group-title="STEVEN SEAGAL", Out for a Kill
+https://stream.playcdn.de/playlist/eac0c68f05dbbce42b32dca5646aaffd/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEPWgKZXJ2on108VYIOw465E4R0RDs8Dn8wOd3Tk2rcQ&s=10" group-title="STEVEN SEAGAL", Belly of the Beast
+https://stream.playcdn.de/playlist/86aed61b1f44697c50dc4be91d7b0df9/5/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/d96cc247c2a577674ac4569ea7aa8d453954faf936d50d1b153cd157357b6d13.jpg" group-title="STEVEN SEAGAL", Into the Sun
+https://stream.playcdn.de/playlist/ed5f87a579442fb785476b453918713a/5/480.m3u8?x=1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
