@@ -406,7 +406,28 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 tvg-id="fancode1" tvg-logo="https://img-cdn.publive.online/fit-in/640x430/filters:format(webp)/afaqs/media/post_attachments/1d2f7bf2da15f20ffba84b7d2276a2c942f14fd7990b6021d25e8cc7a5e71e42.jpg" group-title="LIVE FOR YOU",FANCODE 1.
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd 
  
------------
+----------
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/b8avz51719570023.png" group-title="LIVE FOR YOU",SKY SPORT PREMIER LEAGUE
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=https 
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6KeIUmP7RVRW2cg-uz_Wn6RMChL-4sgPb-bLxtkrPZQ&s=10" group-title="LIVE FOR YOU",SKY SPORT F1 
+https://bl.rutube.ru/livestream/1fd968ce15629416dbc4e45f2b4fcf11/index.m3u8?s=MrQin7S7T60B0aVtIWktUQ&e=2074182008&scheme=https 
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYswI3rBh-ntGlN2g_QsMUGe8-vHDEY0MixhASXBaN&s=10" group-title="LIVE FOR YOU",SKY SPORTS CRICKET 
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ESeK2qWTROnqUU-EqdtYBw&e=2075227853&scheme=https 
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5krkhb1751606826.png" group-title="LIVE FOR YOU",SKY SPORTS GOLF
+https://bl.rutube.ru/livestream/a7a17d6b994f02a80aebd69435266b58/index.m3u8?s=KZFhCRiUQckRYG9a41JAHw&e=2075227990&scheme=https 
+ 
+#EXTINF:-1 tvg-logo="https://www.britishracecourses.org/wp-content/uploads/Sky-Sports-Racing.jpg" group-title="LIVE FOR YOU",SKY SPORTS RACING
+https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=6bnWD3PZMSkhKk60sdV4sg&e=2075228089&scheme=https 
+ 
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/xpuu7m1767619535.png" group-title="LIVE FOR YOU",SKY SPORT TENNIS
+https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=wGBhgILq0m_ruFoAZOBOBw&e=2074182087&scheme=https
+
+<------------------>
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7dNPfNGB/Tntsports1.png" group-title="LIVE FOR YOU",TNT SPORTS 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
