@@ -55,6 +55,16 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi3J0bkm3oJpM7CnsUi5P2unzee0VpiufK7qoKPq3-PU_VDZpLC3qeaxNz1jHF3yvjKkclG406IEqPYMtCbbqVD1zPgJKQ7O6Rg7_eHrMPq-KsqJ11tP4XNplRq_SCuTtcaSYuGDyxF4zYT6sM1MNWTGoA2HeFeIlWadehCRQfNqHMLEUqpR1sgPv5a=s16000" group-title="LIVE TV",Music Indonesia Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdn.siar.us/
+#EXTVLCOPT:http-origin=https://cdn.siar.us
+https://mic.siar.us/mic/live/mic_480p.m3u8
+
+#EXTINF:-1 tvg-id="DuniaLain.id@SD" group-title="LIVE TV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_dunialain.png",Dunia Lain
+https://cdnjktbpid26.cubmu.com/epyctx01-aaf7e583a80211de0b2b2f9dcbed0bf9/dash/230-Ymlvc2tvcC1pbmRvbmVzaWEtc2N0ZTM1/bioskop-indonesia/live.mpd
+
+
 #EXTINF:-1 group-title="LIVE TV" tvg-logo="https://cdn1-production-images-kly.akamaized.net/rxtD-DPMdGpqPii7T9A49dm2fG8=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3919418/original/077664400_1643598392-tv-one.jpg",TV ONE
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -69,10 +79,51 @@ http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/34327.ts
 #EXTINF:-1 group-title="LIVE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUZ9xhREnwxLUtKrIgfRDGhzaxWzHBLcF7lJybh6bS0g&s=10", INDOSIAR FHD
 http://31.43.191.125:8080/live/vip9781785523997/cf645f65dca1/34327.ts
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cec4c3c055a7f7e496cbe3abe06ae7c3:6b96bdc30b53ae19d40b4e17c66e5afd
+#EXTINF:-1 tvg-id="LOVE_NATURE" tvg-name="Love Nature" tvg-logo="" group-title="LIVE TV",LOVE NATURE (NITRO)
+https://a156aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/utcsjvt6qk/out/v1/8ee87ae683ec4b458720621cb2244937/cenc.mpd?encoding=segmentBase
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c9d9ff22763b83b4ff72001f9ce632c5:b55821341a79541aba79b759cc823be1
+#EXTINF:-1 tvg-id="PBS_NATURE" tvg-name="PBS Nature" tvg-logo="" group-title="LIVE TV",PBS NATURE (NITRO)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qi23sqygqv/out/v1/cb1c6fe397164335b456dd8a33cb821b/cenc.mpd?encoding=segmentBase
 
  =========================================
  
 <====================VISION+=========================>
+
+#EXTINF:-1 tvg-id="tvNMovies.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="VISION (TRIAL)",TvN movies HD (Vision+)
+https://proxy-v.rctiplus.id/live/web/tvnmovies/index.m3u8
+
+#EXTINF:-1 tvg-id="tvNAsia.hk@SD" tvg-logo="https://e7.pngegg.com/pngimages/120/627/png-clipart-south-korea-tvn-television-channel-television-show-fight-miscellaneous-television-thumbnail.png" group-title="VISION (TRIAL)",TVN (Vision+)
+https://proxy-v.rctiplus.id/live/web/tvn/index.m3u8
+
+#EXTINF:-1 tvg-id="StudioUniversal.id" tvg-logo="https://i.imgur.com/484iq4l.jpeg" group-title="VISION (TRIAL)", STUDIO UNIVERSAL (Vision+)
+https://proxy-v.rctiplus.id/live/web/universal/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="AXN.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/AXN_2011.png/revision/latest?cb=20201126072546" group-title="VISION (TRIAL)",AXN (Vision+)
+https://proxy-v.rctiplus.id/live/web/axn/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+
+#EXTINF:-1 group-title="VISION (TRIAL)" tvg-id="Galaxy.id@SD" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/Galaxy_tv_2020.png/revision/latest/scale-to-width-down/1200?cb=20241026110710&path-prefix=id",Galaxy (Vision+)
+https://proxy-v.rctiplus.id/live/web/galaxy/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+
+#EXTINF:-1 group-title="VISION (TRIAL)" tvg-id="GALAXYPremium.id" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/Galaxy_tv_2020.png/revision/latest/scale-to-width-down/1200?cb=20241026110710&path-prefix=id",Galaxy Premium (Vision+)
+https://proxy-v.rctiplus.id/live/web/galaxyprem/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ANTV.id@SD" group-title="VISION (TRIAL)" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
