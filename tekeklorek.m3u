@@ -512,7 +512,7 @@ https://stream.dubbindo.site/upload/videos/2026/07/OKAHmc7Ebfsm5QT8eLrG_15_ec21a
 https://stream.dubbindo.site/upload/videos/2026/01/zIEtGJSSBP5Atft1K1Ks_16_15604a7f8634f7824be312b69253ddba_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2025/07/10/poster-film-sore-istri-dari-masa-depan-1752119004474_43.webp" group-title=" 🇮🇩 MOVIES", SORE
 https://stream.dubbindo.site/upload/videos/2025/11/cyofc1tJUIwTVo9SxbAZ_21_eb7bd1dbb172337e2a401f4e602c163b_video_720p_converted.mp4
-#EXTINF:-1 tvg-logo="https://www.its.ac.id/news/wp-content/uploads/sites/2/2025/05/JUMBO-1.jpeg" group-title="SPECIAL MOVIES", JUMBO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoCzlASlX08JlCIrRRQbKUvjM6-gUEdTVQGPwprO0yiQ&s=10" group-title="SPECIAL MOVIES", JUMBO
 https://stream.dubbindo.site/upload/videos/2025/10/KxwVYjjLbBtpHYXF4r5u_08_7acb17dccb5ef32847c7e44aafcc877c_video_480p_converted.mp4
 #EXTINF:-1 tvg-logo="https://hypeabis.id/assets/content/202412081052491733629969_crop.jpg" group-title=" 🇮🇩 MOVIES", 1 KAKAK 7 PONAKAN
 https://stream.dubbindo.site/upload/videos/2025/07/Aat7RC8xciDh2mABMdMJ_10_bded90973d8fbee3f55223726ce839b3_video_720p_converted.mp4
@@ -1677,6 +1677,13 @@ https://stream.playcdn.de/playlist/eac0c68f05dbbce42b32dca5646aaffd/2/480.m3u8?x
 https://stream.playcdn.de/playlist/86aed61b1f44697c50dc4be91d7b0df9/5/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/d96cc247c2a577674ac4569ea7aa8d453954faf936d50d1b153cd157357b6d13.jpg" group-title="STEVEN SEAGAL", Into the Sun
 https://stream.playcdn.de/playlist/ed5f87a579442fb785476b453918713a/5/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTogqfLE-DvbrPz84cQ4Y_X_UhHO3cKA-5hrahyktS75jvUwJX_H8ummzo&s=10" group-title="SPECIAL MOVIES 2", Godzilla: King of the Monsters
+https://stream.playcdn.de/playlist/9bf6a42aef30c31a5ca944eb925152fa/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDMD6cPfqDaYCLCplJNfCtC1lyyw5KIYUu2w9nRyylVQ&s=10" group-title="SPECIAL MOVIES 2", Godzilla vs. Kong
+https://stream.playcdn.de/playlist/c756ecbb571837e2c8ab36fcd511665d/5/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3a9DAalChrwkVs67SFPgYb-7vq9IR0Pn4pXAa27O0Bg&s=10" group-title="SPECIAL MOVIES 2", Godzilla Minus One
+https://stream.playcdn.de/playlist/93d97e1ede41efaee4cef1f03727a299/4/480.m3u8?x=1
+
 
 
 
