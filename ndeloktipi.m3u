@@ -97,14 +97,8 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qi23sqygqv/
  
 <====================VISION+=========================>
 
-#EXTINF:-1 tvg-id="tvNMovies.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="VISION (TRIAL)",TvN movies HD (Vision+)
-https://proxy-v.rctiplus.id/live/web/tvnmovies/index.m3u8
 
-#EXTINF:-1 tvg-id="tvNAsia.hk@SD" tvg-logo="https://e7.pngegg.com/pngimages/120/627/png-clipart-south-korea-tvn-television-channel-television-show-fight-miscellaneous-television-thumbnail.png" group-title="VISION (TRIAL)",TVN (Vision+)
-https://proxy-v.rctiplus.id/live/web/tvn/index.m3u8
 
-#EXTINF:-1 tvg-id="StudioUniversal.id" tvg-logo="https://i.imgur.com/484iq4l.jpeg" group-title="VISION (TRIAL)", STUDIO UNIVERSAL (Vision+)
-https://proxy-v.rctiplus.id/live/web/universal/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
