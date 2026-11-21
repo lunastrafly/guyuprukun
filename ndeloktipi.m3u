@@ -55,16 +55,6 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi3J0bkm3oJpM7CnsUi5P2unzee0VpiufK7qoKPq3-PU_VDZpLC3qeaxNz1jHF3yvjKkclG406IEqPYMtCbbqVD1zPgJKQ7O6Rg7_eHrMPq-KsqJ11tP4XNplRq_SCuTtcaSYuGDyxF4zYT6sM1MNWTGoA2HeFeIlWadehCRQfNqHMLEUqpR1sgPv5a=s16000" group-title="LIVE TV",Music Indonesia Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cdn.siar.us/
-#EXTVLCOPT:http-origin=https://cdn.siar.us
-https://mic.siar.us/mic/live/mic_480p.m3u8
-
-#EXTINF:-1 tvg-id="DuniaLain.id@SD" group-title="LIVE TV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_dunialain.png",Dunia Lain
-https://cdnjktbpid26.cubmu.com/epyctx01-aaf7e583a80211de0b2b2f9dcbed0bf9/dash/230-Ymlvc2tvcC1pbmRvbmVzaWEtc2N0ZTM1/bioskop-indonesia/live.mpd
-
-
 #EXTINF:-1 group-title="LIVE TV" tvg-logo="https://cdn1-production-images-kly.akamaized.net/rxtD-DPMdGpqPii7T9A49dm2fG8=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3919418/original/077664400_1643598392-tv-one.jpg",TV ONE
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
