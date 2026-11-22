@@ -1,11 +1,11 @@
 #EXTM3U
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTINF:-1 tvg-id="cnn.indonesia" tvg-logo="https://i.imgur.com/o0DSsY1.png" group-title="Indonesia Channels",CNN Indonesia
+#EXTINF:-1 tvg-id="cnn.indonesia" tvg-logo="https://akcdn.detik.net.id/visual/2024/03/07/ilustrasi-logo-cnn-indonesia_169.jpeg?w=1200" group-title="LIVE TV",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTINF:-1 tvg-id="cnbc.indonesia" tvg-logo="https://i.imgur.com/o0DSsY1.png" group-title="Indonesia Channels",CNBC Indonesia (ChannelFeed)
+#EXTINF:-1 tvg-id="cnbc.indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSabbTlypvUtmBvJLhMhRwQNYstH5p4OmMlM1qEalF7bw&s=10" group-title="LIVE TV",CNBC Indonesia (ChannelFeed)
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1242192746_b384000_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
@@ -222,21 +222,24 @@ https://proxy-v.rctiplus.id/live/web/jtv/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/hanacaraka/index.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-id="tvNAsia.hk@SD" tvg-logo="https://e7.pngegg.com/pngimages/120/627/png-clipart-south-korea-tvn-television-channel-television-show-fight-miscellaneous-television-thumbnail.png" group-title="VISION (TRIAL)",TVN (Vision+)
 https://proxy-v.rctiplus.id/live/web/tvn/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-
 #EXTINF:-1 tvg-id="tvNMovies.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="VISION (TRIAL)",TvN movies HD
 https://proxy-v.rctiplus.id/live/web/tvnmovies/index.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-id="StudioUniversal.id" tvg-logo="https://i.imgur.com/484iq4l.jpeg" group-title="VISION (TRIAL)", STUDIO UNIVERSAL 
 https://proxy-v.rctiplus.id/live/web/universal/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-id="BBCEarth.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Sony_BBC_Earth.png" group-title="VISION (TRIAL)",BBC Earth (Vision+)
+#EXTINF:-1 tvg-id="BBCEarth.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpFH6EbTps8k9HVhH53N1g8cHJybe4ml0n2inU9Tn2Kw&s=10" group-title="VISION (TRIAL)",BBC Earth (Vision+)
 https://proxy-v.rctiplus.id/live/web/bbcearth/index.m3u8
 
 
