@@ -112,7 +112,7 @@ https://proxy-v.rctiplus.id/live/web/thrill/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/zeebioskop/index.m3u8
 
-#EXTINF:-1 tvg-id="OKTV.id@SD" group-title="VISION (TRIAL)" tvg-logo="https://www.visionplus.id/images/repository/534/172534-LOGO-m.png",Food Travel
+#EXTINF:-1 tvg-id="OKTV.id@SD" group-title="VISION (TRIAL)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb6SAkb1Na6lgDolb6o5CtoPvdGL-6Xri_uV7Xums5-A&s=10",Food Travel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/foodtravel/index.m3u8
@@ -155,7 +155,7 @@ https://proxy-v.rctiplus.id/live/web/galaxy/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 
-#EXTINF:-1 group-title="VISION (TRIAL)" tvg-id="GALAXYPremium.id" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/Galaxy_tv_2020.png/revision/latest/scale-to-width-down/1200?cb=20241026110710&path-prefix=id",Galaxy Premium (Vision+)
+#EXTINF:-1 group-title="VISION (TRIAL)" tvg-id="GALAXYPremium.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStAFGKmYmvnA1kXpAoT3cH4r0fN9d36BUA8EUrz7dT5SPqkpp9vw5bQw-h&s=10",Galaxy Premium (Vision+)
 https://proxy-v.rctiplus.id/live/web/galaxyprem/index.m3u8
 
 #EXTINF:-1 tvg-id="iNews.id@SD" group-title="VISION (TRIAL)" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_inews.png",iNews
@@ -260,13 +260,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951203/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 tvg-id="Foxsports1.us" group-title="LIVE FOR YOU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEpa9FwjMskBPIrhsH5OgTN9xfvyKqqFDsX07yt8vaOg&s=10",FS 1 
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"CUU86CDWX7xnXeMYX55FTA","k":"mM/5YAmV+jgcdv2s88ftrg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Foxsports2.us" group-title="LIVE FOR YOU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ11HObx6n9zhE87BQnOdzmPA1Iut_EJ8n2lHXTLCJpgcmATCnS1_2pPXwh&s=10",FS 2
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7ymwX6Z3AOeTC3P1iCrppLcTnnEWSUy4U-S4zHyEaP1MqvsBlVFWV-VU&s=10" group-title="LIVE FOR YOU",HBO BOXING
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
