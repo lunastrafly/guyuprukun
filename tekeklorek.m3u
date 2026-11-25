@@ -219,7 +219,7 @@ https://stream.dubbindo.site/upload/videos/2026/09/QFNaG5RGRLhKoxssfTe8_06_9564b
 https://stream.dubbindo.site/upload/videos/2026/09/8fajGAarXSj9nizJGRQd_06_04273bc4979b168b2d7744b7e23d0b76_video_480p_converted.mp4
 #EXTINF:-1 tvg-logo="https://venkatarangan.com/wp-content/uploads/2011/06/Up-2009-1.jpg" group-title="PIXAR MOVIES", UP  - 
 https://stream.dubbindo.site/upload/videos/2026/04/nWLtYVnGi76JKmyGDSS9_30_0d91431e3f95713c2f9de869339c74dc_video_720p_converted.mp4
-#EXTINF:-1 tvg-logo="https://i0.wp.com/manapop.com/wp-content/uploads/2021/07/AAAABb99jKH8hu2cUhx1UoT-LCVWKj1Dv1m7UupNDXNvxHqQIosiuy1KouabMP2BRgL_0N0mwevyEsG78iV1nayP_xztphkcvRdXOJgMfnFmp7NlokWTmT1ObL5vjToKXae0nnAKo7uX6Q.jpg?w=341&ssl=1" group-title="SPECIAL MOVIES", Journey to the Center of the Earth - 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/manapop.com/wp-content/uploads/2021/07/AAAABb99jKH8hu2cUhx1UoT-LCVWKj1Dv1m7UupNDXNvxHqQIosiuy1KouabMP2BRgL_0N0mwevyEsG78iV1nayP_xztphkcvRdXOJgMfnFmp7NlokWTmT1ObL5vjToKXae0nnAKo7uX6Q.jpg?w=341&ssl=1" group-title="SPECIAL MOVIES", Journey to the Center of the Earth
 https://stream.dubbindo.site/upload/videos/2023/06/pB2VLeoZHpzLZ14hD3ot_01_bfed3f222f42ff6c157ef266c32662f0_video_480p_converted.mp4
 #EXTINF:-1 tvg-logo="https://cdn-culturevulture.b-cdn.net/wp-content/uploads/2012/02/Journey-2-poster.jpg" group-title="SPECIAL MOVIES", Journey 2: The Mysterious Island - 
 https://stream.dubbindo.site/upload/videos/2023/05/WYLErFqMRCShwYd752Kv_31_8ec599986d3176099a07357fb05f447d_video_720p_converted.mp4
@@ -1685,16 +1685,28 @@ https://stream.playcdn.de/playlist/9bf6a42aef30c31a5ca944eb925152fa/3/480.m3u8?x
 https://stream.playcdn.de/playlist/c756ecbb571837e2c8ab36fcd511665d/5/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3a9DAalChrwkVs67SFPgYb-7vq9IR0Pn4pXAa27O0Bg&s=10" group-title="SPECIAL MOVIES 2", Godzilla Minus One
 https://stream.playcdn.de/playlist/93d97e1ede41efaee4cef1f03727a299/4/480.m3u8?x=1
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p21813499_v_h8_ae.jpg?w=960&h=540" group-title="❤️REQUESTED MOVIES❤", A Man Called Otto 
+https://stream.playcdn.de/playlist/3025b45fb9cc823fba500b04397f9207/5/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCfn7i2J0CqeIKLctbdB-gQhBnwBUSvuBrJ94c7RmX9w&s=10" group-title="FAMILY", Shaun the Sheep Movie
+https://stream.playcdn.de/playlist/4465ea4f0ffe43e31428a90c5d259bc9/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2LH7Fcu4RgzDilRy6l6QiRfrxYKG5WdgiFWQCvzdRV3vrGyb5v1WdhiY&s=10" group-title="FAMILY", A Shaun the Sheep Movie: Farmageddon
+https://stream.playcdn.de/playlist/cb6e42ec0a45d9258a623bcbfea3bbd5/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmH6sm_nCONTzggcTvS1jygTHw7A1cUPpicsSxXqQn6A&s=10" group-title="FAMILY",Shaun the Sheep: The Flight Before Christmas
+https://stream.playcdn.de/playlist/69114892af8c350c3832c2c08d55d077/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL-4ULcNFMk22KyOAAM9nzJI0SS4TGVcbD2i0_t7FGVA&s=10" group-title="FAMILY",Shaun the Sheep: The Beast of Mossy Bottom
+https://stream.playcdn.de/playlist/cb496dad261858101d9af644736e0e83/1/0.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx2v9MTIejUU8PsXdGGrVlEyIk335yxSNcXsRcVELdng&s=10" group-title="FAMILY",Swapped
+https://stream.playcdn.de/playlist/88d28ab313f07ab9275a8f4291a32cdd/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzs7RcLbNJG08MoQMzsQQyqongm9EQ8FHuq_fMFW-YPg&s" group-title="FAMILY",Steps
+https://stream.playcdn.de/playlist/5aa5c609192111daa892b4ea10b6a09b/1/0.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://cloudimages2.broadwayworld.com/columnpiccloud/STORM-ON-SESAME-STREET-Special-Now-Streaming-on-Netflix-1786020060.jpg?format=jpeg&quality=80&width=1200" group-title="FAMILY",Storm on Sesame Street
+https://stream.playcdn.de/playlist/2c1e4b679c0f94babb8f8c7bb1ed9d7a/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi4Kk-sKwavettYZ2pPcZGelz3ccC2VfDxW3dhRsRVWA&s=10" group-title="FAMILY",The Bad Guys
+https://stream.playcdn.de/playlist/cf0365cf4e91f15b0ec8978618551ca0/5/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://www.maomaohype.com/wp-content/uploads/2025/08/The-Bad-Guys-2-950x534.webp" group-title="FAMILY",The Bad Guys 2
+https://stream.playcdn.de/playlist/ada4160b08f308c41e0134e41ebc7560/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLlwJ5wMYn3zWyWHhMVMMQsAlBpBYm00vVQ5_UDkOvEcQ-Ot1jlFwoh4&s=10" group-title="SPECIAL MOVIES", Saving Bikini Bottom: The Sandy Cheeks Movie
+https://stream.dubbindo.site/upload/videos/2024/08/QqlhbHDeoJoYTJoQa4TL_03_0a55aead99ec1c51b68f4f12b2e03386_video_480p_converted.mp4
 
 
 
