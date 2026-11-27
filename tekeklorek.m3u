@@ -1,10 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2024/06/26/2423641122.jpeg" group-title="LIMITED MOVIE", Mai
-https://stream.playcdn.de/playlist/5d3e48f88222e90af1c53af913c4c124/4/480.m3u8?x=1
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmbYlEc_iya8TjeSiVs9zghkt1W3AWUV7BBswmBVRfOx0fByWOJYFjX7hL&s=10" group-title="LIMITED MOVIE", Anaconda
-https://stream.dubbindo.site/upload/videos/2026/11/h1Ma6UBMfERVYk3wqYty_24_e692a269fb4aae2495e3037d6caea89b_video_480p_converted.mp4
 
 #EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/visual/2026/04/20/film-indonesia-402-rumah-sakit-angker-korea-2026-1776644708101_169.png?w=1200" group-title="LIMITED MOVIE",402 Rumah Sakit Angker Korea
 https://stream.dubbindo.site/upload/videos/2026/11/PBeuG4y29yn5MMBezMa1_15_d3581c7db9b031d3c702ca2d6592151e_video_360p_converted.mp4
@@ -1730,6 +1725,11 @@ https://stream.playcdn.de/playlist/2ca3f79810476744d6c6c30e569d0153/3/480.m3u8?x
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaAqSEUYyoJduzGf_cu1g5AwgNIMKqoR53RUs2GpA-sQ&s=10" group-title="SPECIAL MOVIES 2", Interstellar
 https://stream.playcdn.de/playlist/df55b7cc6a4e14f9a1b4823f31568f72/3/480.m3u8?x=1
 
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2024/06/26/2423641122.jpeg" group-title="SPECIAL MOVIES 4", Mai
+https://stream.playcdn.de/playlist/5d3e48f88222e90af1c53af913c4c124/4/480.m3u8?x=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmbYlEc_iya8TjeSiVs9zghkt1W3AWUV7BBswmBVRfOx0fByWOJYFjX7hL&s=10" group-title="SPECIAL MOVIES", Anaconda
+https://stream.dubbindo.site/upload/videos/2026/11/h1Ma6UBMfERVYk3wqYty_24_e692a269fb4aae2495e3037d6caea89b_video_480p_converted.mp4
 
 
 
