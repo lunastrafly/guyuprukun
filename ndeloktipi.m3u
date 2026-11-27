@@ -61,11 +61,6 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 
-#EXTINF:-1, INEWS tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY-r7S0laiqtShWOQQrY67mjKgmEE4GkN-WiCwEa5qfw&s=10" group-title="LIVE TV"
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
-http://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-
 #EXTINF:-1 tvg-id="CNNIndonesia.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuHC_YXx-RZyoyyOc9R6FVmYTmWVf2qmwxHwzDJ-Z9mQ&s=10" group-title="LIVE TV",CNN Indonesia (ChannelFeed)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -88,13 +83,13 @@ https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng
 https://hgmtv.com:19360/garudatvlivestreaming/480p.m3u8
 
 
-#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqyo-SwOYOUAD8LK8XljiC9e3Ctpurh21U7sh7hwU6WA&s=10", INDOSIAR FLX
+#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://png.pngtree.com/png-vector/20240627/ourmid/pngtree-live-stream-banner-symbol-label-icon-with-play-button-for-broadcasting-vector-png-image_12822524.png", TEST 1
 http://aflaxtv.xyz:8080/live/F33848/cbd9779b/162138.ts
 
-#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS45xv8MENSqrfyPJGWQuqfQG_AHlGhCisu7gQ78PO3-nkCecuR04W5W3J5&s=10", INDOSIAR HD
+#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://png.pngtree.com/png-vector/20240627/ourmid/pngtree-live-stream-banner-symbol-label-icon-with-play-button-for-broadcasting-vector-png-image_12822524.png", TEST 2
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/34327.ts
 
-#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUZ9xhREnwxLUtKrIgfRDGhzaxWzHBLcF7lJybh6bS0g&s=10", INDOSIAR FHD
+#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://png.pngtree.com/png-vector/20240627/ourmid/pngtree-live-stream-banner-symbol-label-icon-with-play-button-for-broadcasting-vector-png-image_12822524.png", TEST 3
 http://31.43.191.125:8080/live/vip9781785523997/cf645f65dca1/34327.ts
 
 #KODIPROP:inputstream=inputstream.adaptive
