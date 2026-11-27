@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://thecollision.org/wp-content/uploads/2023/12/migration.png" group-title="LIMITED MOVIE", Migration
+https://stream.playcdn.de/playlist/7da8f136ee607fd6323e86b15ea5afe9/4/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://akcdn.detik.net.id/visual/2026/04/20/film-indonesia-402-rumah-sakit-angker-korea-2026-1776644708101_169.png?w=1200" group-title="LIMITED MOVIE",402 Rumah Sakit Angker Korea
 https://stream.dubbindo.site/upload/videos/2026/11/PBeuG4y29yn5MMBezMa1_15_d3581c7db9b031d3c702ca2d6592151e_video_360p_converted.mp4
 
