@@ -682,7 +682,7 @@ https://stream.playcdn.de/playlist/b6699e85e300914f9bff827796dfeb8a/5/480.m3u8?x
 https://stream.playcdn.de/playlist/e674cf0d7385d033ce9070d39793bb16/5/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://sobrosnetwork.com/wp-content/uploads/2023/10/106760789_the-twilight-saga-eclipse-27-x-40-movie-poster-i-ebay.jpg" group-title="SPECIAL MOVIES 3", The Twilight Saga Eclipse
 https://stream.playcdn.de/playlist/20b584f906d71370d9b134ae95c6e77f/5/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://wallpapercave.com/mwp/wp1851117.jpg" group-title="HORROR AND THRILLER", The Conjuring
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ16Vl7OST46tmkzenbQ6OrVB323Dq4S0zSK7CtEs7UuefGI9WxoT418Xc&s=10" group-title="HORROR AND THRILLER", The Conjuring
 https://stream.playcdn.de/playlist/6478ad105166073fc11ffc21a6262cdb/3/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://cinemags.org/wp-content/uploads/2021/05/unnamed-2.jpg" group-title="HORROR AND THRILLER", The Conjuring 2
 https://stream.playcdn.de/playlist/fd285a7cd682e4873e21b1e1d3cfbc72/3/480.m3u8?x=1
@@ -1721,12 +1721,14 @@ https://stream.playcdn.de/playlist/2b09e4502520c1cfffc3224bc4fd5341/4/480.m3u8?x
 https://stream.playcdn.de/playlist/cc4c479852f45d277d15f745b2a4fe87/5/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqNs-TITm5IoCx7BPwmbw_Pi-bzDLcJ8oasBOPA7hNXQ&s" group-title="FAMILY",Doraemon the Movie: Nobita's Art World Tales
 https://stream.playcdn.de/playlist/a244dda58f66bbe86d4f85c3d9e09125/4/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://bisnismuda.id/assets/content/20210129150450000000atmerrakerror.jpg" group-title="SPECIAL MOVIES 3", ATM - Er Rak Error
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTovhzHtyEBNPP7BVQRo0JsgypS1UakdZNwmksikGd0i9_43Cv7hw1_uniF&s=10" group-title="SPECIAL MOVIES 4", Avatar
+https://stream.playcdn.de/playlist/636153284f32406e06e29a58f5844f3a/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ15yHjzsUchdb8Xy6TQ7nkJsF7uQ3u4VMEW0Opc_QNBg&s=10" group-title="SPECIAL MOVIES 4", Avatar: The Way of Water
+https://stream.playcdn.de/playlist/55283b5b9f4fe1b0d111d9cb9dad389b/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ15yHjzsUchdb8Xy6TQ7nkJsF7uQ3u4VMEW0Opc_QNBg&s=10" group-title="SPECIAL MOVIES 4", Avatar: Fire and Ash
+https://stream.playcdn.de/playlist/2ca3f79810476744d6c6c30e569d0153/3/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaAqSEUYyoJduzGf_cu1g5AwgNIMKqoR53RUs2GpA-sQ&s=10" group-title="SPECIAL MOVIES 2", Interstellar
+https://stream.playcdn.de/playlist/df55b7cc6a4e14f9a1b4823f31568f72/3/480.m3u8?x=1
 
 
 
