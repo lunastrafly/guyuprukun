@@ -1307,8 +1307,10 @@ https://stream.dubbindo.site/uvideoweb/movie/The.SpongeBob.Movie.Sponge.on.the.R
 https://stream.dubbindo.site/upload/videos/2022/05/Brave2012Dubbing_20_AF1QipPf6OHYLlyjj91jYcubqzaXEydVU0_video_720p_converted.mp4
 #EXTINF:-1 tvg-logo="https://www.iq.com/wiki/_next/image?url=https%3A%2F%2Fpic0.iqiyipic.com%2Fimage%2F20260826%2F69%2F77%2Fv_209140648_m_600_en_440_608.webp&w=384&q=75" group-title="SPECIAL MOVIES 3", The Eight Kings: Dragon Heist
 https://stream.playcdn.de/playlist/35732511b22faf9419eec900df82ff62/1/0.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://i.mydramalist.com/kEwpgf.jpg" group-title="HORROR AND THRILLER", Who in the Pool - Kong bu you yong guan
-https://stream.playcdn.de/playlist/c51068147520d2c626b3d6942d783b6a/2/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/f95c7caa5a871fab53b3aebb979ba2ff23daa4ff1959fcf8f4947361388db9d6._UR1920,1080_SX624_FMjpg_.jpg" group-title="HORROR AND THRILLER", M3GAN
+https://stream.playcdn.de/playlist/b4bb31dd9e0872d9301c9c72b752c24c/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thefutureoftheforce.com&client=VFE&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2" group-title="HORROR AND THRILLER", M3GAN 2.0
+https://stream.playcdn.de/playlist/f26f762f482e5da7bd09b0b2a092d1b8/4/804.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2016/10/operation-mekong.jpg?w=1000&h=666&crop=1&resize=681%2C454" group-title="SPECIAL MOVIES 3", Operation Mekong
 https://stream.playcdn.de/playlist/fd7e9da1591740214dbeb639d7e2f9f1/2/480.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://miro.medium.com/v2/resize:fit:1374/format:webp/1*-RW8IcWyPS-iLHEPnedTQg@2x.jpeg" group-title="HORROR AND THRILLER", About a Place in the Kinki Region
