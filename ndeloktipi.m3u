@@ -100,13 +100,13 @@ https://live.cnnindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 https://hgmtv.com:19360/garudatvlivestreaming/480p.m3u8
 
 
-#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://png.pngtree.com/png-vector/20240627/ourmid/pngtree-live-stream-banner-symbol-label-icon-with-play-button-for-broadcasting-vector-png-image_12822524.png", TEST 1
+#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRd4opOfYgGaynTUFp4YlsQAitzPYkFnISDGACI8uJBL61_bDHvkBkUmg&s=10", TEST 1
 http://aflaxtv.xyz:8080/live/F33848/cbd9779b/162138.ts
 
-#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://png.pngtree.com/png-vector/20240627/ourmid/pngtree-live-stream-banner-symbol-label-icon-with-play-button-for-broadcasting-vector-png-image_12822524.png", TEST 2
+#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRd4opOfYgGaynTUFp4YlsQAitzPYkFnISDGACI8uJBL61_bDHvkBkUmg&s=10", TEST 2
 http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/34327.ts
 
-#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://png.pngtree.com/png-vector/20240627/ourmid/pngtree-live-stream-banner-symbol-label-icon-with-play-button-for-broadcasting-vector-png-image_12822524.png", TEST 3
+#EXTINF:-1 group-title="LIVE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRd4opOfYgGaynTUFp4YlsQAitzPYkFnISDGACI8uJBL61_bDHvkBkUmg&s=10", TEST 3
 http://31.43.191.125:8080/live/vip9781785523997/cf645f65dca1/34327.ts
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -157,10 +157,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 #EXTINF:-1 tvg-uid="b06d5186c9a546c7a36eaf8c143548e7" data-source="VietnamCH" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png",MUTV
 #EXTGRP:LIVE FOR YOU
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312824&extension=ts&play_token=3ouilCRXf9
-
-#EXTINF:-1 group-title="LIVE FOR YOU" tvg-logo="https://img.dge-prod.dicelaboratory.com/thumbnails/237284/919x517/latest.jpg",Real Madrid TV
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de 
