@@ -1309,7 +1309,7 @@ https://stream.dubbindo.site/upload/videos/2022/05/Brave2012Dubbing_20_AF1QipPf6
 https://stream.playcdn.de/playlist/35732511b22faf9419eec900df82ff62/1/0.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/f95c7caa5a871fab53b3aebb979ba2ff23daa4ff1959fcf8f4947361388db9d6._UR1920,1080_SX624_FMjpg_.jpg" group-title="HORROR AND THRILLER", M3GAN
 https://stream.playcdn.de/playlist/b4bb31dd9e0872d9301c9c72b752c24c/4/480.m3u8?x=1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thefutureoftheforce.com&client=VFE&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2" group-title="HORROR AND THRILLER", M3GAN 2.0
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxdEWGSloa4uLs64NF0Avm6fv7bcPjA5HkOQj5qV5S7jqJEKLBHsYPMXg&s=10" group-title="HORROR AND THRILLER", M3GAN 2.0
 https://stream.playcdn.de/playlist/f26f762f482e5da7bd09b0b2a092d1b8/4/804.m3u8?x=1
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2016/10/operation-mekong.jpg?w=1000&h=666&crop=1&resize=681%2C454" group-title="SPECIAL MOVIES 3", Operation Mekong
 https://stream.playcdn.de/playlist/fd7e9da1591740214dbeb639d7e2f9f1/2/480.m3u8?x=1
@@ -1735,6 +1735,15 @@ https://stream.playcdn.de/playlist/5d3e48f88222e90af1c53af913c4c124/4/480.m3u8?x
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmbYlEc_iya8TjeSiVs9zghkt1W3AWUV7BBswmBVRfOx0fByWOJYFjX7hL&s=10" group-title="SPECIAL MOVIES", Anaconda
 https://stream.dubbindo.site/upload/videos/2026/11/h1Ma6UBMfERVYk3wqYty_24_e692a269fb4aae2495e3037d6caea89b_video_480p_converted.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEBoSLWiUUDzEJaqVh3qrih_fRHT8dWsy8il9oeYycPQ&s=10" group-title="HORROR AND THRILLER", Mayhem! 
+https://stream.playcdn.de/playlist/418712e8f58598acbde9241a4713dd5c/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAIjp9DIQX-uXS7CzJcJahiGUctdgbahuVVJiAD9Uq-w&s=10" group-title="HORROR AND THRILLER", Los Habitantes
+https://stream.playcdn.de/playlist/c3c7acc8a48d4dc7a3fe145250415b66/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUCpVLyendJt7-qfoCjdyIWzKf1gDS_SaawBbXzkuuVm-RHs3-O-MxO0sJ&s=10" group-title="HORROR AND THRILLER", The Rental
+https://stream.playcdn.de/playlist/e40ca688be6133adf0d56a65c5670549/4/480.m3u8?x=1
+#EXTINF:-1 tvg-logo="https://ntvb.tmsimg.com/assets/p33488885_v_h8_aa.jpg?w=960&h=540" group-title="HORROR AND THRILLER", The Devil's Mouth
+https://stream.playcdn.de/playlist/681a2ce7f59f23b412aa72f159c68e6d/2/480.m3u8?x=1
+
 
 
 
